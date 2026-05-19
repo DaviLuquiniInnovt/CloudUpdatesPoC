@@ -1,0 +1,15 @@
+{
+  "Id": "560039",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Observability in AKS Namespace and Workload Views",
+  "Summary": "AKS now surfaces observability data powered by Azure Monitor managed service for Prometheus directly within Namespace and Workload views, making it easier to:Monitor cluster and workload healthTroubleshoot pending or failed podsAnalyze resource utilizatio",
+  "Url": "https://azure.microsoft.com/updates?id=560039",
+  "PublishedAt": "2026-04-08T17:30:02Z",
+  "Categories": [
+    "Launched",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Features"
+  ]
+}

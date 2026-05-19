@@ -1,0 +1,14 @@
+{
+  "Id": "561002",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service ",
+  "Summary": "Foundry\nAgent Service now supports bring\u2011your\u2011own\u2011model\nscenarios, allowing agents to use AI models deployed and managed outside of\nFoundry, including models hosted behind enterprise AI gateways such as Azure\nAPI Management. This enables organizations to ",
+  "Url": "https://azure.microsoft.com/updates?id=561002",
+  "PublishedAt": "2026-04-27T18:00:52Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features"
+  ]
+}

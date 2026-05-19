@@ -1,0 +1,11 @@
+{
+  "Id": "966432da765df2bb9fdc88fd17c248abe4bdaf4e",
+  "Provider": "AWS",
+  "Title": "AWS Security Agent now supports full repository code reviews",
+  "Summary": "\u003Cp\u003EToday, AWS \u003Ca href=\u0022https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/\u0022\u003Eannounces the release of full repository code review\u003C/a\u003E, a new capability in AWS Security Agent that performs deep, context-aware security analysis of your entire codebase. Unlike traditional static analysis tools that match code against known vulnerability patterns, full repository code review reasons about your application\u0027s architecture, trust boundaries, and data flows to surface systemic vulnerabilities that pattern-matching tools miss. When vulnerabilities are found, the scanner generates code remediation, specific fixes tied to the exact file and line, so teams can identify and remediate security vulnerabilities faster than ever before. This capability is available at no additional charge for existing AWS Security Agent customers during the preview.\u003C/p\u003E \n\u003Cp\u003EAI-driven cybersecurity capabilities are advancing rapidly. AWS Security Agent can find vulnerabilities and build working exploits at a scale and speed we haven\u0027t seen before. AWS is prioritizing free early access for customers, giving defenders the opportunity to strengthen their codebases and share what they learn so the whole industry can benefit.\u003C/p\u003E \n\u003Cp\u003EFull repository code review is available in in all AWS Regions where AWS Security Agent is available.\u003C/p\u003E \n\u003Cp\u003ETo get started, visit the \u003Ca href=\u0022https://console.aws.amazon.com/securityagent/\u0022\u003EAWS Security Agent console\u003C/a\u003E to enable full repository code review and run your first review. To learn more, see the \u003Ca href=\u0022https://docs.aws.amazon.com/securityagent/latest/userguide/quickstart-code-review.html\u0022\u003EAWS Security Agent documentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/",
+  "PublishedAt": "2026-05-12T17:37:00Z",
+  "Categories": [
+    null
+  ]
+}

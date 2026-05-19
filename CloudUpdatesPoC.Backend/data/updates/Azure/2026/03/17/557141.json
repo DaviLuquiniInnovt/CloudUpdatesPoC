@@ -1,0 +1,14 @@
+{
+  "Id": "557141",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Foundry Agent Service",
+  "Summary": "Announcing general availability (GA) of the next-gen Foundry Agent Service\u2014a redesigned API format and runtime experience designed to help teams build and operate agents that can move from prototype to production with confidence. This GA moment is anchore",
+  "Url": "https://azure.microsoft.com/updates?id=557141",
+  "PublishedAt": "2026-03-17T17:45:45Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features"
+  ]
+}

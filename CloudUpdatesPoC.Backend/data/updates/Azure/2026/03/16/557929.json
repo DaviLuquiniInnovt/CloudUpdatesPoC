@@ -1,0 +1,14 @@
+{
+  "Id": "557929",
+  "Provider": "Azure",
+  "Title": "Retirement: Flatcar Container Linux for AKS (preview) ",
+  "Summary": "Azure Kubernetes\nService support for Flatcar Container Linux for AKS (preview) will be retired\non June 8, 2026, transition to a supported alternative by that date. From now to June 7, 2026, you can continue to use Flatcar Container Linux for AKS (preview)",
+  "Url": "https://azure.microsoft.com/updates?id=557929",
+  "PublishedAt": "2026-03-16T18:15:54Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Retirements"
+  ]
+}

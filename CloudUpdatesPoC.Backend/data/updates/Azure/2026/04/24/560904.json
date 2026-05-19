@@ -1,0 +1,14 @@
+{
+  "Id": "560904",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Backup for Elastic SAN ",
+  "Summary": "Azure Backup now supports Elastic SAN, offering a fully\nmanaged solution for backing up and restoring Elastic SAN volumes. This\nintegration helps protect data against accidental deletions, ransomware\nattacks, and application updates by exporting Elastic S",
+  "Url": "https://azure.microsoft.com/updates?id=560904",
+  "PublishedAt": "2026-04-24T18:30:50Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

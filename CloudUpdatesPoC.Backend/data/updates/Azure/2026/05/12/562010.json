@@ -1,0 +1,17 @@
+{
+  "Id": "562010",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Virtual Network Manager rule impact analyzer ",
+  "Summary": "Azure Virtual Network Manager rule impact\nanalyzer is now generally available, empowering you\nto simulate the impact of your security admin rules on your virtual\nnetworks before deploying your rules. With this capability, you\ncan simulate the effects of y",
+  "Url": "https://azure.microsoft.com/updates?id=562010",
+  "PublishedAt": "2026-05-12T17:30:34Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Azure Virtual Network Manager",
+    "Features",
+    "Management",
+    "Security",
+    "Services"
+  ]
+}

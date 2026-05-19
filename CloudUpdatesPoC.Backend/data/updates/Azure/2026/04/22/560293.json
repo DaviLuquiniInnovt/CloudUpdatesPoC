@@ -1,0 +1,17 @@
+{
+  "Id": "560293",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric ",
+  "Summary": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so ri",
+  "Url": "https://azure.microsoft.com/updates?id=560293",
+  "PublishedAt": "2026-04-22T17:30:14Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Analytics",
+    "Azure Database for PostgreSQL",
+    "Microsoft Fabric",
+    "Features"
+  ]
+}

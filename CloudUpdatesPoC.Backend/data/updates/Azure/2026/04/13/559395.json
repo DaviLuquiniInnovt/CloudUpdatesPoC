@@ -1,0 +1,14 @@
+{
+  "Id": "559395",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Managed Grafana Essential SKU will retire on March 30, 2027",
+  "Summary": "Azure Managed Grafana Essential SKU will be retired on March 30, 2027.Customers using the Essential SKU are encouraged to transition to Azure Managed Grafana Standard SKU or Azure Monitor Dashboards with Grafana before the retirement date to avoid service",
+  "Url": "https://azure.microsoft.com/updates?id=559395",
+  "PublishedAt": "2026-04-13T17:15:23Z",
+  "Categories": [
+    "DevOps",
+    "Management and governance",
+    "Azure Managed Grafana",
+    "Retirements"
+  ]
+}

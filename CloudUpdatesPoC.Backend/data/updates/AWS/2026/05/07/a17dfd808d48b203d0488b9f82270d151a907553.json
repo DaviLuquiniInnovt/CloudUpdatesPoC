@@ -1,0 +1,11 @@
+{
+  "Id": "a17dfd808d48b203d0488b9f82270d151a907553",
+  "Provider": "AWS",
+  "Title": "AWS Resource Explorer is now available in AWS GovCloud (US-East) and (US-West)",
+  "Summary": "\u003Cp\u003EWe are pleased to announce that AWS Resource Explorer, a managed capability that simplifies the search and discovery of resources, is now available in the AWS GovCloud Regions (US-East) and (US-West).\u003C/p\u003E \n\u003Cp\u003EYou can search for your AWS resources either using the AWS Resource Explorer console, the AWS Command Line Interface (AWS CLI), the AWS SDKs, or the unified search bar from wherever you are in the AWS Management Console. From the search results displayed in the console, you can go to your resource\u2019s service console and Region with a single step, and take action.\u003C/p\u003E \n\u003Cp\u003ETo turn on AWS Resource Explorer, visit the\u0026nbsp;\u003Ca href=\u0022https://resource-explorer.console.aws.amazon.com/\u0022\u003EAWS Resource Explorer console\u003C/a\u003E. Read about getting started in our\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/resource-explorer/latest/userguide/welcome.html\u0022\u003EAWS Resource Explorer documentation\u003C/a\u003E, or explore the\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/resourceexplorer/\u0022\u003EAWS Resource Explorer product page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud/",
+  "PublishedAt": "2026-05-07T12:00:00Z",
+  "Categories": [
+    "general:products/aws-resource-explorer,marketing:marchitecture/management-and-governance"
+  ]
+}

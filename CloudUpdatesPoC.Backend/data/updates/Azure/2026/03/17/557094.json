@@ -1,0 +1,13 @@
+{
+  "Id": "557094",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure VMware Solution AV36P and AV52 node retirement on June 30, 2029",
+  "Summary": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
+  "Url": "https://azure.microsoft.com/updates?id=557094",
+  "PublishedAt": "2026-03-17T17:30:11Z",
+  "Categories": [
+    "Compute",
+    "Azure VMware Solution",
+    "Retirements"
+  ]
+}

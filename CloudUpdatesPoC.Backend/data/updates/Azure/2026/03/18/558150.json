@@ -1,0 +1,15 @@
+{
+  "Id": "558150",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: SQL MCP Server",
+  "Summary": "Announcing SQL MCP Server, our Model Context Protocol (MCP) connector for production databases. SQL MCP Server is a feature rich component of data API builder (DAB) that gives you a simple, predictable, secure way to bring AI agents into your data workflo",
+  "Url": "https://azure.microsoft.com/updates?id=558150",
+  "PublishedAt": "2026-03-18T18:15:04Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

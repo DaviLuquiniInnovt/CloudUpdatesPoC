@@ -1,0 +1,15 @@
+{
+  "Id": "561510",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Sentinel TI - improved pattern parsing \u0026 revoke reliability",
+  "Summary": "We\u2019ve rolled out two important improvements to enhance\naccuracy and control in pattern-based workflows: Revoke fix: Resolved an issue where revoke\nactions were not consistently applied, ensuring changes now take effect\nreliably and as intended. Support fo",
+  "Url": "https://azure.microsoft.com/updates?id=561510",
+  "PublishedAt": "2026-05-12T17:30:34Z",
+  "Categories": [
+    "Launched",
+    "Hybrid \u002B multicloud",
+    "Security",
+    "Microsoft Sentinel",
+    "Features"
+  ]
+}

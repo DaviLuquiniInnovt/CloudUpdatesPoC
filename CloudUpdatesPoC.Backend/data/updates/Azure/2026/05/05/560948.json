@@ -1,0 +1,14 @@
+{
+  "Id": "560948",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Reserved Virtual Machines Instances for select VM series",
+  "Summary": "Starting July 1, 2026, purchases and\nrenewals will no longer be available\nfor one-year Azure Reserved VM Instances for the Av2,\nAmv2, Bv1, D, Ds, Dv2, Dsv2, F, Fs, Fsv2, G, Gs, Ls, and Lsv2 VM\nseries. Additionally, one-year and three-year reserved instanc",
+  "Url": "https://azure.microsoft.com/updates?id=560948",
+  "PublishedAt": "2026-05-05T20:00:13Z",
+  "Categories": [
+    "Compute",
+    "Virtual Machines",
+    "Retirements",
+    "Pricing \u0026 Offerings"
+  ]
+}

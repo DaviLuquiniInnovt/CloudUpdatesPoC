@@ -1,0 +1,15 @@
+{
+  "Id": "561162",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Cosmos DB Shell\u2014your new command line for data workflows ",
+  "Summary": "Azure Cosmos DB Shell is now available in public preview, introducing a modern command-line experience with agentic capabilities powered by Model Context Protocol (MCP). You can now query, explore, and manage your data more efficiently through intelligent",
+  "Url": "https://azure.microsoft.com/updates?id=561162",
+  "PublishedAt": "2026-05-06T18:45:15Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Internet of Things",
+    "Azure Cosmos DB",
+    "Features"
+  ]
+}

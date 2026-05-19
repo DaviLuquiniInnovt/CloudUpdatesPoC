@@ -1,0 +1,11 @@
+{
+  "Id": "2d0fd426ba5e8609d4436dba0b044961b8af7f16",
+  "Provider": "AWS",
+  "Title": "Amazon EMR Serverless is now available in additional AWS Regions",
+  "Summary": "\u003Cp\u003EAmazon EMR Serverless is now generally available in six additional AWS Regions - Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central).\u003Cbr\u003E \u003Cbr\u003E Amazon EMR Serverless is a deployment option in Amazon EMR that makes it simple and cost effective for data engineers and analysts to run petabyte-scale data analytics in the cloud. With EMR Serverless, you can run your Apache Spark and Apache Hive applications without having to configure, optimize, tune, or manage clusters. EMR Serverless offers fine-grained automatic scaling, fast launch times, customizable worker configurations, and support for batch, interactive and streaming workloads.\u003Cbr\u003E \u003Cbr\u003E To get started, visit the Amazon EMR Serverless \u003Ca href=\u0022https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/getting-started.html\u0022\u003EUser Guide\u003C/a\u003E. For pricing info, visit the \u003Ca href=\u0022https://aws.amazon.com/emr/pricing/\u0022\u003EEMR Serverless pricing page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/",
+  "PublishedAt": "2026-05-15T19:50:00Z",
+  "Categories": [
+    "marketing:marchitecture/analytics,general:products/amazon-emr"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "434ff5087de2336c64acfd3fd2eac4186326ab1e",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 X8aedz instances are now available in Europe (Ireland) region",
+  "Summary": "\u003Cp\u003EStarting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in\u0026nbsp;Europe (Ireland) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). These instances offer the highest maximum CPU frequency, 5GHz in the cloud.\u003Cbr\u003E \u003Cbr\u003E X8aedz instances are built using the latest sixth generation\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/nitro/\u0022\u003EAWS Nitro Cards\u003C/a\u003E\u0026nbsp;and are ideal for electronic design automation (EDA) workloads such as physical layout and physical verification jobs, and relational databases that benefit from high single-threaded processor performance and a large memory footprint. The combination of 5 GHz processors and local NVMe storage enables faster processing of memory-intensive backend EDA workloads such as floor planning, logic placement, clock tree synthesis (CTS), routing, and power/signal integrity analysis.\u003Cbr\u003E \u003Cbr\u003E X8aedz instances feature a 32:1 ratio of memory to vCPU and are available in 8 sizes ranging from 2 to 96 vCPUs with 64 to 3,072 GiB of memory, including two bare metal variants, and up to 8 TB of local NVMe SSD storage.\u003Cbr\u003E \u003Cbr\u003E Customers can purchase X8aedz instances via Savings Plans, On-Demand instances, and Spot instances. To get started, sign in to the AWS Management Console. For more information visit the Amazon EC2\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/x8aedz\u0022\u003EX8aedz instance page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-x8aedz-europe-ireland/",
+  "PublishedAt": "2026-05-14T17:00:00Z",
+  "Categories": [
+    "general:products/amazon-ec2,marketing:marchitecture/compute"
+  ]
+}

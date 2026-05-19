@@ -1,0 +1,14 @@
+{
+  "Id": "561257",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Prefix-scoped access for User Delegation SAS ",
+  "Summary": "Support for prefix-scoped access for User Delegation\nSAS for Azure Blob Storage is generally available in all\nAzure regions. SAS tokens for Blob Storage have historically supported\ntwo levels of scope: container and individual blob. With this release, you",
+  "Url": "https://azure.microsoft.com/updates?id=561257",
+  "PublishedAt": "2026-04-30T18:00:11Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Blob Storage",
+    "Features"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Id": "543279",
+  "Provider": "Azure",
+  "Title": "Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March",
+  "Summary": "Azure Batch had retired\nLow-Priority VMs on September 30, 2025 and will begin a system-initiated\nmigration to Spot VMs beginning March 1, 2026. This change aligns Batch with the broader\nAzure Spot infrastructure and simplifies the platform\u2019s VM offering. ",
+  "Url": "https://azure.microsoft.com/updates?id=543279",
+  "PublishedAt": "2026-03-16T18:45:11Z",
+  "Categories": [
+    "Compute",
+    "Batch",
+    "Retirements"
+  ]
+}

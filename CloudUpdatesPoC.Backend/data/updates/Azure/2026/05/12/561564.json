@@ -1,0 +1,15 @@
+{
+  "Id": "561564",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China",
+  "Summary": "Azure Monitor dashboards with Grafana are generally available, bringing the power of Grafana\u2019s open and composable visualization platform directly into the Azure Portal. This capability enables developers and operators to create, edit, and share Grafana d",
+  "Url": "https://azure.microsoft.com/updates?id=561564",
+  "PublishedAt": "2026-05-12T23:45:17Z",
+  "Categories": [
+    "Launched",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Open Source"
+  ]
+}

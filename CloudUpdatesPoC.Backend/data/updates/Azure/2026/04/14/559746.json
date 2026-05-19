@@ -1,0 +1,14 @@
+{
+  "Id": "559746",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage)",
+  "Summary": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
+  "Url": "https://azure.microsoft.com/updates?id=559746",
+  "PublishedAt": "2026-04-14T17:15:47Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Blob Storage",
+    "Features"
+  ]
+}

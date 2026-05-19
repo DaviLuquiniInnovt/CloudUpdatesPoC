@@ -1,0 +1,11 @@
+{
+  "Id": "5823b0927f44b55c5767a17e35abecf0942baf90",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+  "Summary": "\u003Cp\u003EStarting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the US East (N. Virginia) Region.\u0026nbsp;P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory.\u003Cbr\u003E \u003Cbr\u003E P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU memory size, and 1.5x GPU TFLOPS (at FP4, without sparsity) compared to P6-B200 instances, making them well suited to train and deploy large trillion-parameter foundation models (FMs) and large language models (LLMs) with sophisticated techniques. The higher networking and larger memory deliver faster training times and more token throughput for AI workloads.\u0026nbsp;\u003Cbr\u003E \u003Cbr\u003E P6-B300 instances are now available in p6-b300.48xlarge size in the following AWS Regions: US West (Oregon), AWS GovCloud (US-East) and US East (N. Virginia). To learn more about P6-B300 instances, visit\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/p6/\u0022\u003EAmazon EC2 P6 instances.\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
+  "PublishedAt": "2026-05-06T19:24:00Z",
+  "Categories": [
+    "marketing:marchitecture/compute,marketing:marchitecture/artificial-intelligence,general:products/amazon-ec2"
+  ]
+}

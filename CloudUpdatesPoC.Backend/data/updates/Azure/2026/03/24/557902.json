@@ -1,0 +1,15 @@
+{
+  "Id": "557902",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Container network metrics filtering for AKS ",
+  "Summary": "Network\nobservability can generate large volumes of metrics, making it difficult for\nteams to focus on data that is operationally relevant. Container network\nmetrics filtering in Azure Container Networking Services (ACNS) allows\noperators to control which",
+  "Url": "https://azure.microsoft.com/updates?id=557902",
+  "PublishedAt": "2026-03-24T23:00:18Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

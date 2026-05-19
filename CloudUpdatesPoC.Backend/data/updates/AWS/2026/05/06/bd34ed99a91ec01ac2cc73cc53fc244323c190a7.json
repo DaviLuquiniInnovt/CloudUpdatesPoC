@@ -1,0 +1,11 @@
+{
+  "Id": "bd34ed99a91ec01ac2cc73cc53fc244323c190a7",
+  "Provider": "AWS",
+  "Title": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
+  "Summary": "\u003Cp\u003EAmazon Bedrock\u0026nbsp;AgentCore\u0026nbsp;Memory now supports\u0026nbsp;metadata on long-term memory (LTM) records, enabling agents to tag, filter, and retrieve memories using structured attributes alongside semantic search. You can define up to ten indexed keys\u0026nbsp;per memory resource\u0026nbsp;-\u0026nbsp;with support for STRING, NUMBER, and STRING_LIST types\u0026nbsp;-\u0026nbsp;and use\u0026nbsp;different\u0026nbsp;operator\u0026nbsp;types\u0026nbsp;to filter retrieval results.\u003C/p\u003E \n\u003Cp\u003EMetadata can be attached to events at ingestion\u0026nbsp;time or\u0026nbsp;inferred automatically by the LLM based on extraction instructions you define on the memory\u0026nbsp;resource. During ingestion, the LLM processes all events and\u0026nbsp;determines\u0026nbsp;how metadata is applied to the resulting memory records.\u003C/p\u003E \n\u003Cp\u003EYou define a metadata schema on the memory resource that includes indexed key definitions (key name, type, and optional allowed values) along with extraction instructions that guide the LLM on how to generate metadata from conversation\u0026nbsp;content.\u0026nbsp;With metadata filters on retrieval\u0026nbsp;-\u0026nbsp;agents can retrieve records by structured attributes like ticket number, priority,\u0026nbsp;or date\u0026nbsp;-\u0026nbsp;eliminating\u0026nbsp;irrelevant context and improving response accuracy.\u003C/p\u003E \n\u003Cp\u003ETo get started, see the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-memory-metadata.html\u0022\u003EAmazon Bedrock AgentCore Memory\u0026nbsp;documentation\u003C/a\u003E. This feature is available today in all AWS Regions where Amazon Bedrock\u0026nbsp;AgentCore\u0026nbsp;Memory is supported.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata",
+  "PublishedAt": "2026-05-06T17:00:00Z",
+  "Categories": [
+    null
+  ]
+}

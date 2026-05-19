@@ -1,0 +1,14 @@
+{
+  "Id": "559494",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Mock runs for Azure Storage Actions \u2013 Validate before you execute",
+  "Summary": "Azure\nStorage Actions, our fully managed platform that transforms how\norganizations automate data management tasks for Azure Blob and Data Lake\nStorage, now supports mock runs - a new way to simulate task execution at full\nscale without modifying any data",
+  "Url": "https://azure.microsoft.com/updates?id=559494",
+  "PublishedAt": "2026-05-19T16:00:11Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Storage Actions",
+    "Features"
+  ]
+}

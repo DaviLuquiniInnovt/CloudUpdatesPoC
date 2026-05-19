@@ -1,0 +1,11 @@
+{
+  "Id": "47c23f3a42f8e1bca95cb55d32c4d7423583e00a",
+  "Provider": "AWS",
+  "Title": "   AWS Capabilities by Region now supports availability notifications ",
+  "Summary": "\u003Cp\u003EToday, AWS announces availability notifications for AWS Capabilities by Region in AWS Builder Center, a new subscription-based system that automatically alerts builders when\u0026nbsp;an\u0026nbsp;AWS service(s)\u0026nbsp;and/or\u0026nbsp;features(s)\u0026nbsp;become available in their target Regions.\u0026nbsp;Availability notifications\u0026nbsp;make\u0026nbsp;it easy for builders to\u0026nbsp;track availability\u0026nbsp;of\u0026nbsp;1,500\u002B\u0026nbsp;services and features across\u0026nbsp;37\u0026nbsp;AWS\u0026nbsp;Regions,\u0026nbsp;accelerating\u0026nbsp;infrastructure planning and deployment decisions.\u003C/p\u003E \n\u003Cp\u003EWith availability notifications,\u0026nbsp;builders can subscribe\u0026nbsp;at\u0026nbsp;the service level through\u0026nbsp;AWS Builder Center UI, and the subscription automatically covers all underlying features across selected Regions, so\u0026nbsp;there\u0027s\u0026nbsp;no need to track each feature individually. Notifications are delivered through two channels: instantaneous in-app alerts within AWS Builder Center, and a\u0026nbsp;consolidated\u0026nbsp;weekly email digest.\u0026nbsp;Subscriptions and notification preferences can be managed through\u0026nbsp;Settings \u0026gt; Notifications\u0026nbsp;in AWS Builder Center. Common use cases include tracking a specific capability launch, monitoring service parity across\u0026nbsp;AWS\u0026nbsp;Regions, and preparing for upcoming migrations or\u0026nbsp;Regional\u0026nbsp;expansions. For example, a solutions architect expanding a generative AI application into new Regions can subscribe to Amazon Bedrock and receive automatic\u0026nbsp;updates\u0026nbsp;as Knowledge Bases, Guardrails, and other features become available.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification",
+  "PublishedAt": "2026-05-07T17:48:00Z",
+  "Categories": [
+    "marketing:marchitecture/migration,marketing:marchitecture/developer-tools"
+  ]
+}

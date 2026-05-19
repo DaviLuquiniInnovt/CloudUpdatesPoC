@@ -1,0 +1,15 @@
+{
+  "Id": "558178",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Data API builder with built-in GitHub Copilot in MSSQL extension ",
+  "Summary": "The MSSQL extension for Visual Studio Code now introduces Data API builder in public preview with built-in GitHub Copilot integration, bringing a guided back-end generation experience directly into your development workflow. You can generate REST, GraphQL",
+  "Url": "https://azure.microsoft.com/updates?id=558178",
+  "PublishedAt": "2026-03-18T17:00:05Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

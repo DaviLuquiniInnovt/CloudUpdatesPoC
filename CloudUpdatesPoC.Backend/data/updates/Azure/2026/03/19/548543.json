@@ -1,0 +1,13 @@
+{
+  "Id": "548543",
+  "Provider": "Azure",
+  "Title": "Retirement: HC-series Azure Virtual Machines will be retired on May 31, 2027",
+  "Summary": "On May 31, 2027, Microsoft Azure will retire the following HC-series virtual machine (VMs) sizes: Standard_HC44rs, Standard_HC44-16rs, and Standard_HC44-32rs. To ensure continuity and improved performance, we recommend transitioning to one of the current\u2011",
+  "Url": "https://azure.microsoft.com/updates?id=548543",
+  "PublishedAt": "2026-03-19T16:30:27Z",
+  "Categories": [
+    "Compute",
+    "Virtual Machines",
+    "Retirements"
+  ]
+}

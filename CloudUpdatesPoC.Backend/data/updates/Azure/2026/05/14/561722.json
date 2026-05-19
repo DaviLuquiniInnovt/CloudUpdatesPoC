@@ -1,0 +1,14 @@
+{
+  "Id": "561722",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Support for workloads with large files in Azure NetApp Files ",
+  "Summary": "To support seamless migration and operation of workloads\nthat use large files including Azure VMware Solution (AVS) virtual machines\nwith large VMDK disks, Azure\nNetApp Files now supports file sizes of up to 64\u202FTiB for regular volumes. This enhancement\nen",
+  "Url": "https://azure.microsoft.com/updates?id=561722",
+  "PublishedAt": "2026-05-14T18:00:48Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

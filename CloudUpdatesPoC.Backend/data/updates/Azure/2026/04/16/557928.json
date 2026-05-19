@@ -1,0 +1,14 @@
+{
+  "Id": "557928",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Kubernetes Service support for Ubuntu 22.04 ",
+  "Summary": "On June 30, 2027, we\u0027ll retire Ubuntu 22.04 on Azure\nKubernetes Service. To avoid disruptions, transition to\nUbuntu 24.04 or later by that date. Newer\nsupported versions include kernel\nupdates and security improvements.   Until June 30, 2027, you can cont",
+  "Url": "https://azure.microsoft.com/updates?id=557928",
+  "PublishedAt": "2026-04-16T20:30:13Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Retirements"
+  ]
+}

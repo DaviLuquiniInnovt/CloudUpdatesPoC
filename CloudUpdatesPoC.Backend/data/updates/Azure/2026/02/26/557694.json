@@ -1,0 +1,15 @@
+{
+  "Id": "557694",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity ",
+  "Summary": "We\u2019re excited to announce the addition of enhanced\nsecure authentication in Azure Storage that combines the flexibility of\nuser-delegation shared access signature (SAS) with the user-bound access of\nEntra ID. User-bound user delegation SAS is now in previ",
+  "Url": "https://azure.microsoft.com/updates?id=557694",
+  "PublishedAt": "2026-02-26T19:45:06Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure Blob Storage",
+    "Features",
+    "Security"
+  ]
+}

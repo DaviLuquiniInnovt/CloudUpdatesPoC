@@ -1,0 +1,14 @@
+{
+  "Id": "560805",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target ",
+  "Summary": "Azure Arc migration now supports SQL Server on Azure Virtual Machines as a migration target. You can migrate Arc-enabled SQL Server instances not only to Azure SQL Managed Instance but also to SQL Server running on Azure infrastructure\u2014using the same unif",
+  "Url": "https://azure.microsoft.com/updates?id=560805",
+  "PublishedAt": "2026-04-22T20:45:32Z",
+  "Categories": [
+    "In preview",
+    "Hybrid \u002B multicloud",
+    "Azure Arc",
+    "Features"
+  ]
+}

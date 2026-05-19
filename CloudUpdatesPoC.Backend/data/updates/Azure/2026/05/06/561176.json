@@ -1,0 +1,14 @@
+{
+  "Id": "561176",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Document Intelligence v3.0 API will be retired on March 30, 2029",
+  "Summary": "On March 30, 2029, Azure Document Intelligence v3.0 API will be retired. Please migrate to latest generally available Azure Document Intelligence API version, v4.0, by that date. After March 30, 2029, Azure Document Intelligence v3.0 API will no longer be",
+  "Url": "https://azure.microsoft.com/updates?id=561176",
+  "PublishedAt": "2026-05-06T22:15:33Z",
+  "Categories": [
+    "AI \u002B machine learning",
+    "Azure AI Document Intelligence",
+    "Retirements",
+    "Services"
+  ]
+}

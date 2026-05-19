@@ -1,0 +1,15 @@
+{
+  "Id": "559623",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: PgBouncer 1.25.1 support in Azure Database for PostgreSQL \u2013 Flexible Server ",
+  "Summary": "PgBouncer 1.25.1 is now generally available in Azure Database for PostgreSQL. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived connections.With t",
+  "Url": "https://azure.microsoft.com/updates?id=559623",
+  "PublishedAt": "2026-04-08T17:45:09Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "552808",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
+  "Summary": "We are announcing several\ncapabilities in public preview with Azure Monitor pipeline. Secure\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\n     contro",
+  "Url": "https://azure.microsoft.com/updates?id=552808",
+  "PublishedAt": "2026-02-26T00:30:50Z",
+  "Categories": [
+    "In preview",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Features"
+  ]
+}

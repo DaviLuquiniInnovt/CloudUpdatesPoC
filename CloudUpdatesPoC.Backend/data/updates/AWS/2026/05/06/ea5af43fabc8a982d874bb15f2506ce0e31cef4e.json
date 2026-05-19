@@ -1,0 +1,11 @@
+{
+  "Id": "ea5af43fabc8a982d874bb15f2506ce0e31cef4e",
+  "Provider": "AWS",
+  "Title": "AWS Marketplace now supports programmatic procurement with Agreements API",
+  "Summary": "\u003Cp\u003EToday, AWS Marketplace announces the Agreements API, enabling you to procure AWS Marketplace products and manage agreements programmatically. With this launch, you can generate estimates, accept offers, track charges and entitlements, update purchase orders and manage agreements all within your existing tools and workflows.\u003C/p\u003E \n\u003Cp\u003ECombined with the Discovery API, the Agreements API provides an end-to-end procurement journey from product discovery to purchase. You can integrate these APIs into your procurement systems to build custom workflows and streamline operations across your organization. Partners can also use these APIs to build custom storefronts that deliver unified procurement experiences for their customers.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EThe AWS Marketplace Agreements APIs is available in the US East (N. Virginia) Region.\u003C/p\u003E \n\u003Cp\u003ETo get started, configure AWS Identity and Access Management (IAM) permissions for your AWS account and call the API through the AWS SDK. To learn more, see the \u003Ca href=\u0022https://docs.aws.amazon.com/marketplace/latest/APIReference/agreement-apis.html\u0022\u003EAWS Marketplace Agreement APIs documentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/",
+  "PublishedAt": "2026-05-06T18:00:00Z",
+  "Categories": [
+    "general:products/aws-marketplace,marketing:marchitecture/partner-network"
+  ]
+}

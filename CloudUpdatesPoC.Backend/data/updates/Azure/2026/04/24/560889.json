@@ -1,0 +1,14 @@
+{
+  "Id": "560889",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Elastic SAN support for CRC Protection ",
+  "Summary": "Azure Elastic SAN now supports CRC\u201132C checksum verification when enabled on the client for connections to Elastic SAN volumes. CRC protection can be enabled at creation time or on an existing Elastic SAN.Elastic SAN also provides a volume group\u2013level enf",
+  "Url": "https://azure.microsoft.com/updates?id=560889",
+  "PublishedAt": "2026-04-24T16:45:30Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

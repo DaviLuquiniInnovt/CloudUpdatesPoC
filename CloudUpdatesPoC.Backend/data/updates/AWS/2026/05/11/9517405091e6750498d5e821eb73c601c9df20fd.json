@@ -1,0 +1,11 @@
+{
+  "Id": "9517405091e6750498d5e821eb73c601c9df20fd",
+  "Provider": "AWS",
+  "Title": "Amazon Aurora DSQL is now available in five additional AWS Regions",
+  "Summary": "\u003Cp\u003EAmazon Aurora DSQL single-Region clusters are now available in Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Singapore), Europe (Stockholm), and South America (Sao Paulo). Aurora DSQL is the fastest serverless, distributed SQL database that enables you to build always available applications with virtually unlimited scalability, the highest availability, and zero infrastructure management. It is designed to make scaling and resilience effortless for your applications and offers the fastest distributed SQL reads and writes.\u003Cbr\u003E \u003Cbr\u003E With this launch, Aurora DSQL is available in the following \u003Ca href=\u0022https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\u0022\u003EAWS Regions\u003C/a\u003E: US East (N. Virginia), US East (Ohio), US West (Oregon), Canada (Central), Canada West (Calgary), Asia Pacific (Hong Kong), Asia Pacific (Melbourne), Asia Pacific (Mumbai), Asia Pacific (Osaka), Asia Pacific (Singapore), Asia Pacific (Sydney), , Asia Pacific (Tokyo), Asia Pacific (Seoul), Europe (Ireland), Europe (London), Europe (Frankfurt), Europe (Paris), Europe (Stockholm), and South America (Sao Paulo).\u003Cbr\u003E \u003Cbr\u003E Get started with Aurora DSQL for free with the \u003Ca href=\u0022https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank\u0026amp;all-free-tier.sort-order=asc\u0026amp;awsf.Free%20Tier%20Types=*all\u0026amp;awsf.Free%20Tier%20Categories=categories%23databases\u0022\u003EAWS Free Tier\u003C/a\u003E. To learn more, visit the Aurora DSQL \u003Ca href=\u0022https://aws.amazon.com/rds/aurora/dsql/\u0022\u003Ewebpage\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/aurora-dsql/latest/userguide/what-is-aurora-dsql.html\u0022\u003Edocumentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/",
+  "PublishedAt": "2026-05-11T19:59:00Z",
+  "Categories": [
+    "marketing:marchitecture/databases"
+  ]
+}

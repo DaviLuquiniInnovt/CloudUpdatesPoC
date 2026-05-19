@@ -1,0 +1,15 @@
+{
+  "Id": "557927",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Application routing with meshless Istio in AKS ",
+  "Summary": "Following the deprecation\nof ingress\u2011nginx, Kubernetes operators need a supported, standards\u2011aligned\nmigration path for ingress without the complexity of a full service mesh.\nApplication Routing with Meshless Istio enables adoption of the Kubernetes\nGatew",
+  "Url": "https://azure.microsoft.com/updates?id=557927",
+  "PublishedAt": "2026-03-24T17:30:29Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

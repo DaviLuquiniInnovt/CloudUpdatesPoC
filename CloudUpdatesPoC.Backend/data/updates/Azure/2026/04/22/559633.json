@@ -1,0 +1,15 @@
+{
+  "Id": "559633",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB ",
+  "Summary": "Dynamic data masking (DDM) is a\nserver-side, policy-based security feature in Azure Cosmos DB that\nhelps your organization protect sensitive data from unauthorized\naccess. DDM dynamically masks data for nonprivileged users, ensuring that\nsensitive informa",
+  "Url": "https://azure.microsoft.com/updates?id=559633",
+  "PublishedAt": "2026-04-22T17:45:10Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Internet of Things",
+    "Azure Cosmos DB",
+    "Features"
+  ]
+}

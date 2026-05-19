@@ -1,0 +1,15 @@
+{
+  "Id": "560119",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Monitor AKS applications with OpenTelemetry and Azure Monitor ",
+  "Summary": "Azure Monitor now supports monitoring applications that run on Azure Kubernetes Service (AKS) by using OpenTelemetry for instrumentation and data collection.Leverage autoinstrumentation to deploy the Azure Monitor OpenTelemetry distro to workloads or use ",
+  "Url": "https://azure.microsoft.com/updates?id=560119",
+  "PublishedAt": "2026-04-13T17:45:02Z",
+  "Categories": [
+    "In preview",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Open Source"
+  ]
+}

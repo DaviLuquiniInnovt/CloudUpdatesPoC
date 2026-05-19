@@ -1,0 +1,18 @@
+{
+  "Id": "560207",
+  "Provider": "Azure",
+  "Title": "[Launched] Public Preview: StandardV2 NAT Gateway as an outbound type for AKS ",
+  "Summary": "AKS now\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\nAKS clusters.Lear",
+  "Url": "https://azure.microsoft.com/updates?id=560207",
+  "PublishedAt": "2026-04-13T16:00:36Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Networking",
+    "Azure Kubernetes Service (AKS)",
+    "Azure NAT Gateway",
+    "Features",
+    "Services"
+  ]
+}

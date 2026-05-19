@@ -1,0 +1,15 @@
+{
+  "Id": "558865",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: PostgreSQL migration service supports compatible EDB workloads into Azure Database for PostgreSQL ",
+  "Summary": "We\u2019re excited to announce that EDB PostgreSQL is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from EDB Postgres Extended Server to Azure using secure, reliable workflows des",
+  "Url": "https://azure.microsoft.com/updates?id=558865",
+  "PublishedAt": "2026-03-25T17:30:45Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

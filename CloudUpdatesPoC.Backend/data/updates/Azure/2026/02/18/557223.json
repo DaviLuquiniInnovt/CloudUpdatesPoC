@@ -1,0 +1,14 @@
+{
+  "Id": "557223",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Unified tooling in the AKS MCP server ",
+  "Summary": "Managing AKS MCP servers can be affected by the number of tools and the\namount of context required, which can increase latency and cost. The unified\ntooling for the AKS MCP Server introduces two new tools in public preview, call_az\nand call_kubectl, that ",
+  "Url": "https://azure.microsoft.com/updates?id=557223",
+  "PublishedAt": "2026-02-18T18:00:55Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)"
+  ]
+}

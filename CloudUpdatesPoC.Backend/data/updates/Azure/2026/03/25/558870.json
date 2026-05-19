@@ -1,0 +1,15 @@
+{
+  "Id": "558870",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Custom time zone support for pg_cron via cron.timezone in Azure Database for PostgreSQL ",
+  "Summary": "You can now modify the cron.timezone server parameter in Azure Database for PostgreSQL. This parameter controls the time zone used by pg_cron when evaluating scheduled jobs. By configuring cron.timezone, you can ensure scheduled jobs run according to your",
+  "Url": "https://azure.microsoft.com/updates?id=558870",
+  "PublishedAt": "2026-03-25T17:30:45Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

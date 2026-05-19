@@ -1,0 +1,17 @@
+{
+  "Id": "559981",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Functions now supports MCP resource triggers",
+  "Summary": "Developers\nbuilding MCP servers on Azure Functions can expose tools but not resources.\nNow, Azure Functions supports MCP resource triggers, enabling\ndevelopers to expose resources directly from an Azure Functions\u2013hosted Model\nContext Protocol (MCP) server",
+  "Url": "https://azure.microsoft.com/updates?id=559981",
+  "PublishedAt": "2026-04-07T17:15:12Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features",
+    "Services"
+  ]
+}

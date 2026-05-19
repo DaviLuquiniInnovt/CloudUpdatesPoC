@@ -1,0 +1,18 @@
+{
+  "Id": "559535",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
+  "Summary": "User delegation SAS for Azure Tables, Azure Files, and Azure\nQueues is now generally available.  User delegation SAS allows users to create a more secure SAS\ntoken than account or service SAS by tying the SAS token to the delegator. This\nextension of UDK ",
+  "Url": "https://azure.microsoft.com/updates?id=559535",
+  "PublishedAt": "2026-03-31T17:30:08Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Databases",
+    "Azure Files",
+    "Queue Storage",
+    "Table Storage",
+    "Features",
+    "Security"
+  ]
+}

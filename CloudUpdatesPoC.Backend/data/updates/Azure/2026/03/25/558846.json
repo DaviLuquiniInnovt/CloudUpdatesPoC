@@ -1,0 +1,15 @@
+{
+  "Id": "558846",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Online migration now uses the pgoutput plugin ",
+  "Summary": "You can now leverage pgoutput for online (minimal-downtime) migrations with improved reliability and performance. By aligning with PostgreSQL\u2019s native logical replication framework, this update improves ecosystem compatibility with modern PostgreSQL deplo",
+  "Url": "https://azure.microsoft.com/updates?id=558846",
+  "PublishedAt": "2026-03-25T17:30:45Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

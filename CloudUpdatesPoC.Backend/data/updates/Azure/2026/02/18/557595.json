@@ -1,0 +1,15 @@
+{
+  "Id": "557595",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks ",
+  "Summary": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\nthrough Azure Databricks AI\nModel Serving. Claude Sonnet 4.6\ndelivers frontier-level performance on complex coding, agentic\nworkflows, and professional knowledge work including reasoning at a\nlower",
+  "Url": "https://azure.microsoft.com/updates?id=557595",
+  "PublishedAt": "2026-02-18T18:00:55Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

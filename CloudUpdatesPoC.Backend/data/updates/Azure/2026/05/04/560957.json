@@ -1,0 +1,16 @@
+{
+  "Id": "560957",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU",
+  "Summary": "The Durable Task Scheduler Consumption SKU is now generally available. Run durable workflows and AI agent orchestrations on Azure with pay-per-use pricing. No storage to manage, no capacity to plan, and no idle costs.The Consumption SKU charges only for a",
+  "Url": "https://azure.microsoft.com/updates?id=560957",
+  "PublishedAt": "2026-05-04T17:45:58Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features"
+  ]
+}

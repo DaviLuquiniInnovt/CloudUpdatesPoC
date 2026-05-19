@@ -1,0 +1,15 @@
+{
+  "Id": "transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026",
+  "Provider": "Azure",
+  "Title": "Retirement: Transition to Entra ID (formerly known as Azure AD) to query data from Azure Monitor application insights by September 30, 2026",
+  "Summary": "*Note: Previously announced to be retired March 31, 2026. We\nhave extended the retirement date to September 30, 2026.  On September 30, 2026, API keys used query application\ninsights will be retired. ou\u0027ll need to transition to\nMicrosoft Entra ID (formerl",
+  "Url": "https://azure.microsoft.com/updates?id=transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026",
+  "PublishedAt": "2023-05-15T19:51:58Z",
+  "Categories": [
+    "DevOps",
+    "Management and governance",
+    "Application Insights",
+    "Azure Monitor",
+    "Retirements"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "561020",
+  "Provider": "Azure",
+  "Title": "[Launched] Public Preview: Container Network Insights Agent",
+  "Summary": "Troubleshooting Kubernetes networking issues is often slowed by logs and metrics scattered across multiple tools, requiring engineers to manually correlate signals during incidents. The Container Network Insights Agent provides a lightweight, web\u2011based in",
+  "Url": "https://azure.microsoft.com/updates?id=561020",
+  "PublishedAt": "2026-04-28T21:30:30Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

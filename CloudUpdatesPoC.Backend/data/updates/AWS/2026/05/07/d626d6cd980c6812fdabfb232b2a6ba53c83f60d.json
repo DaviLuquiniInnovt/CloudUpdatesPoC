@@ -1,0 +1,11 @@
+{
+  "Id": "d626d6cd980c6812fdabfb232b2a6ba53c83f60d",
+  "Provider": "AWS",
+  "Title": "Amazon Connect Outbound Campaigns adds multi-contact time zone detection ",
+  "Summary": "\u003Cp\u003EAmazon Connect Outbound Campaigns now detects customer\u0026nbsp;time zones\u0026nbsp;using all phone numbers and addresses on a customer profile, not just the primary contact fields.\u0026nbsp;Previously, time zone detection used only the primary phone number, which could miss customers who span multiple time zones.\u003C/p\u003E \n\u003Cp\u003EWhen a\u0026nbsp;profile\u0027s\u0026nbsp;contact information spans multiple time zones, the system delivers only during hours that fall within your configured window in every detected\u0026nbsp;time zone, and skips profiles when no overlap exists. For example, if a customer has a mobile number with an Eastern time area code and a business number with a Pacific\u0026nbsp;time area code, and your campaign is configured for 9am\u20135pm delivery, messages will only be sent between 12pm\u20135pm ET (9am\u20132pm PT), when both time zones fall within the\u0026nbsp;allowed\u0026nbsp;window.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EThis capability is available in all AWS Regions where Amazon Connect Outbound Campaigns is offered at no\u0026nbsp;additional\u0026nbsp;cost. To learn more, see the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/connect/latest/adminguide/how-to-create-campaigns.html#communication-time\u0022\u003EAmazon Connect\u0026nbsp;Outbound\u0026nbsp;Campaign\u003C/a\u003E\u0026nbsp;documentation.\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-campaign-multitimezone",
+  "PublishedAt": "2026-05-07T16:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/business-productivity,general:products/amazon-connect"
+  ]
+}

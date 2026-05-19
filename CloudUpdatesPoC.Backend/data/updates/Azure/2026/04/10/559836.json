@@ -1,0 +1,15 @@
+{
+  "Id": "559836",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview",
+  "Summary": "Developers can now route Stripe events directly into Azure Event Grid and build scalable, event-driven architectures without managing webhook infrastructure or custom brokers.This means that Event Grid acts as a fully managed event broker between Stripe a",
+  "Url": "https://azure.microsoft.com/updates?id=559836",
+  "PublishedAt": "2026-04-10T17:00:41Z",
+  "Categories": [
+    "In preview",
+    "Integration",
+    "Internet of Things",
+    "Event Grid",
+    "Features"
+  ]
+}

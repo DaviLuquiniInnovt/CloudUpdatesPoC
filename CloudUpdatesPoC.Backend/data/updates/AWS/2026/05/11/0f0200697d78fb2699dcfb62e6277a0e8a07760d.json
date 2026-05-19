@@ -1,0 +1,11 @@
+{
+  "Id": "0f0200697d78fb2699dcfb62e6277a0e8a07760d",
+  "Provider": "AWS",
+  "Title": "AWS HealthOmics now supports caching of cancelled workflow runs",
+  "Summary": "\u003Cp\u003EAWS HealthOmics now supports caching completed task outputs of cancelled runs, enabling customers to reuse outputs and avoid recomputing previously completed tasks. When caching is enabled and a run is cancelled, HealthOmics automatically stores completed task outputs in the customer\u2019s S3 bucket, allowing customers to restart runs from the point of cancellation. \u003Ca href=\u0022https://aws.amazon.com/healthomics/\u0022\u003EAWS HealthOmics\u003C/a\u003E is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows.\u003C/p\u003E \n\u003Cp\u003ECaching of cancelled runs helps researchers, bioinformaticians, and workflow developers debug and iteratively develop workflows efficiently by storing intermediate files and completed task outputs for inspection. This saves customers the cost of recomputing completed tasks that may have taken hours and accelerates subsequent runs by executing only the remaining incomplete tasks.\u003C/p\u003E \n\u003Cp\u003ECaching cancelled runs is now available for Nextflow, WDL, and CWL runs in all AWS HealthOmics regions: US East (N. Virginia), US West (Oregon), Europe (Frankfurt, Ireland, London), Israel (Tel Aviv), and Asia Pacific (Singapore, Seoul). To learn more, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/omics/latest/dev/workflow-cache-startrun.html#workflow-cache-cancel\u0022\u003Eworkflow cache documentation\u003C/a\u003E.\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/",
+  "PublishedAt": "2026-05-11T19:00:00Z",
+  "Categories": [
+    "general:products/amazon-genomics,general:products/amazon-omics"
+  ]
+}

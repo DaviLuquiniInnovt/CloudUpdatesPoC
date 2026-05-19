@@ -1,0 +1,17 @@
+{
+  "Id": "556282",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North",
+  "Summary": "You can now set UAE North as a region for Azure Private Link-enabled origins in your Azure Front Door Premium profile. Azure Private Link-enabled origins in Azure Front Door allow you to deliver content to your end-users through public Azure Front Door en",
+  "Url": "https://azure.microsoft.com/updates?id=556282",
+  "PublishedAt": "2026-02-10T21:15:47Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Azure Front Door",
+    "Azure Private Link",
+    "Features",
+    "Regions \u0026 Datacenters"
+  ]
+}

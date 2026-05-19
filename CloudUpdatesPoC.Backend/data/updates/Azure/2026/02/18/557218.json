@@ -1,0 +1,14 @@
+{
+  "Id": "557218",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Cluster mode for the agentic CLI for AKS ",
+  "Summary": "Users often face security and\nmanageability challenges when diagnostic agents inherit broad user permissions,\nsuch as cluster-admin rights, and when each user must deploy their own\ninstance. Cluster mode for the agentic CLI for AKS, now in public preview,",
+  "Url": "https://azure.microsoft.com/updates?id=557218",
+  "PublishedAt": "2026-02-18T18:00:55Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)"
+  ]
+}

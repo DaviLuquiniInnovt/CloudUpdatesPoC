@@ -1,0 +1,15 @@
+{
+  "Id": "557887",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: AI Agent for container networking troubleshooting",
+  "Summary": "Troubleshooting Kubernetes networking issues is often slowed by logs and\nmetrics scattered across multiple tools, forcing engineers to manually\ncorrelate signals during incidents. The container networking agent provides a\nlightweight, web\u2011based interface ",
+  "Url": "https://azure.microsoft.com/updates?id=557887",
+  "PublishedAt": "2026-03-24T21:45:26Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

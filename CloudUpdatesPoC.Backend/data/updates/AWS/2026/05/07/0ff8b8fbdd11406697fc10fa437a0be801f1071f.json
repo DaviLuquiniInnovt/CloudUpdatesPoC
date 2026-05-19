@@ -1,0 +1,11 @@
+{
+  "Id": "0ff8b8fbdd11406697fc10fa437a0be801f1071f",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 G7e instances now available in Europe (London) region",
+  "Summary": "\u003Cp\u003EStarting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in Europe (London) region. G7e instances offer up to 2.3x inference performance compared to G6e.\u003C/p\u003E \n\u003Cp\u003ECustomers can use G7e instances to deploy large language models (LLMs), agentic AI models, multimodal generative AI models, and physical AI models. G7e instances offer the highest performance for spatial computing workloads as well as workloads that require both graphics and AI processing capabilities. G7e instances feature up to 8 NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, with 96 GB of memory per GPU, and 5th Generation Intel Xeon processors. They support up to 192 virtual CPUs (vCPUs) and up to 1600 Gbps of networking bandwidth. G7e instances support NVIDIA GPUDirect Peer to Peer (P2P) that boosts performance for multi-GPU workloads. Multi-GPU G7e instances also support NVIDIA GPUDirect Remote Direct Memory Access (RDMA) with EFA in EC2 UltraClusters, reducing latency for small-scale multi-node workloads.\u003C/p\u003E \n\u003Cp\u003EYou can use G7e instances for Amazon EC2 in the following AWS Regions: US West (Oregon), US East (N. Virginia, Ohio), Europe (Spain, London) and Asia Pacific (Tokyo, Seoul). You can purchase G7e instances as On-Demand Instances, Spot Instances, or as part of Savings Plans.\u003C/p\u003E \n\u003Cp\u003ETo get started, visit the\u0026nbsp;\u003Ca href=\u0022https://console.aws.amazon.com/\u0022\u003EAWS Management Console\u003C/a\u003E,\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/cli/\u0022\u003EAWS Command Line Interface\u003C/a\u003E\u0026nbsp;(CLI), and AWS SDKs. To learn more, visit\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/g7e/\u0022\u003EG7e instances\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/",
+  "PublishedAt": "2026-05-07T18:04:00Z",
+  "Categories": [
+    "general:products/amazon-ec2,marketing:marchitecture/compute"
+  ]
+}

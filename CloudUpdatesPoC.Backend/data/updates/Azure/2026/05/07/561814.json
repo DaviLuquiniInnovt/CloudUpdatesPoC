@@ -1,0 +1,20 @@
+{
+  "Id": "561814",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West",
+  "Summary": "Azure Premium SSD v2 is now available in all three\nAvailability Zones in Japan West.    Azure Premium SSD v2 disk, a next-generation general-purpose\nblock storage option for Azure virtual machines, offers\nsub-millisecond latencies and exceptional price pe",
+  "Url": "https://azure.microsoft.com/updates?id=561814",
+  "PublishedAt": "2026-05-07T18:15:17Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Storage",
+    "Management and governance",
+    "Migration",
+    "Azure Compute Fleet",
+    "Azure Disk Storage",
+    "Azure Migrate",
+    "Features",
+    "Services"
+  ]
+}

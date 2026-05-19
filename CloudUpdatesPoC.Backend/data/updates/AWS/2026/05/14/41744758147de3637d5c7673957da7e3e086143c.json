@@ -1,0 +1,11 @@
+{
+  "Id": "41744758147de3637d5c7673957da7e3e086143c",
+  "Provider": "AWS",
+  "Title": "AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents",
+  "Summary": "\u003Cp\u003EToday, as part of the \u003Ca href=\u0022https://aws.amazon.com/transform/partners/\u0022\u003EAWS Transform composability initiative\u003C/a\u003E, AWS announces the general availability of the agent builder toolkit Kiro power for AWS Transform. With the agent builder toolkit, AWS Partners and customers can build agents tailored to their specific modernization needs and ensure it works seamlessly within AWS Transform.\u003C/p\u003E \n\u003Cp\u003EThis capability enables Migration and Modernization Competency Partners, ISVs, or customers to create differentiated transformation solutions by integrating their specialized agents, tools, knowledge bases, and workflows with AWS Transform\u0027s agentic AI capabilities. The agent builder toolkit provides the end-to-end lifecycle for transformation agents: build agents using the Kiro power; share them with teams or across partner networks, and register them with AWS Transform for discovery.\u003Cbr\u003E \u003Cbr\u003E The agent builder toolkit for AWS Transform is available in the Kiro power marketplace. To learn more, see AWS Transform (https://aws.amazon.com/transform).\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/",
+  "PublishedAt": "2026-05-14T19:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/migration,marketing:marchitecture/developer-tools,marketing:marchitecture/artificial-intelligence"
+  ]
+}

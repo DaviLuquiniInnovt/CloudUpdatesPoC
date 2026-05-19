@@ -1,0 +1,14 @@
+{
+  "Id": "560668",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure NetApp Files enable backup by default ",
+  "Summary": "Azure NetApp Files now enables backup by default when\ncreating new volumes, delivering a more seamless and secure data\u2011protection\nexperience. Backups are automatically provisioned during volume creation,\nreducing setup effort while still allowing customer",
+  "Url": "https://azure.microsoft.com/updates?id=560668",
+  "PublishedAt": "2026-05-06T18:45:15Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

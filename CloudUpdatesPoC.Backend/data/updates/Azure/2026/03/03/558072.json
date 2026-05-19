@@ -1,0 +1,17 @@
+{
+  "Id": "558072",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Draft \u0026 Deploy on Azure Firewall",
+  "Summary": "The new Draft \u0026 Deploy feature for Azure Firewall Policy\nintroduces a streamlined, two-phase approach to managing firewall policies,\nsignificantly reducing deployment time and disruption. Traditionally, any\npolicy update would trigger a full deployment of",
+  "Url": "https://azure.microsoft.com/updates?id=558072",
+  "PublishedAt": "2026-03-03T01:00:04Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Security",
+    "Azure Firewall",
+    "Features",
+    "Security",
+    "Services"
+  ]
+}

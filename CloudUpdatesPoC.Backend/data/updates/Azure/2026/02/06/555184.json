@@ -1,0 +1,15 @@
+{
+  "Id": "555184",
+  "Provider": "Azure",
+  "Title": "[In development] Private Preview: Vaulted Backups for Azure Disk ",
+  "Summary": "Today,\u202FAzure Disk Backup\u202Fprotects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the\u202FOperational Tier\u202Fin Azure Backup. This enables fast",
+  "Url": "https://azure.microsoft.com/updates?id=555184",
+  "PublishedAt": "2026-02-06T23:00:02Z",
+  "Categories": [
+    "In development",
+    "Management and governance",
+    "Storage",
+    "Azure Backup",
+    "Features"
+  ]
+}

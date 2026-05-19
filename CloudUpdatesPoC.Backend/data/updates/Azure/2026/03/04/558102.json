@@ -1,0 +1,13 @@
+{
+  "Id": "558102",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Policy faster enforcement and retirement of login/logout workaround",
+  "Summary": "Over the years, we\u2019ve made significant investments to improve the responsiveness of the Azure Policy service. As a result, policy assignment creation and updates for Resource Manager mode policies now get enforced within 5 minutes.In light of cache refres",
+  "Url": "https://azure.microsoft.com/updates?id=558102",
+  "PublishedAt": "2026-03-04T21:15:02Z",
+  "Categories": [
+    "Management and governance",
+    "Azure Policy",
+    "Compliance"
+  ]
+}

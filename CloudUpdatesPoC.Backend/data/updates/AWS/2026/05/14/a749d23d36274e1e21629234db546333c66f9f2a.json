@@ -1,0 +1,11 @@
+{
+  "Id": "a749d23d36274e1e21629234db546333c66f9f2a",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
+  "Summary": "\u003Cp\u003EAmazon EC2 High Memory U7i-12TB instances (u7i-12tb.224xlarge) and U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scalable processors (Sapphire Rapids).\u0026nbsp;U7i instances offer up to 45% better price performance over existing U-1 instances.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EU7i-12TB instances offer 12 TiB of DDR5 memory, U7in-16TB instances offer 16 TiB of DDR5 memory, enabling customers to scale transaction processing throughput in a fast-growing data environment. U7i-12TB instances deliver 896 vCPUs and support up to 100 Gbps of Amazon EBS bandwidth, 100 Gbps of network bandwidth, and ENA Express. U7in-16TB instances deliver 896 vCPUs and support up to 100 Gbps of Amazon EBS bandwidth for faster data loading and backups, 200 Gbps of network bandwidth, and ENA Express. U7i instances are ideal for customers running mission-critical in-memory databases like SAP HANA, Oracle, and SQL Server.\u003C/p\u003E \n\u003Cp\u003ETo learn more about U7i instances, visit the\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/u7i/\u0022\u003EHigh Memory instances page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/",
+  "PublishedAt": "2026-05-14T20:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/compute,general:products/amazon-ec2"
+  ]
+}

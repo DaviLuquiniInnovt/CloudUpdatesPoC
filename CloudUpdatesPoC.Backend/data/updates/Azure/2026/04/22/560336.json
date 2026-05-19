@@ -1,0 +1,15 @@
+{
+  "Id": "560336",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL  ",
+  "Summary": "We are excited to announce the general availability of Premium SSD v2 for Azure Database for PostgreSQL flexible server. With Premium SSD v2, you can achieve up to four times higher IOPS, significantly lower latency, and better price-performance for I/O-i",
+  "Url": "https://azure.microsoft.com/updates?id=560336",
+  "PublishedAt": "2026-04-22T17:30:14Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

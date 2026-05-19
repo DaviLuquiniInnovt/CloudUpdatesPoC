@@ -1,0 +1,14 @@
+{
+  "Id": "560894",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: AVS Support for AV64 SKU on Azure Elastic SAN",
+  "Summary": "Azure\nElastic SAN datastores are now supported with AV64 SKUs, enabling higher-scale\nand higher-performance storage options for Azure VMware Solution deployments.",
+  "Url": "https://azure.microsoft.com/updates?id=560894",
+  "PublishedAt": "2026-05-05T16:00:38Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

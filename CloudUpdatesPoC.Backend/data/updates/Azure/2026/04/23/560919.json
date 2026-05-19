@@ -1,0 +1,14 @@
+{
+  "Id": "560919",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Capacity Autoscaling on Azure Elastic SAN  ",
+  "Summary": "Capacity Autoscaling support is now generally available on\nElastic SAN. Customers can avoid the constraints of overprovisioning and manual\ncapacity management by setting a policy to automatically expand SAN Capacity\nbased on usage. Autoscaling provides th",
+  "Url": "https://azure.microsoft.com/updates?id=560919",
+  "PublishedAt": "2026-04-23T18:30:11Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

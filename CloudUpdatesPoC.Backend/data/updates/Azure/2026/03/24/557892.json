@@ -1,0 +1,15 @@
+{
+  "Id": "557892",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Container network logs in AKS ",
+  "Summary": "Networking issues in Kubernetes\nenvironments can be difficult to diagnose due to limited visibility into\ntraffic flows and insufficient context around failures. Container network logs\nin Azure Kubernetes Service (AKS), now generally available, provide con",
+  "Url": "https://azure.microsoft.com/updates?id=557892",
+  "PublishedAt": "2026-03-24T18:15:48Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

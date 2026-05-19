@@ -1,0 +1,16 @@
+{
+  "Id": "561067",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Cross-region IPAM pool association in Azure Virtual Network Manager",
+  "Summary": "Managing IP address space across multiple regions can be difficult to scale and prone to configuration mistakes.With cross-region IPAM pool association, you can associate a single IPAM pool with virtual networks across multiple Azure regions. This helps c",
+  "Url": "https://azure.microsoft.com/updates?id=561067",
+  "PublishedAt": "2026-04-28T17:45:04Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Azure Virtual Network Manager",
+    "Features",
+    "Management",
+    "Services"
+  ]
+}

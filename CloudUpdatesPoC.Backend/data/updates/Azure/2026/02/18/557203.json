@@ -1,0 +1,14 @@
+{
+  "Id": "557203",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS ",
+  "Summary": "Customers previously could not\nenable LocalDNS on clusters that used Node auto\u2011provisioning in AKS, limiting\ntheir ability to use this feature in those environments. LocalDNS is now\ngenerally available for AKS clusters with Node auto\u2011provisioning, providi",
+  "Url": "https://azure.microsoft.com/updates?id=557203",
+  "PublishedAt": "2026-02-18T16:45:58Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)"
+  ]
+}

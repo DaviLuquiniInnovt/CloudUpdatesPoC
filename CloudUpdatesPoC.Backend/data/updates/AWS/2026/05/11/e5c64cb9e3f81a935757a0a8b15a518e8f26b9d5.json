@@ -1,0 +1,11 @@
+{
+  "Id": "e5c64cb9e3f81a935757a0a8b15a518e8f26b9d5",
+  "Provider": "AWS",
+  "Title": "Amazon SageMaker Unified Studio adds getting started tutorials and in-product release notes",
+  "Summary": "\u003Cp\u003EAmazon SageMaker Unified Studio now helps you get productive faster with getting started tutorials and a development environment appearance that automatically adapts to your system preference, and adds in-product release notes to help you discover new capabilities.\u003Cbr\u003E \u003Cbr\u003E On the homepage, a new getting started section helps you get productive in minutes by walking through core workflows such as running your first SQL query, analyzing data from a notebook, building a data pipeline with Visual ETL, and training an ML model. Each tutorial uses pre-loaded sample data and can be completed in under 10 minutes. The development environment now also defaults to match your operating system\u2019s light or dark mode setting, so the interface matches your preference from your first sign-in. A new \u201CWhat\u2019s New\u201D section surfaces recent feature announcements and release notes directly in the product, so you can stay informed about new capabilities as they launch. In 2026 alone, SageMaker Unified Studio has added over 20 new features, which you can also find in the \u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/release-notes.html\u0022\u003Erelease notes.\u003C/a\u003E\u003Cbr\u003E \u003Cbr\u003E These enhancements are available in all AWS Regions where Amazon SageMaker Unified Studio is supported in IAM-based domains. Sign in to \u003Ca href=\u0022https://aws.amazon.com/sagemaker/unified-studio/\u0022\u003ESageMaker Unified Studio \u003C/a\u003Eto explore what\u2019s new, or start with the getting started tutorials in the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/userguide/gs-sql.html\u0022\u003EAmazon SageMaker Unified Studio User Guide.\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-getting-started",
+  "PublishedAt": "2026-05-11T17:12:00Z",
+  "Categories": [
+    "general:products/amazon-sagemaker,marketing:marchitecture/analytics"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "557862",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Blue-green agent pool upgrade in AKS ",
+  "Summary": "In\u2011place node pool upgrades can introduce risk by applying changes\ndirectly to running environments. Blue\u2011green agent pool upgrades create a\nparallel node pool with the new configuration, allowing validation before\nworkloads are shifted and providing a cl",
+  "Url": "https://azure.microsoft.com/updates?id=557862",
+  "PublishedAt": "2026-03-25T20:00:39Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

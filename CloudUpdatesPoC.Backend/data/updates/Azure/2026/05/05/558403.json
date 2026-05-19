@@ -1,0 +1,18 @@
+{
+  "Id": "558403",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Application Gateway for Containers managed add-on \u002B AKS Automatic ",
+  "Summary": "We previously announced the availability of Application Gateway for\nContainers and the Application Gateway for Containers AKS\nAdd-on for Azure Kubernetes Service (AKS). At that time, one\nlimitation was that Application Gateway for Containers could not be ",
+  "Url": "https://azure.microsoft.com/updates?id=558403",
+  "PublishedAt": "2026-05-05T17:30:03Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Compute",
+    "Containers",
+    "Application Gateway",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

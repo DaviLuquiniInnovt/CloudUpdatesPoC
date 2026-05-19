@@ -1,0 +1,11 @@
+{
+  "Id": "c6f5ea854fb0355879b9f4ba83abb824bb2dce32",
+  "Provider": "AWS",
+  "Title": "AWS India customers can now use UPI Scan and Pay for sign-up and payments",
+  "Summary": "\u003Cp\u003EIndia customers can now use \u003Ca href=\u0022https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/edit-aispl-payment-method.html#using-aispl-autopay-UPI\u0022\u003EUPI (Unified Payments Interface)\u003C/a\u003E Scan and Pay to sign up for AWS or make payments to their invoices.\u003Cbr\u003E \u003Cbr\u003E UPI is a popular and convenient payment method in India, which facilitates instant bank-to-bank transfers between two parties through mobile phones with internet. The new Scan and Pay experience simplifies payments by allowing customers to scan a QR code displayed on the AWS Console using their UPI mobile app (such as Google Pay, PhonePe, Paytm, or Amazon Pay), eliminating the need to manually enter a UPI ID.\u003Cbr\u003E \u003Cbr\u003E This enhancement makes the UPI payment experience more secure, convenient, and error-free for customers signing up for AWS or making one-time payments. Scan and Pay reduces friction and aligns with how customers commonly use UPI for everyday transactions. Customers can also set up UPI AutoPay using Scan and Pay for automatic monthly payments up to INR 15,000.\u003Cbr\u003E \u003Cbr\u003E To use this feature, customers log in to the AWS Console and select UPI as their payment method during signup or when making a payment. A QR code is displayed on screen, which customers scan using their UPI mobile app to verify and authorize the transaction.\u003Cbr\u003E \u003Cbr\u003E To learn more, see \u003Ca href=\u0022https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/edit-aispl-payment-method.html\u0022\u003E\u003Cu\u003EManaging Payment Methods in India\u003C/u\u003E\u003C/a\u003E\u003Cu\u003E.\u003C/u\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/",
+  "PublishedAt": "2026-05-07T15:00:00Z",
+  "Categories": [
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Id": "560879",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Functions support for Java 25",
+  "Summary": "Azure Functions support for Java 25 is now generally\navailable.   You can now develop apps using Java 25 locally and deploy\nthem to supported Azure Functions plans on Linux and Windows,\nincluding the Flex Consumption plan.     Learn more: Update\nyour app ",
+  "Url": "https://azure.microsoft.com/updates?id=560879",
+  "PublishedAt": "2026-04-30T17:15:44Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features",
+    "Open Source"
+  ]
+}

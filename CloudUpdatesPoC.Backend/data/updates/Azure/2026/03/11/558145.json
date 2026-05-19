@@ -1,0 +1,15 @@
+{
+  "Id": "558145",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Terraform, Bicep, Ansible support for elastic clusters on Azure Database for PostgreSQL ",
+  "Summary": "You can now provision and manage Azure Database for\nPostgreSQL elastic clusters using Terraform, Bicep, and Ansible, with\nfull General Availability support. With\nnative infrastructure-as-code support, you can consistently create,\nscale, and manage elastic",
+  "Url": "https://azure.microsoft.com/updates?id=558145",
+  "PublishedAt": "2026-03-11T18:00:35Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

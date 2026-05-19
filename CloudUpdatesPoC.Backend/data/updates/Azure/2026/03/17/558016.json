@@ -1,0 +1,18 @@
+{
+  "Id": "558016",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
+  "Summary": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
+  "Url": "https://azure.microsoft.com/updates?id=558016",
+  "PublishedAt": "2026-03-17T17:45:45Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Security",
+    "Application Gateway",
+    "Azure Front Door",
+    "Web Application Firewall",
+    "Features",
+    "Security"
+  ]
+}

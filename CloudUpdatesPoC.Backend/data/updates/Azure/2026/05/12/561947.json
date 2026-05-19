@@ -1,0 +1,14 @@
+{
+  "Id": "561947",
+  "Provider": "Azure",
+  "Title": "[Launched] Update: 99.99% uptime for all Azure Service Bus Premium namespaces in Availability Zone regions",
+  "Summary": "Starting May 1, 2026, all Azure Service Bus Premium\nnamespaces deployed in regions with Availability\nZone support now qualify for a 99.99% uptime SLA.\nPremium is the tier customers choose for their most important workloads, and\nthis update brings the SLA ",
+  "Url": "https://azure.microsoft.com/updates?id=561947",
+  "PublishedAt": "2026-05-12T18:30:55Z",
+  "Categories": [
+    "Launched",
+    "Integration",
+    "Service Bus",
+    "Compliance"
+  ]
+}

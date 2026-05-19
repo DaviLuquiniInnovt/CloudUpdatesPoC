@@ -1,0 +1,13 @@
+{
+  "Id": "549077",
+  "Provider": "Azure",
+  "Title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
+  "Summary": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server ",
+  "Url": "https://azure.microsoft.com/updates?id=549077",
+  "PublishedAt": "2026-03-16T18:45:11Z",
+  "Categories": [
+    "Compute",
+    "Batch",
+    "Retirements"
+  ]
+}

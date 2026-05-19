@@ -1,0 +1,14 @@
+{
+  "Id": "557213",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Encryption at host \u0026 disk encryption sets support in node auto-provisioning ",
+  "Summary": "Node auto-provisioning enabled clusters previously did not\nhave support for Encryption\nat Host and disk encryption sets. This limited users with certain\nsecurity requirements for their cluster to not be able to use node\nauto-provisioning.    Node auto-pro",
+  "Url": "https://azure.microsoft.com/updates?id=557213",
+  "PublishedAt": "2026-02-18T16:30:06Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)"
+  ]
+}

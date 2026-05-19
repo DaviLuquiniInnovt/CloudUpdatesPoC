@@ -1,0 +1,15 @@
+{
+  "Id": "557522",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure SQL updates for late-February 2026 ",
+  "Summary": "In late-February 2026,\nthe following updates and enhancements were made to Azure SQL: \n Manage your databases directly from the dialog using\n     actions such as Name, Rename, and Drop.  \n Import a flat file to your database in the\n     MSSQL Extension fo",
+  "Url": "https://azure.microsoft.com/updates?id=557522",
+  "PublishedAt": "2026-02-25T18:45:40Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

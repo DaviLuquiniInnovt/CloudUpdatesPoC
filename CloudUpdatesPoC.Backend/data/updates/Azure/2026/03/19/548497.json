@@ -1,0 +1,13 @@
+{
+  "Id": "548497",
+  "Provider": "Azure",
+  "Title": "Retirement: NP-series Azure Virtual Machines will be retired on May 31, 2027 ",
+  "Summary": "On May 31, 2027, Microsoft Azure will retire the follow NP-series virtual machine (VMs) sizes: Standard_NP10s, Standard_NP20s, and Standard_NP40s. To ensure continuity and optimal performance, we recommend transitioning to one of the following Azure GPU V",
+  "Url": "https://azure.microsoft.com/updates?id=548497",
+  "PublishedAt": "2026-03-19T16:30:27Z",
+  "Categories": [
+    "Compute",
+    "Virtual Machines",
+    "Retirements"
+  ]
+}

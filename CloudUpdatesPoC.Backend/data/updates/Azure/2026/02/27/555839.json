@@ -1,0 +1,15 @@
+{
+  "Id": "555839",
+  "Provider": "Azure",
+  "Title": "Retirement: Managed NGINX Ingress with Application Routing Add-on Retiring November 2026",
+  "Summary": "The upstream Ingress-NGINX project is being deprecated and will stop receiving updates after March 2026. Microsoft will continue providing critical security patches through 30 November 2026, after which the NGINX ingress controller will no longer be suppo",
+  "Url": "https://azure.microsoft.com/updates?id=555839",
+  "PublishedAt": "2026-02-27T21:45:03Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Retirements",
+    "Open Source"
+  ]
+}

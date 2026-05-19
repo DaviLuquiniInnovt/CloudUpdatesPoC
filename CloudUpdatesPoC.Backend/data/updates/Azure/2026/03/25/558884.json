@@ -1,0 +1,16 @@
+{
+  "Id": "558884",
+  "Provider": "Azure",
+  "Title": "[Launched] Public Preview: Azure SQL Managed Instance change event streaming ",
+  "Summary": "You can now stream row\u2011level data changes\u2014inserts, updates, and deletes\u2014from Azure SQL Managed Instance to Azure Event Hubs in near real time with change event streaming (CES). SQL publishes changes as transactions commit, reducing latency while minimizin",
+  "Url": "https://azure.microsoft.com/updates?id=558884",
+  "PublishedAt": "2026-03-25T17:30:45Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Azure SQL Managed Instance",
+    "Features"
+  ]
+}

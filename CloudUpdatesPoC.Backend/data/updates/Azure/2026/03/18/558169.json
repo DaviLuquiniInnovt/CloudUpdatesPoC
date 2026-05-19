@@ -1,0 +1,15 @@
+{
+  "Id": "558169",
+  "Provider": "Azure",
+  "Title": "[In preview] Public preview: GitHub Copilot integration in Schema Designer for the MSSQL extension ",
+  "Summary": "The MSSQL extension for Visual Studio Code now introduces GitHub Copilot integration in Schema Designer, expanding the visual schema design experience with AI-assisted capabilities. Based on developer feedback and evolving workflows, you can now understan",
+  "Url": "https://azure.microsoft.com/updates?id=558169",
+  "PublishedAt": "2026-03-18T18:15:04Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

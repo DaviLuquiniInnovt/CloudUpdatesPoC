@@ -1,0 +1,15 @@
+{
+  "Id": "559767",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2",
+  "Summary": "Azure\nData Box now supports ingestion of data into Azure\nFiles Provisioned v2 storage accounts. Azure Files Provisioned v2\nis a billing model where customers provision and pay for specific capacity,\nIOPS, and throughput values; giving greater flexibility ",
+  "Url": "https://azure.microsoft.com/updates?id=559767",
+  "PublishedAt": "2026-04-01T18:15:44Z",
+  "Categories": [
+    "Launched",
+    "Migration",
+    "Storage",
+    "Azure Data Box",
+    "Features"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Id": "559751",
+  "Provider": "Azure",
+  "Title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
+  "Summary": "Microsoft Azure will retire support for HBv2-series,\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\nincluding:   \n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\n     Gb/s HDR InfiniBand  \n HC-series: 44 Intel Xeon Platinum 8168",
+  "Url": "https://azure.microsoft.com/updates?id=559751",
+  "PublishedAt": "2026-04-15T17:30:33Z",
+  "Categories": [
+    "Compute",
+    "Batch",
+    "Retirements"
+  ]
+}

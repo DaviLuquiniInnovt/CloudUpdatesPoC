@@ -1,0 +1,15 @@
+{
+  "Id": "558810",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Lakeflow Connect Free Tier now available in Azure Databricks  ",
+  "Summary": "Azure Databricks now offers a Lakeflow Connect Free Tier that gives each workspace 100 free DBUs per workspace per day for ingestion from SaaS applications and databases. This allows you to bring roughly 100 million records of data per workspace per day i",
+  "Url": "https://azure.microsoft.com/updates?id=558810",
+  "PublishedAt": "2026-03-18T17:00:05Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

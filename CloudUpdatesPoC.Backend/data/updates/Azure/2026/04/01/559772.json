@@ -1,0 +1,15 @@
+{
+  "Id": "559772",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Data Box enhances compliance with automatic Secure Erasure Certificates",
+  "Summary": "Azure\nData Box now automatically generates a downloadable Secure Erasure\nCertificate for every completed order, providing verification that all data on\nthe device has been securely erased in accordance with NIST\n800-88 Revision 2 standards.   The certific",
+  "Url": "https://azure.microsoft.com/updates?id=559772",
+  "PublishedAt": "2026-04-01T18:30:16Z",
+  "Categories": [
+    "Launched",
+    "Migration",
+    "Storage",
+    "Azure Data Box",
+    "Features"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "561432",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service",
+  "Summary": "We have identified an issue impacting Multi-line (Multiple\nNumber Assignment) feature for Teams Phone enablement related to the\nusage of AlternateId in customer internal implementations for\nAzure Communication Services (ACS). AlternateId is an Microsoft i",
+  "Url": "https://azure.microsoft.com/updates?id=561432",
+  "PublishedAt": "2026-05-04T17:45:58Z",
+  "Categories": [
+    "Launched",
+    "Mobile",
+    "Web",
+    "Azure Communication Services",
+    "Features"
+  ]
+}

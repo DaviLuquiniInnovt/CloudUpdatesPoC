@@ -1,0 +1,15 @@
+{
+  "Id": "557517",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure SQL updates for late-February 2026 ",
+  "Summary": "In late-February 2026,\nthe following updates and enhancements were made to Azure SQL:  \n Introducing Search Database Objects in the MSSQL\n     extension for Visual Studio Code. Instantly find tables, views,\n     functions, and procedures with full scripti",
+  "Url": "https://azure.microsoft.com/updates?id=557517",
+  "PublishedAt": "2026-02-25T19:00:32Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

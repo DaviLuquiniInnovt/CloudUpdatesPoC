@@ -1,0 +1,16 @@
+{
+  "Id": "559756",
+  "Provider": "Azure",
+  "Title": "[Launched] Announcing: Minimum billable object size for cooler storage tiers",
+  "Summary": "For storage accounts with Azure Blob or Data Lake Storage\n(ADLS) we are introducing a minimum billable object size for the cool, cold and\narchive access tiers of 128KiB. Objects on those tiers that are smaller than\n128 KiB will be billed as 128 KiB object",
+  "Url": "https://azure.microsoft.com/updates?id=559756",
+  "PublishedAt": "2026-04-14T21:15:15Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Analytics",
+    "Azure Blob Storage",
+    "Azure Data Lake Storage",
+    "Pricing \u0026 Offerings"
+  ]
+}

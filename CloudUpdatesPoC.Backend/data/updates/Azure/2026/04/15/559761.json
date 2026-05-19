@@ -1,0 +1,15 @@
+{
+  "Id": "559761",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Encrypt Premium SSD v2 and Ultra Disks with Cross Tenant Customer Managed Keys",
+  "Summary": "Cross-tenant customer-managed\nkeys (CMK) for Premium SSD v2 and Ultra Disks are\nnow generally available. This capability allows managed disks to be\nencrypted using a customer-managed key stored in an Azure Key Vault\nlocated in a different Microsoft Entra ",
+  "Url": "https://azure.microsoft.com/updates?id=559761",
+  "PublishedAt": "2026-04-15T17:15:38Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Disk Storage",
+    "Compliance",
+    "Security"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "557857",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Disable HTTP proxy in AKS ",
+  "Summary": "Organizations\nthat use HTTP proxies to control outbound traffic often need to change or\nremove those settings as network requirements evolve, which can be disruptive\nin running clusters. Azure Kubernetes Service allows administrators to disable\nHTTP proxy",
+  "Url": "https://azure.microsoft.com/updates?id=557857",
+  "PublishedAt": "2026-04-07T17:45:41Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

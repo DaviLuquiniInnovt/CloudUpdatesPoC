@@ -1,0 +1,15 @@
+{
+  "Id": "558321",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure SRE Agent with new capabilities ",
+  "Summary": "Azure SRE Agent is now generally\navailable. This AI-powered operations agent helps teams improve uptime, reduce\nincident impact, and cut operational toil by accelerating diagnosis and\nautomating response workflows. The GA release introduces deep context g",
+  "Url": "https://azure.microsoft.com/updates?id=558321",
+  "PublishedAt": "2026-03-11T17:45:49Z",
+  "Categories": [
+    "Launched",
+    "Features",
+    "Gallery",
+    "Open Source",
+    "Services"
+  ]
+}

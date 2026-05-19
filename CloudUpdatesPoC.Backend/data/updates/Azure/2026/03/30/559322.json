@@ -1,0 +1,15 @@
+{
+  "Id": "559322",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS",
+  "Summary": "Ephemeral OS Disk with full caching is now available in public preview for Azure VM/VMSS, bringing significantly faster and more reliable OS disk performance to your workloads. By caching the entire OS disk image on local VM storage (cache disk, resource ",
+  "Url": "https://azure.microsoft.com/updates?id=559322",
+  "PublishedAt": "2026-03-30T21:45:47Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Virtual Machine Scale Sets",
+    "Virtual Machines",
+    "Features"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "561167",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Cosmos DB spherical quantization for improved vector search ",
+  "Summary": "Azure Cosmos DB now offers spherical quantization in public preview to help you achieve faster vector indexing with higher recall and accuracy at scale. Spherical quantization is an advanced vector compression technique designed to preserve search quality",
+  "Url": "https://azure.microsoft.com/updates?id=561167",
+  "PublishedAt": "2026-05-06T18:30:28Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Internet of Things",
+    "Azure Cosmos DB",
+    "Features"
+  ]
+}

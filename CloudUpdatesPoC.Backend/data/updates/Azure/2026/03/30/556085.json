@@ -1,0 +1,11 @@
+{
+  "Id": "556085",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
+  "Summary": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you\u0027ll need to migrate to Azure Database\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\ndistributed PostgreSQL capabilitie",
+  "Url": "https://azure.microsoft.com/updates?id=556085",
+  "PublishedAt": "2026-03-30T17:45:08Z",
+  "Categories": [
+    "Retirements"
+  ]
+}

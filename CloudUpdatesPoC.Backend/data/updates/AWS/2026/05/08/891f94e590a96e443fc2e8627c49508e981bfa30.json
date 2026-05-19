@@ -1,0 +1,11 @@
+{
+  "Id": "891f94e590a96e443fc2e8627c49508e981bfa30",
+  "Provider": "AWS",
+  "Title": "IAM Policy Autopilot adds Java support and Terraform-aware policy generation",
+  "Summary": "\u003Cp\u003EIAM Policy Autopilot now supports Java applications and Terraform-aware policy generation, expanding its language coverage and its ability to generate less permissive IAM policies from code. IAM Policy Autopilot is an open-source tool launched at re:Invent 2025 that helps builders quickly and deterministically create baseline IAM policies on AWS that you can refine as your application evolves, reducing the time you spend writing IAM policies and troubleshooting access issues.\u003C/p\u003E \n\u003Cp\u003EJava has been one of the most requested languages from IAM Policy Autopilot users. With this release, Java developers can now analyze their application source code to generate AWS IAM policies, joining Python, TypeScript, and Go as supported languages. In addition, IAM Policy Autopilot can now cross-reference Terraform resource definitions with SDK calls in your application code to resolve actual resource ARNs for each IAM action. For example, a policy generated for an application that calls S3 GetObject will now reference the specific bucket defined in Terraform rather than defaulting to wildcard (*) resources.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EIAM Policy Autopilot is available at no additional cost and can be used from your own machine. To get started, visit the IAM Policy Autopilot\u0026nbsp;\u003Ca href=\u0022https://github.com/awslabs/iam-policy-autopilot\u0022\u003EGitHub repository\u003C/a\u003E.\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/",
+  "PublishedAt": "2026-05-08T04:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/developers"
+  ]
+}

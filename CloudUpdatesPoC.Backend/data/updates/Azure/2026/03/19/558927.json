@@ -1,0 +1,15 @@
+{
+  "Id": "558927",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation ",
+  "Summary": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
+  "Url": "https://azure.microsoft.com/updates?id=558927",
+  "PublishedAt": "2026-03-19T17:00:53Z",
+  "Categories": [
+    "In preview",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

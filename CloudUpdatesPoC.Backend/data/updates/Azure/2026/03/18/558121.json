@@ -1,0 +1,15 @@
+{
+  "Id": "558121",
+  "Provider": "Azure",
+  "Title": "[Launched] General availability: Azure SQL updates for mid-March 2026 ",
+  "Summary": "In mid-March 2026, the\nfollowing updates and enhancements were made to Azure SQL:  \n Publish SQL database projects directly from\n     Visual Studio Code to streamline database deployment\n     workflows.  \n View and edit SQL table data directly in the MSSQ",
+  "Url": "https://azure.microsoft.com/updates?id=558121",
+  "PublishedAt": "2026-03-18T18:30:05Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

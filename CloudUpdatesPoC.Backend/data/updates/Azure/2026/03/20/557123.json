@@ -1,0 +1,13 @@
+{
+  "Id": "557123",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Sphere will be retired on July 31, 2031",
+  "Summary": "The Azure Sphere service is retiring and will stop supporting all customer application, OS, bug and security updates, along with DAA certificate issuance, on July 31, 2031. Why is this happening?  Azure Sphere pioneered secure IoT connectivity, combining ",
+  "Url": "https://azure.microsoft.com/updates?id=557123",
+  "PublishedAt": "2026-03-20T17:15:50Z",
+  "Categories": [
+    "Internet of Things",
+    "Azure Sphere",
+    "Retirements"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Id": "558276",
+  "Provider": "Azure",
+  "Title": "Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027",
+  "Summary": "AzureDnsZone\nendpoints (preview) for Azure Blob storage accounts will enter\nretirement in March 2027. Customers leveraging AzureDnsZone endpoints (preview)\nshould transition to Standard endpoints for all new and existing blob storage\naccount deployments b",
+  "Url": "https://azure.microsoft.com/updates?id=558276",
+  "PublishedAt": "2026-04-02T16:30:09Z",
+  "Categories": [
+    "Storage",
+    "Azure Blob Storage",
+    "Retirements"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "560015",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: WireGuard In\u2011Transit Encryption for Azure Kubernetes Service (AKS)",
+  "Summary": "WireGuard in\u2011transit encryption is now generally\navailable for Azure Kubernetes Service (AKS) clusters using Azure CNI\npowered by Cilium and Advanced Container Networking Services (ACNS). This capability enables transparent, node\u2011level encryption\nfor inte",
+  "Url": "https://azure.microsoft.com/updates?id=560015",
+  "PublishedAt": "2026-04-24T18:15:17Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features",
+    "Security"
+  ]
+}

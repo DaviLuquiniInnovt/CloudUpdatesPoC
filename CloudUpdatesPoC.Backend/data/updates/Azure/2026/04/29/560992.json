@@ -1,0 +1,14 @@
+{
+  "Id": "560992",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Memory in Foundry Agent Service ",
+  "Summary": "Foundry\u2019s\nmemory (preview) is a managed long-term memory capability built directly\ninto Foundry Agent Service and now integrates natively with Microsoft Agent\nFramework and LangGraph\u2014 no external databases to provision, scale, or secure.",
+  "Url": "https://azure.microsoft.com/updates?id=560992",
+  "PublishedAt": "2026-04-29T00:00:55Z",
+  "Categories": [
+    "In preview",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features"
+  ]
+}

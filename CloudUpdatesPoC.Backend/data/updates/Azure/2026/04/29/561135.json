@@ -1,0 +1,18 @@
+{
+  "Id": "561135",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East ",
+  "Summary": "The Austria East region is now generally available\nto Azure Red Hat OpenShift customers and partners. The region\nincludes three availability zones, supporting resilient and scalable\noperations. Why it matters: \n In-country data residency: Data stored in\n ",
+  "Url": "https://azure.microsoft.com/updates?id=561135",
+  "PublishedAt": "2026-04-29T21:00:48Z",
+  "Categories": [
+    "Launched",
+    "Containers",
+    "Azure Red Hat OpenShift",
+    "Features",
+    "Compliance",
+    "Management",
+    "Open Source",
+    "Security"
+  ]
+}

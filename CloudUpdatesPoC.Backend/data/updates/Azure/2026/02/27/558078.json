@@ -1,0 +1,15 @@
+{
+  "Id": "558078",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealand North",
+  "Summary": "Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.    Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines,\u202Foffers sub-millisecond latencies and exceptional pric",
+  "Url": "https://azure.microsoft.com/updates?id=558078",
+  "PublishedAt": "2026-02-27T23:15:13Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Disk Storage",
+    "Features",
+    "Services"
+  ]
+}

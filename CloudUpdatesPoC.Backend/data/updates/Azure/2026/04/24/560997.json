@@ -1,0 +1,14 @@
+{
+  "Id": "560997",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Hosted Agents in Foundry Agent Service ",
+  "Summary": "Hosted agents run in an isolated execution sandbox\nthat provides a dedicated, secure runtime per agent session. Sessions start\nwith a clean environment with no shared state between sessions, no\ncross-session data leakage, and strong compute boundaries bet",
+  "Url": "https://azure.microsoft.com/updates?id=560997",
+  "PublishedAt": "2026-04-24T18:15:17Z",
+  "Categories": [
+    "In preview",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features"
+  ]
+}

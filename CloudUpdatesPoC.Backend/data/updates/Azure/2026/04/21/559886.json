@@ -1,0 +1,15 @@
+{
+  "Id": "559886",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Monitor pipeline",
+  "Summary": "Azure Monitor pipeline is now generally available.Azure Monitor pipeline provides a centralized control point for telemetry ingestion and transformation, designed specifically for secure, high\u2011throughput, enterprise\u2011scale scenarios. It\u0027s built on open-sou",
+  "Url": "https://azure.microsoft.com/updates?id=559886",
+  "PublishedAt": "2026-04-21T20:30:49Z",
+  "Categories": [
+    "Launched",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Features"
+  ]
+}

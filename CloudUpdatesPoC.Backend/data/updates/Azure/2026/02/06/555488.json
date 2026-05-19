@@ -1,0 +1,16 @@
+{
+  "Id": "555488",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Monitor pipeline transformations ",
+  "Summary": "Azure Monitor pipeline transformations feature\nis now Public Preview! This feature enables users to shape telemetry before\nit\u2019s ingested into Azure Monitor, helping them control ingestion costs, improve\ndata quality, and simplify analytics at scale.Built ",
+  "Url": "https://azure.microsoft.com/updates?id=555488",
+  "PublishedAt": "2026-02-06T22:45:47Z",
+  "Categories": [
+    "In preview",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Security",
+    "Features"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "0d3ffee47115d5edc7f57755ffa89b4fd19dee5d",
+  "Provider": "AWS",
+  "Title": "Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",
+  "Summary": "\u003Cp\u003EAmazon EventBridge Scheduler expands its AWS SDK integrations with 13 additional services and 619 new API actions across new and existing AWS services, including AWS Lambda Managed Instances. You can now schedule direct invocations of a broader set of AWS services without writing custom integration code.\u003Cbr\u003E \u003Cbr\u003E EventBridge Scheduler is a serverless scheduler that allows you to create, run, and manage billions of scheduled events and tasks across more than 270 AWS services, without provisioning or managing the underlying infrastructure. With this expansion, you can now schedule a broader set of AWS API actions directly from Scheduler, including scaling Lambda managed instances up or down on a time-based schedule for precise control over capacity provisioning.\u003Cbr\u003E \u003Cbr\u003E These enhancements are now generally available in all AWS Regions where AWS EventBridge Scheduler is available. Specific services and API actions are subject to the availability of the target service in the AWS Region. To learn more about AWS EventBridge Scheduler SDK integrations, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/scheduler/latest/UserGuide/managing-targets-universal.html\u0022\u003EDeveloper Guide\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/",
+  "PublishedAt": "2026-05-12T18:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/serverless,marketing:marchitecture/application-services"
+  ]
+}

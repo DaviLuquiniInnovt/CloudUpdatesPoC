@@ -1,0 +1,15 @@
+{
+  "Id": "558027",
+  "Provider": "Azure",
+  "Title": "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027 ",
+  "Summary": "Starting March 31, 2027,\nPython applications hosted on Azure App Service on\nWindows and Azure Functions on Windows will no longer run. After\nthis date:  \n Your application configuration and content will\n     remain intact  \n Your apps will stop running  \n",
+  "Url": "https://azure.microsoft.com/updates?id=558027",
+  "PublishedAt": "2026-04-02T16:45:52Z",
+  "Categories": [
+    "Compute",
+    "Mobile",
+    "Web",
+    "App Service",
+    "Retirements"
+  ]
+}

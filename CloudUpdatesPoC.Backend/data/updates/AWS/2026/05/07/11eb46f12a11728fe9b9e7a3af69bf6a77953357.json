@@ -1,0 +1,11 @@
+{
+  "Id": "11eb46f12a11728fe9b9e7a3af69bf6a77953357",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 X8i instances are now available in additional regions",
+  "Summary": "\u003Cp\u003EStarting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Ireland) and Asia Pacific (Mumbai) regions. These instances are powered by custom Intel Xeon 6 processors available only on AWS. X8i instances are SAP-certified and deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud. They deliver up to 43% higher performance, 1.5x more memory capacity (up to 6TB), and 3.3x more memory bandwidth compared to previous generation X2i instances.\u003Cbr\u003E \u003Cbr\u003E X8i instances are designed for memory-intensive workloads like SAP HANA, large databases, data analytics, and Electronic Design Automation (EDA). Compared to X2i instances, X8i instances offer up to 50% higher SAPS performance, up to 47% faster PostgreSQL performance, 88% faster Memcached performance, and 46% faster AI inference performance. X8i instances come in 14 sizes, from large to 96xlarge, including two bare metal options.\u003Cbr\u003E \u003Cbr\u003E To get started, visit the \u003Ca href=\u0022https://aws.amazon.com/console/\u0022 target=\u0022_blank\u0022\u003EAWS Management Console\u003C/a\u003E. X8i instances can be purchased via Savings Plans, On-Demand instances, and Spot instances. For more information visit \u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/x8i/\u0022 target=\u0022_blank\u0022\u003EX8i instances page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/",
+  "PublishedAt": "2026-05-07T20:45:00Z",
+  "Categories": [
+    "general:products/amazon-ec2,marketing:marchitecture/compute"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "08bee7787f41436ea4eeb2d3f257c7971df952da",
+  "Provider": "AWS",
+  "Title": "Amazon Quick now supports cross-account access for Amazon Athena data sources ",
+  "Summary": "\u003Cp\u003EToday, Amazon Quick is announcing cross-account access for Amazon Athena data sources. This launch enables you to query Athena data\u0026nbsp;residing\u0026nbsp;in a different AWS account(s)\u0026nbsp;from your Quick deployment using IAM role chaining, with Athena query costs billed to the account where the data lives.\u003C/p\u003E \n\u003Cp\u003EWith this feature, administrators can create an Athena data source in Quick by specifying a\u0026nbsp;RunAsRole\u0026nbsp;in the Quick account and a\u0026nbsp;ConsumerAccountRoleArn\u0026nbsp;in the target account where Athena resources\u0026nbsp;reside. Quick uses a role chaining mechanism first assuming the\u0026nbsp;RunAsRole, then chaining into the consumer account role to execute queries. This\u0026nbsp;launch\u0026nbsp;supports multiple roles per consumer account(s), enabling fine-grained access segregation across teams within a single account.\u0026nbsp;\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EThis feature is now available in all supported Amazon Quick\u0026nbsp;Sight regions\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/quick/latest/userguide/regions.html\u0022 target=\u0022_blank\u0022\u003Ehere\u003C/a\u003E. For more details, read our \u003Ca href=\u0022https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003Eblog post\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-athena/",
+  "PublishedAt": "2026-05-08T16:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/artificial-intelligence,general:products/amazon-quicksight"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Id": "560909",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Elastic SAN support for AVS Gen2 Private Cloud  ",
+  "Summary": "Elastic SAN datastores deliver simpler connectivity\nand improved performance when used with AVS Gen2 Private Cloud:   Simpler connectivity \u0026 configuration   \n No ExpressRoute gateway required   \n A single Private Endpoint is sufficient to configure\n     t",
+  "Url": "https://azure.microsoft.com/updates?id=560909",
+  "PublishedAt": "2026-05-05T16:00:38Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

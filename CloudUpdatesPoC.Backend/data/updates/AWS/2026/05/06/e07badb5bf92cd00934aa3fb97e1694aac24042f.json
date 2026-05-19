@@ -1,0 +1,11 @@
+{
+  "Id": "e07badb5bf92cd00934aa3fb97e1694aac24042f",
+  "Provider": "AWS",
+  "Title": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
+  "Summary": "\u003Cp\u003EStarting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-West) Region.\u0026nbsp;These instances offer up to 2x performance compared to P5en instances for AI training and inference.\u003Cbr\u003E \u003Cbr\u003E P6-B200 instances feature 8 Blackwell GPUs with 1440 GB of high-bandwidth GPU memory and a 60% increase in GPU memory bandwidth compared to P5en, 5th Generation Intel Xeon processors (Emerald Rapids), and up to 3.2 terabits per second of Elastic Fabric Adapter (EFAv4) networking. P6-B200 instances are powered by the AWS Nitro System, so you can reliably and securely scale AI workloads within Amazon EC2 UltraClusters to tens of thousands of GPUs.\u003Cbr\u003E \u003Cbr\u003E P6-B200 instances are now available in p6-b200.48xlarge size in the following AWS Regions: US West (Oregon), US East (N. Virginia, Ohio) and AWS GovCloud (US-West). To learn more about P6-B200 instances, visit\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/p6/\u0022\u003EAmazon EC2 P6 instances.\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud",
+  "PublishedAt": "2026-05-06T19:45:00Z",
+  "Categories": [
+    "marketing:marchitecture/compute,general:products/amazon-ec2,general:products/aws-govcloud-us,marketing:marchitecture/artificial-intelligence"
+  ]
+}

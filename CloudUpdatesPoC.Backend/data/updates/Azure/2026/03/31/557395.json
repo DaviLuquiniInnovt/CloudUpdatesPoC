@@ -1,0 +1,15 @@
+{
+  "Id": "557395",
+  "Provider": "Azure",
+  "Title": "Retirement: Manually registered Azure VPN Clients for \u200BAzure Government and \u200BMicrosoft Azure operated by 21Vianet clouds will be retired on March 31, 2029",
+  "Summary": "On March 31, 2029, we\u2019ll be retiring manually registered\nAzure VPN clients for point-to-site connections with Microsoft Entra ID\nauthentication for \u200BAzure\nGovernment and \u200BMicrosoft\nAzure operated by 21Vianet clouds.  Recommended action: To prevent disrupt",
+  "Url": "https://azure.microsoft.com/updates?id=557395",
+  "PublishedAt": "2026-03-31T16:45:33Z",
+  "Categories": [
+    "Networking",
+    "Security",
+    "VPN Gateway",
+    "Retirements",
+    "Security"
+  ]
+}

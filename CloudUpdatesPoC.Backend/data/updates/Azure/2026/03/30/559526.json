@@ -1,0 +1,17 @@
+{
+  "Id": "559526",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India",
+  "Summary": "Azure Premium SSD v2 is now available in South India (a region without Availability Zone).Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines,\u202Foffers sub-millisecond latencies and exceptional price ",
+  "Url": "https://azure.microsoft.com/updates?id=559526",
+  "PublishedAt": "2026-03-30T16:30:50Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Compute",
+    "Azure Disk Storage",
+    "Virtual Machines",
+    "Features",
+    "Services"
+  ]
+}

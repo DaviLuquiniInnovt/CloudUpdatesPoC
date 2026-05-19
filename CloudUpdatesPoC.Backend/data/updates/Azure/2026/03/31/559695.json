@@ -1,0 +1,13 @@
+{
+  "Id": "559695",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Event Grid provides new capabilities for smarter, more secure event-driven architectures",
+  "Summary": "Azure Event Grid offers a variety of features in\nPublic Preview \u2013 intended to help you better manage large-scale, distributed\nsystems with improved interoperability and control.  Public Preview Features:  \n Cross-Tenant\n     Webhook Delivery: Enables secu",
+  "Url": "https://azure.microsoft.com/updates?id=559695",
+  "PublishedAt": "2026-03-31T17:45:46Z",
+  "Categories": [
+    "In preview",
+    "Features",
+    "Microsoft Build"
+  ]
+}

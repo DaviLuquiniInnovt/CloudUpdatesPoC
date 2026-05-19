@@ -1,0 +1,16 @@
+{
+  "Id": "556003",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Functions .NET 10 support ",
+  "Summary": "Azure Functions support for .NET 10 is generally\navailable, enabling production use of the latest .NET runtime for serverless\napplications. This support was introduced as part of the Azure Functions\nIgnite 2025 updates.  .NET 10 is supported using the iso",
+  "Url": "https://azure.microsoft.com/updates?id=556003",
+  "PublishedAt": "2026-02-18T18:00:55Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features"
+  ]
+}

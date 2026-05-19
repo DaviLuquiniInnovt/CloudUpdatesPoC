@@ -1,0 +1,14 @@
+{
+  "Id": "560987",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Foundry Toolkit for Visual Studio Code (formerly AI Toolkit for VS Code)",
+  "Summary": "Foundry\nToolkit for VS Code is now generally available and provides VS Code tooling for\nMicrosoft Agent Framework, including agent creation from templates or via\nGitHub Copilot, local test/debug with visualization and traces, and direct\ndeployment to Foun",
+  "Url": "https://azure.microsoft.com/updates?id=560987",
+  "PublishedAt": "2026-04-24T18:15:17Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features"
+  ]
+}

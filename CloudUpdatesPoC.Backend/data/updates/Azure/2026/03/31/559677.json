@@ -1,0 +1,17 @@
+{
+  "Id": "559677",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in US Gov Arizona",
+  "Summary": "Azure Premium SSD v2 is now available in US Gov Arizona (a\nregion without Availability Zone).  Azure Premium SSD v2 disk, a next-generation general-purpose\nblock storage option for Azure virtual machines, offers\nsub-millisecond latencies and exceptional p",
+  "Url": "https://azure.microsoft.com/updates?id=559677",
+  "PublishedAt": "2026-03-31T16:30:51Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Compute",
+    "Azure Disk Storage",
+    "Virtual Machines",
+    "Features",
+    "Services"
+  ]
+}

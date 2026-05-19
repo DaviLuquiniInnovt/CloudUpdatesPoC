@@ -1,0 +1,17 @@
+{
+  "Id": "557416",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: WAF Insights for Application Gateway ",
+  "Summary": "Announcing the public preview of Application Gateway WAF Insights. Azure Application Gateway WAF now offers WAF Insights, providing an interactive view of logs and metrics. WAF Insights enables quick investigation of blocked requests, analysis of attack p",
+  "Url": "https://azure.microsoft.com/updates?id=557416",
+  "PublishedAt": "2026-02-23T16:15:47Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Application Gateway",
+    "Web Application Firewall",
+    "Features",
+    "Security"
+  ]
+}

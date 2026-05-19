@@ -1,0 +1,15 @@
+{
+  "Id": "562695",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Virtual Network updates \u2013 default limits increased for NSGs and route tables ",
+  "Summary": "Azure Virtual Network has increased the default platform limits for network security groups (NSGs) and route tables. The new defaults are now 2,000 security rules per NSG, 6,000 addresses or ports per NSG rule, 1,000 routes per route table, and 600 route ",
+  "Url": "https://azure.microsoft.com/updates?id=562695",
+  "PublishedAt": "2026-05-19T16:45:42Z",
+  "Categories": [
+    "Launched",
+    "Features",
+    "Management",
+    "Security",
+    "Services"
+  ]
+}

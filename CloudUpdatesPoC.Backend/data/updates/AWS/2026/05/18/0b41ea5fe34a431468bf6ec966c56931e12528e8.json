@@ -1,0 +1,11 @@
+{
+  "Id": "0b41ea5fe34a431468bf6ec966c56931e12528e8",
+  "Provider": "AWS",
+  "Title": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
+  "Summary": "\u003Cp\u003EAmazon Lightsail content delivery network (CDN) distributions now support IPv6-only instances as origins. This feature enables customers to use IPv6-only instances to deliver content through the Lightsail CDN distributions with low latency and high transfer speeds worldwide. With this launch, customers can run their websites and applications on cost-effective IPv6-only instances while seamlessly serving content to all end users, including those on networks that don\u0027t yet support IPv6 connectivity.\u003Cbr\u003E \u003Cbr\u003E Previously, only IPv4 and dual-stack instances were supported as origins for Lightsail CDN distributions. With this launch, customers can also use IPv6-only instances as origins for their Lightsail CDN distributions, making applications running on those instances accessible to all end users, regardless of whether end users have IPv6 connectivity. Lightsail CDN distributions support multiple origin types including instances, containers, buckets, and load balancers.\u003C/p\u003E \n\u003Cp\u003EAmazon Lightsail is available in \u003Ca href=\u0022https://docs.aws.amazon.com/lightsail/latest/userguide/understanding-regions-and-availability-zones-in-amazon-lightsail.html\u0022\u003E16 AWS Regions\u003C/a\u003E including US East (N. Virginia), US West (Oregon), Europe (Frankfurt), Europe (London), Asia Pacific (Tokyo), and Asia Pacific (Malaysia). To get started, visit the \u003Ca href=\u0022https://lightsail.aws.amazon.com/\u0022\u003ELightsail console\u003C/a\u003E. For pricing and other details, visit the \u003Ca href=\u0022https://aws.amazon.com/lightsail/pricing/\u0022\u003EAmazon Lightsail pricing\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/",
+  "PublishedAt": "2026-05-18T18:49:00Z",
+  "Categories": [
+    "marketing:marchitecture/compute,general:products/amazon-lightsail"
+  ]
+}

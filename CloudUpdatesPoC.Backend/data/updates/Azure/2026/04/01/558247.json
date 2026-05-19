@@ -1,0 +1,14 @@
+{
+  "Id": "558247",
+  "Provider": "Azure",
+  "Title": "Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",
+  "Summary": "Service Fabric will end support\nfor all clusters running on Windows Server 2022 on March 31, 2027. Customers\nmust upgrade to Windows Server 2025 by this date to remain in a\nsupported state. This change aligns Service\nFabric\u2019s Windows OS image support mode",
+  "Url": "https://azure.microsoft.com/updates?id=558247",
+  "PublishedAt": "2026-04-01T21:00:19Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Azure Service Fabric",
+    "Retirements"
+  ]
+}

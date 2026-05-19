@@ -1,0 +1,14 @@
+{
+  "Id": "560899",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Single Volume Snapshots on Azure Elastic SAN",
+  "Summary": "Azure Elastic SAN now supports single volume snapshots,\nenabling incremental, point\u2011in\u2011time backups of individual SAN volumes.\nSnapshots capture only changes since the previous snapshot and reside within\nthe SAN, allowing customers to quickly deploy new v",
+  "Url": "https://azure.microsoft.com/updates?id=560899",
+  "PublishedAt": "2026-05-05T16:00:38Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Elastic SAN",
+    "Features"
+  ]
+}

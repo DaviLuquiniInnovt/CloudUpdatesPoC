@@ -1,0 +1,15 @@
+{
+  "Id": "560590",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks ",
+  "Summary": "Azure Databricks now supports Anthropic Claude Opus 4.7\nthrough Azure Databricks AI Model Serving. Claude Opus 4.7\nis Anthropic\u0027s most capable hybrid reasoning model, delivering\nstronger performance on complex extraction and agentic reasoning tasks while\n",
+  "Url": "https://azure.microsoft.com/updates?id=560590",
+  "PublishedAt": "2026-04-17T21:30:12Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

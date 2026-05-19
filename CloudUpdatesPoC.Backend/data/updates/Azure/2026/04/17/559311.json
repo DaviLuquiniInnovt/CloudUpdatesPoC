@@ -1,0 +1,15 @@
+{
+  "Id": "559311",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026",
+  "Summary": "Azure Functions runtime v3 was retired on December\n13, 2022. As part of ongoing efforts to reduce reliance on legacy\ninfrastructure and focus investments on supported platforms, Azure will enforce\nthis retirement for Linux Consumption\u2013based Function Apps ",
+  "Url": "https://azure.microsoft.com/updates?id=559311",
+  "PublishedAt": "2026-04-17T19:00:12Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Retirements"
+  ]
+}

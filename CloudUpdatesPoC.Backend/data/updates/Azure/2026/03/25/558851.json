@@ -1,0 +1,15 @@
+{
+  "Id": "558851",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL ",
+  "Summary": "We\u2019re excited to announce that Google AlloyDB is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from Google AlloyDB to Azure using secure, reliable workflows designed for mini",
+  "Url": "https://azure.microsoft.com/updates?id=558851",
+  "PublishedAt": "2026-03-25T17:30:45Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "0ae6c57d1838f40b36aa2a514b5a576ee1d0482b",
+  "Provider": "AWS",
+  "Title": "Amazon Connect Customer launches permission for agents to view only their own performance evaluations",
+  "Summary": "\u003Cp\u003EAmazon Connect Customer now supports a permission that gives agents access to their own performance evaluations in the Connect UI, without exposing other agents\u0027 evaluations, so they can review feedback to improve their performance. With this permission, agents can search for contacts where they have received an evaluation, view their evaluations alongside call recordings and transcripts, and submit an acknowledgment after reviewing. Agents can be granted access to view their entire department\u0027s contacts for investigating multi-contact customer issues, while ensuring that they can only view their own evaluations. This provides operational flexibility while ensuring that agents cannot view sensitive peer performance data.\u003C/p\u003E \n\u003Cp\u003EThis feature is available in all \u003Ca href=\u0022https://docs.aws.amazon.com/connect/latest/adminguide/regions.html#amazonconnect_region\u0022\u003EAWS regions\u003C/a\u003E where Amazon Connect Customer is offered. To learn more, please see our \u003Ca href=\u0022https://aws.amazon.com/connect/conversational-analytics/\u0022\u003Ewebsite\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/connect/latest/adminguide/evaluation-and-coaching-permissions.html\u0022\u003Edocumentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-permission-view-own-performance-evaluations/",
+  "PublishedAt": "2026-05-14T17:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/contact-center,marketing:marchitecture/applications,general:products/amazon-connect"
+  ]
+}

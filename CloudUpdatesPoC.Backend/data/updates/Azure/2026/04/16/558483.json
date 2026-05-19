@@ -1,0 +1,14 @@
+{
+  "Id": "558483",
+  "Provider": "Azure",
+  "Title": "[In preview] Generally Available: User and group quota reports in Azure NetApp Files ",
+  "Summary": "For organizations leveraging individual user and group\nquotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol\nvolumes, the user and group quota reporting feature offers clear\nvisibility into key metrics such as quota limits, used c",
+  "Url": "https://azure.microsoft.com/updates?id=558483",
+  "PublishedAt": "2026-04-16T18:00:13Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

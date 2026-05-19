@@ -1,0 +1,15 @@
+{
+  "Id": "558051",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMs",
+  "Summary": "The DCesv6, DCedsv6,\nECesv6, and ECedsv6 series are Azure\u2019s next generation\nof confidential Virtual Machines (VMs) based on 5th Gen\nIntel\u00AE Xeon\u00AE processors with Intel\u00AE Trust Domain Extensions (Intel\u00AE TDX). These\nnew confidential VMs help organizations to ",
+  "Url": "https://azure.microsoft.com/updates?id=558051",
+  "PublishedAt": "2026-02-27T23:15:13Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Virtual Machines",
+    "Features",
+    "Services"
+  ]
+}

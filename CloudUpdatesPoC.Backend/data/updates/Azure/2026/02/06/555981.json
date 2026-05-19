@@ -1,0 +1,15 @@
+{
+  "Id": "555981",
+  "Provider": "Azure",
+  "Title": "[Launched] \u200BGenerally Available: Claude Opus 4.6 now available on Azure Databricks",
+  "Summary": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic\u0027s most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model ",
+  "Url": "https://azure.microsoft.com/updates?id=555981",
+  "PublishedAt": "2026-02-06T19:00:01Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

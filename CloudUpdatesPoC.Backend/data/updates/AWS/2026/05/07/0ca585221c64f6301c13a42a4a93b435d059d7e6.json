@@ -1,0 +1,11 @@
+{
+  "Id": "0ca585221c64f6301c13a42a4a93b435d059d7e6",
+  "Provider": "AWS",
+  "Title": "Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC",
+  "Summary": "\u003Cp\u003EAmazon OpenSearch Service now supports the VPC egress option, which allows your virtual private cloud (VPC) domain to establish private network connections to resources in your VPC, such as ML models, AWS services, and custom applications, without exposing traffic to the public internet.\u003C/p\u003E \n\u003Cp\u003EWhen you enable the VPC egress option, OpenSearch Service adds network interfaces to the subnets you selected for the domain and routes outbound traffic into your VPC. You can enable or disable the VPC egress option using the Amazon OpenSearch Service console, AWS CLI, or the CreateDomain and UpdateDomainConfig API operations.\u003C/p\u003E \n\u003Cp\u003EVPC egress is now supported in all AWS Regions where Amazon OpenSearch Service is available. To get started, refer to \u003Ca href=\u0022https://docs.aws.amazon.com/opensearch-service/latest/developerguide/vpc-egress.html\u0022 target=\u0022_blank\u0022\u003ERouting domain egress traffic through your VPC\u003C/a\u003E.\u003Cbr\u003E \u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc",
+  "PublishedAt": "2026-05-07T00:30:00Z",
+  "Categories": [
+    "marketing:marchitecture/analytics,general:products/amazon-opensearch-service"
+  ]
+}

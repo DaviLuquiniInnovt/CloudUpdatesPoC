@@ -1,0 +1,15 @@
+{
+  "Id": "558656",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Summary rules in Log Analytics workspace now support manual \u201CRetry bin\u201D",
+  "Summary": "Summary rules run batch aggregation inside your Log\nAnalytics workspace and re-ingest the summarized results into a custom\ndestination table. When a bin fails, that can create gaps in your summarized\ndataset. \u201CRetry bin\u201D helps you remediate bin-level fail",
+  "Url": "https://azure.microsoft.com/updates?id=558656",
+  "PublishedAt": "2026-03-12T21:15:25Z",
+  "Categories": [
+    "Launched",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Features"
+  ]
+}

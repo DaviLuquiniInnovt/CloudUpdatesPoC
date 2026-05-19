@@ -1,0 +1,15 @@
+{
+  "Id": "558836",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints ",
+  "Summary": "We\u0027re excited to announce that private endpoint support for Azure Cosmos DB Mirroring in Microsoft Fabric is now generally available. You can now unlock powerful analytics on your operational data while keeping your enhanced network security posture intac",
+  "Url": "https://azure.microsoft.com/updates?id=558836",
+  "PublishedAt": "2026-03-25T20:00:39Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Internet of Things",
+    "Azure Cosmos DB",
+    "Features"
+  ]
+}

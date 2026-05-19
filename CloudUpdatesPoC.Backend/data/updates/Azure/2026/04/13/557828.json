@@ -1,0 +1,14 @@
+{
+  "Id": "557828",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",
+  "Summary": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server ",
+  "Url": "https://azure.microsoft.com/updates?id=557828",
+  "PublishedAt": "2026-04-13T23:45:31Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Files",
+    "Features"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Id": "561148",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium",
+  "Summary": "Announcing the public preview of the HTTP DDoS Ruleset on Azure Front Door Premium.HTTP-layer DDoS attacks remain a leading cause of application downtime, and traditional static controls often fall short against evolving botnets. The new HTTP DDoS Ruleset",
+  "Url": "https://azure.microsoft.com/updates?id=561148",
+  "PublishedAt": "2026-04-28T17:45:04Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Azure DDoS Protection",
+    "Azure Front Door",
+    "Web Application Firewall",
+    "Features",
+    "Security",
+    "Services"
+  ]
+}

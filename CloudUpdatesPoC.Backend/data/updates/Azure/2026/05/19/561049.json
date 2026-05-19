@@ -1,0 +1,18 @@
+{
+  "Id": "561049",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards",
+  "Summary": "Azure App Configuration now supports a scorecards capability in public preview. Scorecards provide a telemetry-driven view of how feature flag variants are performing in production, helping teams identify measurable changes after a rollout without manuall",
+  "Url": "https://azure.microsoft.com/updates?id=561049",
+  "PublishedAt": "2026-05-19T17:15:23Z",
+  "Categories": [
+    "In preview",
+    "Containers",
+    "Developer tools",
+    "Mobile",
+    "Security",
+    "Web",
+    "App Configuration",
+    "Features"
+  ]
+}

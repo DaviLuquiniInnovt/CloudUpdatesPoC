@@ -1,0 +1,11 @@
+{
+  "Id": "996067fbd2f9ff3fcbe7dc0a3f9c089088112007",
+  "Provider": "AWS",
+  "Title": "Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace",
+  "Summary": "\u003Cp\u003EAmazon Connect Cases now supports editing and deleting related items, and deleting cases directly from the agent workspace without administrator help. Agents can update comments, unlink contacts associated with the wrong case, or delete cases opened in error. Agents can also create, edit, and delete custom related items such as orders, returns, and invoices to capture additional case context.\u003Cbr\u003E \u003Cbr\u003E Amazon Connect Cases is available in the following AWS regions: US East (N. Virginia), US West (Oregon), Canada (Central), Europe (Frankfurt), Europe (London), Asia Pacific (Seoul), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), and Africa (Cape Town). To learn more and get started, visit the Amazon Connect Cases \u003Ca href=\u0022https://aws.amazon.com/connect/cases/\u0022\u003Ewebpage\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/connect/latest/APIReference/API_connect-cases_UpdateRelatedItem.html\u0022\u003Edocumentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/",
+  "PublishedAt": "2026-05-15T17:25:00Z",
+  "Categories": [
+    "general:products/amazon-connect,marketing:marchitecture/business-productivity,marketing:marchitecture/messaging,marketing:marchitecture/contact-center"
+  ]
+}

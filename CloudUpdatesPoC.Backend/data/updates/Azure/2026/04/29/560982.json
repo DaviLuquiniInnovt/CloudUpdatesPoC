@@ -1,0 +1,15 @@
+{
+  "Id": "560982",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Microsoft Agent Framework 1.0",
+  "Summary": "Microsoft\nAgent Framework is now version 1.0 for both .NET and Python, with\nstable APIs and a long-term support commitment. Agent Framework 1.0 supports\nmulti-agent orchestration, multi-provider model support, and cross-runtime\ninteroperability via A2A an",
+  "Url": "https://azure.microsoft.com/updates?id=560982",
+  "PublishedAt": "2026-04-29T18:15:05Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Features",
+    "SDK and Tools"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "557907",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Pod CIDR expansion in AKS",
+  "Summary": "When clusters\nexhaust available pod IP addresses, teams have historically been forced to\nrebuild environments to restore capacity, creating operational disruption. Pod\nCIDR expansion allows overlay\u2011based AKS clusters to increase their pod IP range\nin plac",
+  "Url": "https://azure.microsoft.com/updates?id=557907",
+  "PublishedAt": "2026-04-07T17:00:23Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

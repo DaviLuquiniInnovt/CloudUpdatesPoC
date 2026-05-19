@@ -1,0 +1,11 @@
+{
+  "Id": "dd54f9c0542767e7ab81757532f499319383fd64",
+  "Provider": "AWS",
+  "Title": "Introducing Amazon EC2 R8idn and R8idb instances ",
+  "Summary": "\u003Cp\u003EAWS is announcing the general availability of Amazon EC2 R8idn and Amazon EC2 R8idb instances, powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These instances also feature the latest sixth generation AWS Nitro cards. R8idn and R8idb deliver up to 43% better compute performance per vCPU compared to previous generation R6in instances.\u003Cbr\u003E \u003Cbr\u003E Amazon EC2 R8idn instances offer up to 600 Gbps network bandwidth, the highest network bandwidth among enhanced networking EC2 instances, combined with up to 22,800 GB of local NVMe instance storage. Amazon EC2 R8idb instances deliver up to 300 Gbps EBS bandwidth and up to 1,440K IOPS, the highest EBS performance among non-accelerated compute EC2 instances.\u003Cbr\u003E \u003Cbr\u003E R8idn instances are ideal for memory-intensive workloads requiring high network throughput and local storage, such as in-memory databases, real-time big data analytics, and large-scale distributed caching layers. R8idb instances are ideal for memory-intensive workloads requiring high block storage performance, such as large-scale commercial databases, high-performance file systems, and enterprise analytics platforms.\u003Cbr\u003E \u003Cbr\u003E Amazon EC2 R8idn and R8idb instances are available in US East (N. Virginia, Ohio), US West (Oregon), and Europe (Spain). R8idn and R8idb instances are available via Savings Plans, On-Demand, and Spot instances. For more information, visit the \u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/r8i/\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003EAmazon EC2 R8i instance page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb/",
+  "PublishedAt": "2026-05-07T15:00:00Z",
+  "Categories": [
+    "general:products/amazon-ec2,marketing:marchitecture/compute"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "559660",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure DevOps March 2026 updates",
+  "Summary": "The following updates were made to Azure DevOps in March\n2026.   \n The\n     Remote MCP Server entered public preview, enabling seamless AI-powered\n     integration with Azure DevOps without requiring a local server.  \n Security\n     improvements included ",
+  "Url": "https://azure.microsoft.com/updates?id=559660",
+  "PublishedAt": "2026-03-31T18:15:10Z",
+  "Categories": [
+    "Launched",
+    "Developer tools",
+    "DevOps",
+    "Hybrid \u002B multicloud",
+    "Azure DevOps",
+    "Features"
+  ]
+}

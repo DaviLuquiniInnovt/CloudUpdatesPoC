@@ -1,0 +1,11 @@
+{
+  "Id": "243b703840d1357f3bd6a0101b2a03e6081e3b06",
+  "Provider": "AWS",
+  "Title": "Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022http://aws.amazon.com/redshift\u0022\u003EAmazon Redshift\u003C/a\u003E now supports writing directly to Apache Iceberg tables via the AWS Glue Data Catalog (awsdatacatalog) mount and ALTER TABLE DDL statements to modify the schema, partitioning, and properties of Apache Iceberg tables. With write access through the auto-mounted awsdatacatalog, you can land Redshift transformations in your data lake for any engine to query without creating external schemas\u2014particularly useful for Iceberg tables federated with AWS Lake Formation.\u0026nbsp;Supported ALTER TABLE operations include ADD/DROP/ALTER columns, RENAME COLUMN, SET TABLE PROPERTIES to overwrite the default compression type, and ADD/DROP/REPLACE PARTITION FIELD to adapt partitioning strategies as data volumes grow. Previously, updating the structure of Iceberg tables required deleting the table and its data, adding complexity and latency to data pipelines.\u0026nbsp;Tables modified by Redshift remain compatible with other Iceberg-compatible engines, including \u003Ca href=\u0022https://aws.amazon.com/emr/\u0022\u003EAmazon EMR\u003C/a\u003E and \u003Ca href=\u0022https://aws.amazon.com/athena/\u0022\u003EAmazon Athena\u003C/a\u003E, preserving cross-engine interoperability. AWS Lake Formation permissions are supported for Iceberg write operations.\u003Cbr\u003E \u003Cbr\u003E These capabilities are available in all AWS Regions where Amazon Redshift is available. To get started, visit the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/redshift/latest/dg/referencing-iceberg-tables.html\u0022\u003EReferencing Iceberg tables in Amazon Redshift\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/redshift/latest/dg/iceberg-alter-table.html\u0022\u003EAltering table definitions\u003C/a\u003E sections in the Amazon Redshift Database Developer Guide.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/",
+  "PublishedAt": "2026-05-18T16:25:00Z",
+  "Categories": [
+    "general:products/amazon-redshift,marketing:marchitecture/analytics"
+  ]
+}

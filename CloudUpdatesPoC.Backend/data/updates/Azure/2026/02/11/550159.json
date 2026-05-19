@@ -1,0 +1,15 @@
+{
+  "Id": "550159",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure SQL updates for mid-February 2026  ",
+  "Summary": "In mid-February 2026, the following updates and enhancements were made to Azure SQL:Simplify SQL deployments from Visual Studio Code using the new SQL Projects Publish dialog.Connections Migration dialog enables you to import your existing workflows and c",
+  "Url": "https://azure.microsoft.com/updates?id=550159",
+  "PublishedAt": "2026-02-11T23:15:55Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

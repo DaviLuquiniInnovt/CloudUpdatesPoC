@@ -1,0 +1,17 @@
+{
+  "Id": "560162",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Managed identity support for graphical session recording",
+  "Summary": "Today, we are announcing Azure Bastion now supports managed\nidentities for graphical session recording. Azure Bastion graphical session recording now supports write\naccess to storage accounts using managed identities. With this update, users\nhave the opti",
+  "Url": "https://azure.microsoft.com/updates?id=560162",
+  "PublishedAt": "2026-04-13T18:45:30Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Azure Bastion",
+    "Features",
+    "Security",
+    "Services"
+  ]
+}

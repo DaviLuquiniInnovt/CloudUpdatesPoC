@@ -1,0 +1,12 @@
+{
+  "Id": "562690",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Network Watcher rule impact analyser ",
+  "Summary": "Azure Network Watcher rule impact analyzer is now generally available, enabling you to assess the potential impact of your network security group (NSG) or security admin rule changes on live network traffic before applying them. With this capability, you ",
+  "Url": "https://azure.microsoft.com/updates?id=562690",
+  "PublishedAt": "2026-05-19T16:45:42Z",
+  "Categories": [
+    "Launched",
+    "Features"
+  ]
+}

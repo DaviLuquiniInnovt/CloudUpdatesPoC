@@ -1,0 +1,11 @@
+{
+  "Id": "a861ab26dd84f4c9d24dda58975ba4385e48700d",
+  "Provider": "AWS",
+  "Title": "Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances",
+  "Summary": "\u003Cp style=\u0022text-align: left;\u0022\u003EPreviously, the Amazon CloudFront Premium flat-rate plan supported a single usage allowance, and customers who outgrew it needed to contact us to discuss custom pricing options. Now, the Premium plan offers a range of self-service monthly usage levels ranging from 500 million to 6 billion requests and 50 TB to 600 TB, so customers can scale within the plan as their applications grow. Enterprises and mid-sized businesses whose baseline traffic previously made them ineligible for flat-rate plans can now adopt the Premium plan at a usage level that fits their application.\u003C/p\u003E \n\u003Cp style=\u0022text-align: left;\u0022\u003EYou select your Premium plan usage level in the CloudFront console, see your new monthly flat-rate price instantly, and can change your usage level at any time with no commitment required. All Premium plan features are included at every usage level. Flat-rate plans provide a single monthly price covering content delivery, AWS WAF and DDoS protection, bot management, Amazon Route 53 DNS, Amazon CloudWatch Logs ingestion, serverless edge compute, and Amazon S3 storage credits \u2014 with no overage charges.\u003C/p\u003E \n\u003Cp style=\u0022text-align: left;\u0022\u003ETo get started, visit the \u003Ca href=\u0022https://us-east-1.console.aws.amazon.com/cloudfront/v4/home\u0022\u003ECloudFront console\u003C/a\u003E. To learn more, refer to the \u003Ca href=\u0022https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-premium-flat-rate-plan-supports-configurable-usage-allowances/\u0022\u003ELaunch Blog\u003C/a\u003E or \u003Ca href=\u0022https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/flat-rate-pricing-plan.html#usage-allowance\u0022\u003EAmazon CloudFront Developer Guide\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/",
+  "PublishedAt": "2026-05-12T16:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/networking-and-content-delivery,general:products/amazon-cloudfront"
+  ]
+}

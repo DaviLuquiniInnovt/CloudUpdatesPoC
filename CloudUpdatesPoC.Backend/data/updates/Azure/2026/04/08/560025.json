@@ -1,0 +1,15 @@
+{
+  "Id": "560025",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Files assessments are now available using Azure Migrate",
+  "Summary": "Azure Migrate\nnow supports assessments for Azure Files, allowing customers and partners to\nefficiently plan migrations of on-premises SMB and NFS file shares (Windows and\nLinux) to Azure Files. This feature enables discovery of file shares,\nvisibility int",
+  "Url": "https://azure.microsoft.com/updates?id=560025",
+  "PublishedAt": "2026-04-08T17:30:02Z",
+  "Categories": [
+    "In preview",
+    "Management and governance",
+    "Migration",
+    "Azure Migrate",
+    "Features"
+  ]
+}

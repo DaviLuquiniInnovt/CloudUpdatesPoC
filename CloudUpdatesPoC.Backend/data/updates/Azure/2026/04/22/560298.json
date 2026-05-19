@@ -1,0 +1,15 @@
+{
+  "Id": "560298",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Migrating from virtual network-integrated to Private Endpoint\u2013capable network configuration ",
+  "Summary": "You can now migrate your Azure Database for PostgreSQL server from a virtual network\u2011integrated deployment to a network configuration that supports Private Endpoint connectivity. If you originally deployed your server inside a virtual network but now want",
+  "Url": "https://azure.microsoft.com/updates?id=560298",
+  "PublishedAt": "2026-04-22T17:30:14Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Id": "558662",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Entra ID-Based Access for Azure Blob Storage SFTP",
+  "Summary": "Microsoft Entra ID-based access for Azure Blob Storage SFTP\nis now in public preview. This new capability empowers you to use Microsoft\nEntra ID identities (including guest users via Entra External Identities) to\nsecurely connect to Azure Blob Storage via",
+  "Url": "https://azure.microsoft.com/updates?id=558662",
+  "PublishedAt": "2026-03-16T18:30:34Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure Blob Storage",
+    "Features"
+  ]
+}

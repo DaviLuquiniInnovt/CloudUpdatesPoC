@@ -1,0 +1,16 @@
+{
+  "Id": "492542",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Event Grid provides new capabilities for smarter, more secure event-driven architectures",
+  "Summary": "Azure Event Grid now offers a variety of new features intended\nto help you better manage large-scale, distributed systems with improved\ninteroperability and control.  Generally Available features:  \n MQTT Message Ordering:\n     Ensures in-order message de",
+  "Url": "https://azure.microsoft.com/updates?id=492542",
+  "PublishedAt": "2026-03-31T17:30:08Z",
+  "Categories": [
+    "Launched",
+    "Integration",
+    "Internet of Things",
+    "Event Grid",
+    "Features",
+    "Microsoft Build"
+  ]
+}

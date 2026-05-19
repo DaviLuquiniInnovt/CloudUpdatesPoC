@@ -1,0 +1,15 @@
+{
+  "Id": "558879",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure SQL updates for late-March 2026 ",
+  "Summary": "In late-March 2026, the following updates and\nenhancements were made to Azure SQL:  \n Configure built-in SQL code analysis rules and\n     severity settings without editing project XML.  \n Use Fabric connectivity\n     and provisioning options to connect wi",
+  "Url": "https://azure.microsoft.com/updates?id=558879",
+  "PublishedAt": "2026-03-26T16:00:10Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

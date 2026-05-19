@@ -1,0 +1,11 @@
+{
+  "Id": "0f050919a356678c63806dc32438d0ba8274697d",
+  "Provider": "AWS",
+  "Title": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
+  "Summary": "\u003Cp\u003EWe are pleased to announce general availability of Amazon EC2 G6 instances in the Middle East (Dubai) and Asia Pacific (Malaysia) on SageMaker Studio notebooks.\u003C/p\u003E \n\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/g6/\u0022\u003EAmazon EC2 G6 instances\u003C/a\u003E\u0026nbsp;are powered by up to 8 NVIDIA L4 Tensor Core GPUs with 24 GB of memory per GPU and third generation AMD EPYC processors. G6 instances offer 2x better performance for deep learning inference compared to EC2 G4dn instances. Customers can use G6 instances to interactively test model deployment and for interactive model training for use cases such as generative AI fine-tuning and inference workloads, natural language processing, language translation, computer vision, and recommender engines.\u003C/p\u003E \n\u003Cp\u003EVisit developer guides for instructions on setting up and using\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated-jl.html\u0022\u003EJupyterLab\u003C/a\u003E\u0026nbsp;and\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/code-editor.html\u0022\u003ECodeEditor\u003C/a\u003E\u0026nbsp;applications on\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated.html\u0022\u003ESageMaker Studio\u003C/a\u003E.\u0026nbsp;For pricing information on these instances, please visit our\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/sagemaker/ai/pricing/?refid=ft_sagemaker\u0022\u003Epricing page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/",
+  "PublishedAt": "2026-05-11T20:00:00Z",
+  "Categories": [
+    "general:products/amazon-sagemaker,general:products/amazon-sagemaker-studio,general:products/aiml,marketing:marchitecture/artificial-intelligence"
+  ]
+}

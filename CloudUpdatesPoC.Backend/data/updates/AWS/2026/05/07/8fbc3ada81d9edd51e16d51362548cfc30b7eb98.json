@@ -1,0 +1,11 @@
+{
+  "Id": "8fbc3ada81d9edd51e16d51362548cfc30b7eb98",
+  "Provider": "AWS",
+  "Title": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/rds/sqlserver/\u0022\u003EAmazon RDS for SQL Server\u003C/a\u003E now supports M8a and R8a instances powered by 5th Generation AMD EPYC processors. On RDS for SQL Server, R8a and M8a instances deliver up to 70% higher throughput than comparable x86 instances for commonly used instance sizes. \u003Cbr\u003E \u003Cbr\u003E Each vCPU in M8a and R8a instances corresponds to a physical CPU core, designed to deliver consistent per-core performance. For workloads with high I/O requirements, M8a and R8a instances provide up to 75 Gbps of network bandwidth and 60 Gbps of Amazon EBS bandwidth. Additionally, M8a and R8a instances support the RDS for SQL Server optimize CPU feature, which allows customers to reduce their vCPU-based Microsoft SQL Server licensing charges by adjusting the number of vCPUs enabled on their instance. All instances are built on the AWS Nitro System using sixth-generation Nitro Cards.\u003Cbr\u003E \u003Cbr\u003E Amazon RDS for SQL Server M8a and R8a instances are available in all commercial AWS Regions where these instances are offered in Amazon EC2. Customers can purchase these instances using On-Demand pricing or as part of their \u003Ca href=\u0022https://aws.amazon.com/savingsplans/database-pricing/\u0022\u003EDatabase Savings Plan\u003C/a\u003E. To learn more, visit the \u003Ca href=\u0022https://aws.amazon.com/rds/sqlserver/pricing/\u0022\u003EAmazon RDS for SQL Server pricing page\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_SQLServer.html\u0022\u003EAmazon RDS User Guide\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances/",
+  "PublishedAt": "2026-05-07T07:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/databases,general:products/amazon-rds-for-sql-server"
+  ]
+}

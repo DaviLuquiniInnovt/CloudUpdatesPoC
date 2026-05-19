@@ -1,0 +1,15 @@
+{
+  "Id": "558140",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Database for PostgreSQL dashboards with Grafana ",
+  "Summary": "You can now monitor your Azure Database for PostgreSQL with rich, built-in Grafana dashboards\u2014right from the Azure portal. This native integration with Azure Monitor means you no longer need to set up or manage a separate Grafana instance to get deep visi",
+  "Url": "https://azure.microsoft.com/updates?id=558140",
+  "PublishedAt": "2026-03-11T18:00:35Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

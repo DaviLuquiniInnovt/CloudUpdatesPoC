@@ -1,0 +1,13 @@
+{
+  "Id": "548525",
+  "Provider": "Azure",
+  "Title": "Retirement: HBv2-series Azure Virtual Machines will be retired on May 31, 2027",
+  "Summary": "On May 31, 2027, Microsoft Azure will retire the following HBv2-series virtual machine (VMs) sizes: Standard_HB120rs_v2, Standard_HB120-96rs_v2, Standard_HB120-64rs_v2, Standard_HB120-32rs_v2, and Standard_HB120-16rs_v2.  To ensure continuity and improved",
+  "Url": "https://azure.microsoft.com/updates?id=548525",
+  "PublishedAt": "2026-03-19T16:30:27Z",
+  "Categories": [
+    "Compute",
+    "Virtual Machines",
+    "Retirements"
+  ]
+}

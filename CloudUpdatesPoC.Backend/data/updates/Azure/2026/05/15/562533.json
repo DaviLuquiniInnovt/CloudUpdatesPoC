@@ -1,0 +1,14 @@
+{
+  "Id": "562533",
+  "Provider": "Azure",
+  "Title": "[Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements",
+  "Summary": "Role names in Microsoft Foundry have been updated to align with the product brand. The following built-in roles are now renamed:Azure AI Account Owner \u2192 Foundry Account OwnerAzure AI Owner \u2192 Foundry OwnerAzure AI User \u2192 Foundry UserAzure AI Project Manage",
+  "Url": "https://azure.microsoft.com/updates?id=562533",
+  "PublishedAt": "2026-05-15T22:00:42Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Microsoft Foundry",
+    "Management"
+  ]
+}

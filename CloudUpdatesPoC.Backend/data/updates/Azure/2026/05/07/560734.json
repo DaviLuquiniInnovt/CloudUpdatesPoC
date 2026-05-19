@@ -1,0 +1,14 @@
+{
+  "Id": "560734",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Dl/D/E v7 Virtual Machines",
+  "Summary": "Azure has announced the general availability of the new Dl/D/E v7 Virtual Machines, powered by the latest Intel\u00AE Xeon\u00AE 6 (Granite Rapids) processors. These general\u2011purpose and memory\u2011optimized VMs deliver up to 20% better general compute performance compa",
+  "Url": "https://azure.microsoft.com/updates?id=560734",
+  "PublishedAt": "2026-05-07T18:00:38Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Virtual Machines",
+    "Pricing \u0026 Offerings"
+  ]
+}

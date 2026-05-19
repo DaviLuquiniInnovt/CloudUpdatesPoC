@@ -1,0 +1,14 @@
+{
+  "Id": "557208",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Node auto-provisioning support in Sovereign Cloud",
+  "Summary": "Node auto\u2011provisioning removes the\nneed for teams to manually size and manage compute resources for Kubernetes\nworkloads. Azure Kubernetes Service (AKS) now provides general availability\nsupport for node auto\u2011provisioning in Sovereign Cloud. This capabili",
+  "Url": "https://azure.microsoft.com/updates?id=557208",
+  "PublishedAt": "2026-02-18T17:15:17Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)"
+  ]
+}

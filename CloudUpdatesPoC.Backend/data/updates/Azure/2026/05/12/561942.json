@@ -1,0 +1,15 @@
+{
+  "Id": "561942",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Confidential computing for Azure Service Bus Premium",
+  "Summary": "Confidential computing for Azure Service Bus Premium is now\ngenerally available in Korea Central and UAE North. This\ncapability enables Service Bus to process messages inside hardware-based\ntrusted execution environments (TEEs), adding protection for data",
+  "Url": "https://azure.microsoft.com/updates?id=561942",
+  "PublishedAt": "2026-05-12T18:30:55Z",
+  "Categories": [
+    "Launched",
+    "Integration",
+    "Service Bus",
+    "Features",
+    "Security"
+  ]
+}

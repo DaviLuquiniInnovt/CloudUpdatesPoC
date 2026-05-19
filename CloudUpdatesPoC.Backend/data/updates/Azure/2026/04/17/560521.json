@@ -1,0 +1,18 @@
+{
+  "Id": "560521",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Configure AKS backup using a single Azure CLI command",
+  "Summary": "Azure Backup\nnow provides a simplified experience to configure backup for Azure\nKubernetes Service (AKS) clusters using a single Azure CLI command.Enabling\nbackup for AKS clusters through CLI requires multiple manual steps, including\ninstallation of the B",
+  "Url": "https://azure.microsoft.com/updates?id=560521",
+  "PublishedAt": "2026-04-17T17:15:04Z",
+  "Categories": [
+    "Launched",
+    "Management and governance",
+    "Storage",
+    "Compute",
+    "Containers",
+    "Azure Backup",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

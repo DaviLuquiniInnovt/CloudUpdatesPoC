@@ -1,0 +1,11 @@
+{
+  "Id": "076bb0d82bdd81099df79b4b1c038387350beee6",
+  "Provider": "AWS",
+  "Title": "AWS Service Catalog is now available in the AWS Asia Pacific (New Zealand) and Canada West (Calgary) regions",
+  "Summary": "\u003Cp\u003EAWS Service Catalog is now available to customers in two additional AWS Regions: Asia Pacific (New Zealand) and Canada West (Calgary).\u003Cbr\u003E \u003Cbr\u003E AWS Service Catalog enables customers to create, govern, and distribute a catalog of approved Infrastructure as Code (IaC) products for deployment on AWS. Administrators define products using AWS CloudFormation or other IaC tools such as Terraform. A product is a set of AWS resources that can range from a single compute instance to a fully configured multi-tier application. Customers can share portfolios of approved products across AWS accounts and organizational units through AWS Organizations, giving engineers, database administrators, data scientists, and other end-users consistent self-service access to governed AWS resources across their organization.\u003Cbr\u003E \u003Cbr\u003E With AWS Service Catalog, organizations can apply launch and template constraints to govern how products are provisioned, manage product versions as they evolve, and control access by individual, group, or cost center using AWS Identity and Access Management (IAM). AWS Service Catalog is used by enterprises, system integrators, and managed service providers to organize, govern, and provision resources on AWS at scale.\u003Cbr\u003E \u003Cbr\u003E For more information, please visit the\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/servicecatalog/\u0022\u003EAWS Service Catalog product page\u003C/a\u003E\u0026nbsp;and\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/servicecatalog/\u0022\u003Edocumentation\u003C/a\u003E. See the\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\u0022\u003EAWS Region Table\u003C/a\u003E\u0026nbsp;for complete regional availability.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/",
+  "PublishedAt": "2026-05-08T16:43:00Z",
+  "Categories": [
+    null
+  ]
+}

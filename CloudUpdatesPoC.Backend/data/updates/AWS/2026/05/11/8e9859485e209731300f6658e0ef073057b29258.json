@@ -1,0 +1,11 @@
+{
+  "Id": "8e9859485e209731300f6658e0ef073057b29258",
+  "Provider": "AWS",
+  "Title": "Announcing Region Expansion of P4de instances on SageMaker Studio notebooks",
+  "Summary": "\u003Cp\u003EWe are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo, Singapore) and Europe (Frankfurt) on SageMaker Studio notebooks.\u003Cbr\u003E \u003Cbr\u003E \u003Ca href=\u0022https://aws.amazon.com/ec2/instance-types/p4/\u0022\u003EAmazon EC2 P4de instances\u003C/a\u003E\u0026nbsp;are powered by 8 NVIDIA A100 GPUs with 80GB high-performance HBM2e GPU memory, 2X higher than the GPUs in our current P4d instances. The new P4de instances provide a total of 640GB of GPU memory, which provide up to 60% better ML training performance along with 20% lower cost to train when compared to P4d instances. The improved performance will allow customers to reduce model training times and accelerate time to market. Increased GPU memory on P4de will also benefit workloads that need to train on large datasets of high-resolution data.\u003Cbr\u003E \u003Cbr\u003E Visit developer guides for instructions on setting up and using\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated-jl.html\u0022\u003EJupyterLab\u003C/a\u003E\u0026nbsp;and\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/code-editor.html\u0022\u003ECodeEditor\u003C/a\u003E\u0026nbsp;applications on\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker/latest/dg/studio-updated.html\u0022\u003ESageMaker Studio\u003C/a\u003E.\u0026nbsp;For pricing information on these instances, please visit our\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/sagemaker/ai/pricing/?refid=ft_sagemaker\u0022\u003Epricing page\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/",
+  "PublishedAt": "2026-05-11T20:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/artificial-intelligence,general:products/amazon-sagemaker-studio,general:products/amazon-sagemaker,general:products/aiml"
+  ]
+}

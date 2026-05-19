@@ -1,0 +1,14 @@
+{
+  "Id": "559552",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Red Hat OpenShift in Indonesia Central",
+  "Summary": "Azure Red Hat OpenShift (ARO) is now generally available in\nthe Indonesia Central Azure region, expanding regional availability for\ncustomers running mission\u2011critical OpenShift workloads on Azure. This release\nenables organizations in Indonesia and the br",
+  "Url": "https://azure.microsoft.com/updates?id=559552",
+  "PublishedAt": "2026-03-30T21:30:50Z",
+  "Categories": [
+    "Launched",
+    "Containers",
+    "Azure Red Hat OpenShift",
+    "Open Source"
+  ]
+}

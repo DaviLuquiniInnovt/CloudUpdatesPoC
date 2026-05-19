@@ -1,0 +1,14 @@
+{
+  "Id": "557224",
+  "Provider": "Azure",
+  "Title": "Retirement: Windows Server Annual Channel (preview) ",
+  "Summary": "Windows Server Annual Channel (Preview) on AKS will be retired on May 15, 2026, please transition to Long Term Servicing Channel (LTSC) by that date.  We encourage you to transition to Long Term Servicing Channel (LTSC) prior to the retirement date to exp",
+  "Url": "https://azure.microsoft.com/updates?id=557224",
+  "PublishedAt": "2026-02-23T18:15:17Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "Azure Kubernetes Service (AKS)",
+    "Retirements"
+  ]
+}

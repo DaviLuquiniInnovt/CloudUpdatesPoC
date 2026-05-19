@@ -1,0 +1,15 @@
+{
+  "Id": "561373",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Bulk Restore for Azure Virtual Machines using Azure Backup",
+  "Summary": "Azure Backup now supports \u2018Bulk Restore\u2019 for Azure virtual machines (VMs), enabling customers to restore multiple VMs (upto 100) in a single operation. This feature simplifies large-scale recovery scenarios while preserving control and granularity at an i",
+  "Url": "https://azure.microsoft.com/updates?id=561373",
+  "PublishedAt": "2026-05-06T19:45:54Z",
+  "Categories": [
+    "In preview",
+    "Management and governance",
+    "Storage",
+    "Azure Backup",
+    "Features"
+  ]
+}

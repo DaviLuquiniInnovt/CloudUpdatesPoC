@@ -1,0 +1,11 @@
+{
+  "Id": "23c889add84dbef019c4069a30b3ebca28f86658",
+  "Provider": "AWS",
+  "Title": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
+  "Summary": "\u003Cp\u003EAmazon Route 53 Resolver endpoints now support DNS64 on inbound endpoints and IPv6 forwarding through the internet gateway (IGW) on outbound endpoints, making it easier to manage hybrid DNS across IPv4 and IPv6 networks. With DNS64 enabled on inbound endpoints, you can synthesize AAAA (IPv6) responses for domains that only have A (IPv4) records, allowing IPv6-only clients on-premises to reach IPv4 services on AWS without changes to those services. You can also configure outbound endpoints to forward DNS queries to public IPv6 name servers through the IGW.\u003Cbr\u003E \u003Cbr\u003E Amazon Route 53 Resolver endpoints simplify hybrid cloud DNS by enabling seamless query resolution between on-premises networks and Amazon Virtual Private Cloud (Amazon VPC). As you transition workloads to IPv6, these capabilities help your IPv6 resources on VPCs and on-premises networks communicate with both IPv4 and IPv6 destinations without additional workarounds.\u003Cbr\u003E \u003Cbr\u003E These capabilities are available at no additional cost in all AWS Regions where Route 53 Resolver endpoints are supported. To get started, see the Route 53 VPC Resolver \u003Ca href=\u0022https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003Edocumentation\u003C/a\u003E. For regional availability, see the Route 53 Region \u003Ca href=\u0022https://docs.aws.amazon.com/general/latest/gr/r53.html\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003Elist\u003C/a\u003E. For Route 53 Resolver endpoint pricing, see \u003Ca href=\u0022https://aws.amazon.com/route53/pricing/\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003Ehere\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/",
+  "PublishedAt": "2026-05-07T23:08:00Z",
+  "Categories": [
+    "general:products/amazon-route-53,general:products/aws-govcloud-us,marketing:marchitecture/networking-and-content-delivery"
+  ]
+}

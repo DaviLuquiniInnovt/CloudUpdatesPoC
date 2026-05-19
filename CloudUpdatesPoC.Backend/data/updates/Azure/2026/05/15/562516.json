@@ -1,0 +1,14 @@
+{
+  "Id": "562516",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Blob Storage SDK for Rust",
+  "Summary": "The Azure Blob Storage SDK for Rust is now generally\navailable. The Rust SDK allows you to connect to an Azure Blob Storage account\nand perform operations on containers and blobs, including uploading,\ndownloading, listing, and managing blobs. This release",
+  "Url": "https://azure.microsoft.com/updates?id=562516",
+  "PublishedAt": "2026-05-15T18:15:26Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Blob Storage",
+    "SDK and Tools"
+  ]
+}

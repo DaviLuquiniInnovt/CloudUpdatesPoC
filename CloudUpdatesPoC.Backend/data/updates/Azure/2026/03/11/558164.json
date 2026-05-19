@@ -1,0 +1,15 @@
+{
+  "Id": "558164",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Query Profiler in MSSQL extension for Visual Studio Code ",
+  "Summary": "The MSSQL extension for Visual Studio Code now introduces Query Profiler in public preview, bringing real-time insight into your database activity directly inside Visual Studio Code. With Query Profiler, you can capture query and database activity as it h",
+  "Url": "https://azure.microsoft.com/updates?id=558164",
+  "PublishedAt": "2026-03-11T17:45:49Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

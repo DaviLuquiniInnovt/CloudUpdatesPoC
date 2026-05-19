@@ -1,0 +1,12 @@
+{
+  "Id": "558134",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: GitHub Copilot in SQL Server Management Studio 22 ",
+  "Summary": "GitHub Copilot is now generally available in SQL Server Management Studio (SSMS) 22, bringing AI\u2011powered assistance directly into the application that you use every day.  With GitHub Copilot in SSMS, you can use natural language to develop, explain, fix, ",
+  "Url": "https://azure.microsoft.com/updates?id=558134",
+  "PublishedAt": "2026-03-18T18:15:04Z",
+  "Categories": [
+    "Launched",
+    "Features"
+  ]
+}

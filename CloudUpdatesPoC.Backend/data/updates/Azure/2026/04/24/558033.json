@@ -1,0 +1,15 @@
+{
+  "Id": "558033",
+  "Provider": "Azure",
+  "Title": "Retirement: Support for .NET 8 (LTS) ends on November 10, 2026\u2014upgrade your apps to .NET 10 (LTS) ",
+  "Summary": "On November 10, 2026, support for .NET 8 (LTS)\nwill end. Your apps that are hosted on App Service will continue to run,\nbut security updates will no longer\nbe available and we\u0027ll no longer provide customer service\nfor .NET 8 (LTS). Required action: To avo",
+  "Url": "https://azure.microsoft.com/updates?id=558033",
+  "PublishedAt": "2026-04-24T17:45:05Z",
+  "Categories": [
+    "Compute",
+    "Mobile",
+    "Web",
+    "App Service",
+    "Retirements"
+  ]
+}

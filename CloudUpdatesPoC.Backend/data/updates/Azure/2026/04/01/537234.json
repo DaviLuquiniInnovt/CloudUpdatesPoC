@@ -1,0 +1,19 @@
+{
+  "Id": "537234",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door",
+  "Summary": "You can now deliver dynamic configuration directly to client-side\napplications\u2014securely and at CDN scale\u2014thanks to Azure App\nConfiguration\u2019s integration with Azure Front Door. This delivers new\nflexibility for modern apps and unlocks a critical capability",
+  "Url": "https://azure.microsoft.com/updates?id=537234",
+  "PublishedAt": "2026-04-01T19:00:05Z",
+  "Categories": [
+    "In preview",
+    "Containers",
+    "Developer tools",
+    "Mobile",
+    "Security",
+    "Web",
+    "App Configuration",
+    "Features",
+    "Microsoft Ignite"
+  ]
+}

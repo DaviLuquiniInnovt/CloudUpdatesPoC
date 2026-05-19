@@ -1,0 +1,11 @@
+{
+  "Id": "87ffed13bc80a140543f02490207b663c69d4e92",
+  "Provider": "AWS",
+  "Title": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+  "Summary": "\u003Cp\u003EAWS Site-to-Site VPN now supports modifying tunnel bandwidth between standard (up to 1.25 Gbps) and large (up to 5 Gbps) on existing connections, making it easier to update your VPN connections\u2019 bandwidth per your organization\u2019s need.\u003Cbr\u003E \u003Cbr\u003E Previously, changing tunnel bandwidth required deleting and recreating the connection, which generated new tunnel IP addresses and meant updating your on-premises VPN device configuration and firewall rules. With this launch, tunnels are upgraded while preserving your IP addresses, CIDR blocks, pre-shared keys, and all configuration settings, eliminating the need to make any changes to your on-premises device.\u003Cbr\u003E \u003Cbr\u003E This feature is available in the following AWS Regions: US East (N. Virginia, Ohio), US West (N. California), AWS GovCloud (US-West), Europe (Frankfurt, London, Paris, Spain, Stockholm), Asia Pacific (Hong Kong, Hyderabad, Jakarta, Malaysia, Mumbai, New Zealand, Osaka, Seoul, Sydney, Taipei, Thailand, Tokyo), Africa (Cape Town), Mexico (Central), and South America (S\u00E3o Paulo). To learn more and get started, visit the AWS Site-to-Site VPN \u003Ca href=\u0022https://docs.aws.amazon.com/vpn/latest/s2svpn/modify-vpn-connection-options.html\u0022\u003Edocumentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/",
+  "PublishedAt": "2026-05-06T21:09:00Z",
+  "Categories": [
+    "marketing:marchitecture/networking-and-content-delivery,general:products/aws-site-to-site"
+  ]
+}

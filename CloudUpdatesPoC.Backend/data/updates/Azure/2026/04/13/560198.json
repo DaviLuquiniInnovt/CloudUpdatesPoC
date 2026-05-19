@@ -1,0 +1,17 @@
+{
+  "Id": "560198",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Storage Mover now available in Azure Government (US)",
+  "Summary": "Azure Storage Mover is now available in Azure\nGovernment (US), enabling U.S. government customers and partners to securely\nmigrate large\u2011scale file data to Azure Government cloud environments using a\nfully managed migration service.  What is Azure Storage",
+  "Url": "https://azure.microsoft.com/updates?id=560198",
+  "PublishedAt": "2026-04-13T18:00:56Z",
+  "Categories": [
+    "Launched",
+    "Migration",
+    "Storage",
+    "Azure Storage Mover",
+    "Features",
+    "Regions \u0026 Datacenters",
+    "Services"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "53cb5753ab747f98a1f03748a9d565ce8a304fff",
+  "Provider": "AWS",
+  "Title": "Amazon Neptune now supports 1-click connect with CloudShell",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/neptune/\u0022 target=\u0022_blank\u0022 rel=\u0022noopener noreferrer\u0022\u003EAmazon Neptune\u003C/a\u003E now offers 1-click connect capability, enabling you to quickly connect to Neptune Database and Neptune Analytics using CloudShell.\u003C/p\u003E \n\u003Cp\u003EPreviously, connecting to Neptune resources required manual configuration network settings and access permissions, taking time from database administrators, developers, and data analysts who needed to query their graph databases. With 1-click connect, you can immediately start querying your Neptune resources without manual network configuration, significantly reducing setup time and technical complexity. This streamlined approach works across different network configurations, including VPC only resources. 1-click connect is particularly valuable for testing and development workflows, troubleshooting, and for customers new to Neptune who want to quickly explore and experiment with their graph data.\u003Cbr\u003E \u003Cbr\u003E 1-click connect is available at no additional charge in all regions where Amazon Neptune is currently offered. To learn more and how to get started, visit \u003Ca href=\u0022https://aws.amazon.com/neptune/\u0022\u003Ehttps://aws.amazon.com/neptune/\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell/",
+  "PublishedAt": "2026-05-06T17:00:00Z",
+  "Categories": [
+    "marketing:benefits-realized/user-experience,marketing:benefits-realized/ease-of-use,marketing:marchitecture/databases,general:products/amazon-neptune"
+  ]
+}

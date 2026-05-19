@@ -1,0 +1,15 @@
+{
+  "Id": "558155",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Database DevOps in SSMS powered by SQL projects ",
+  "Summary": "Bring the benefits of schema-as-code to your database development workflow. SQL database projects enable you to source control your database schema, perform reliable deployments to any environment, and integrate code quality checks into your development p",
+  "Url": "https://azure.microsoft.com/updates?id=558155",
+  "PublishedAt": "2026-03-18T18:15:04Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

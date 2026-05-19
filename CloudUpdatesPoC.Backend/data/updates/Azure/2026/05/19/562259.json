@@ -1,0 +1,14 @@
+{
+  "Id": "562259",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure NetApp Files cache volumes ",
+  "Summary": "Azure NetApp Files cache volumes is now Generally Available. Azure NetApp Files now support cache volumes, which are cloud-based caches of an external origin volume, containing only the most actively accessed data on the volume. This brings data and files",
+  "Url": "https://azure.microsoft.com/updates?id=562259",
+  "PublishedAt": "2026-05-19T17:00:29Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

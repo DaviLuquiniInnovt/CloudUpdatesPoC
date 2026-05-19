@@ -1,0 +1,16 @@
+{
+  "Id": "556008",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Quota and deployment troubleshooting tools for Azure Functions Flex Consumption ",
+  "Summary": "Azure Functions Flex Consumption introduces\nnew platform\u2011integrated tools that provide clearer insight into quota\navailability and deployment behavior.   The\nquota troubleshooting\nexperience surfaces Flex Consumption quota limits and related\nconstraints, ",
+  "Url": "https://azure.microsoft.com/updates?id=556008",
+  "PublishedAt": "2026-02-18T18:00:55Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features"
+  ]
+}

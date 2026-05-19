@@ -1,0 +1,14 @@
+{
+  "Id": "559242",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Container Apps Express ",
+  "Summary": "Azure Container Apps Express is now available in public preview. It is the simplest and fastest way to launch and scale powerful applications on Azure, from zero to hyperscale, without infrastructure decisions. It represents the first Azure compute platfo",
+  "Url": "https://azure.microsoft.com/updates?id=559242",
+  "PublishedAt": "2026-05-13T17:30:20Z",
+  "Categories": [
+    "In preview",
+    "Containers",
+    "Azure Container Apps",
+    "Features"
+  ]
+}

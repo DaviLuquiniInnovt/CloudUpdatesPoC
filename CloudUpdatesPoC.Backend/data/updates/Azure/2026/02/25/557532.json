@@ -1,0 +1,15 @@
+{
+  "Id": "557532",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Geo\u2011redundant backups for Premium SSD v2 in Azure Database for PostgreSQL ",
+  "Summary": "You can now configure geo\u2011redundant backups with Premium SSD v2 disks for Azure Database for PostgreSQL, giving you an additional layer of disaster recovery for mission\u2011critical workloads. With this release, your automated backups are securely stored in a",
+  "Url": "https://azure.microsoft.com/updates?id=557532",
+  "PublishedAt": "2026-02-25T18:30:06Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "562049",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Application Insights Auto-instrumentation for Azure Kubernetes Service apps",
+  "Summary": "Azure Monitor Application Insights auto-instrumentation for Azure Kubernetes Service (AKS) apps is now generally available, making it easier to monitor your applications without modifying source code. With just a few configuration steps, you can automatic",
+  "Url": "https://azure.microsoft.com/updates?id=562049",
+  "PublishedAt": "2026-05-18T18:00:18Z",
+  "Categories": [
+    "Launched",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Microsoft Build",
+    "Open Source"
+  ]
+}

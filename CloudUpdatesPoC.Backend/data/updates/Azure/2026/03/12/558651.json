@@ -1,0 +1,15 @@
+{
+  "Id": "558651",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob",
+  "Summary": "Azure Storage Mover now enables direct, secure data\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\nprivate networking. This update removes the need for manual pipelines or\nthird-party tools, supports automation through the ",
+  "Url": "https://azure.microsoft.com/updates?id=558651",
+  "PublishedAt": "2026-03-12T21:15:25Z",
+  "Categories": [
+    "In preview",
+    "Migration",
+    "Storage",
+    "Azure Storage Mover",
+    "Features"
+  ]
+}

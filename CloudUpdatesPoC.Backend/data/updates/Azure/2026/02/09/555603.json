@@ -1,0 +1,15 @@
+{
+  "Id": "555603",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on ",
+  "Summary": "We\u0027re announcing public preview of an AKS managed add-on that simplifies the deployment and lifecycle management of Application Gateway for Containers and its ALB Controller. With the managed AKS add-on, you can enable Application Gateway for Containers w",
+  "Url": "https://azure.microsoft.com/updates?id=555603",
+  "PublishedAt": "2026-02-09T19:45:45Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Security",
+    "Application Gateway",
+    "Features"
+  ]
+}

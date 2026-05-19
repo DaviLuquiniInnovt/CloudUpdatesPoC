@@ -1,0 +1,14 @@
+{
+  "Id": "557406",
+  "Provider": "Azure",
+  "Title": "Retirement: External Data Import \u0026 Data Connections in Azure Machine Learning will be retired on September 30, 2026 ",
+  "Summary": "Import data from external sources (Preview) \u2013 S3, Snowflake, Azure SQL Db along with external Data Connections (Preview) in Azure Machine Learning are being deprecated. These features will no longer be available after September 30, 2026.   What this means",
+  "Url": "https://azure.microsoft.com/updates?id=557406",
+  "PublishedAt": "2026-03-31T20:00:35Z",
+  "Categories": [
+    "AI \u002B machine learning",
+    "Internet of Things",
+    "Azure Machine Learning",
+    "Retirements"
+  ]
+}

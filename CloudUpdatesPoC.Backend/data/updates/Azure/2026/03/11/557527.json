@@ -1,0 +1,15 @@
+{
+  "Id": "557527",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Customer\u2011managed encryption keys now supported on Premium SSD v2 disks for Azure Database for PostgreSQL ",
+  "Summary": "You can now enhance data security for your Azure Database\nfor PostgreSQL workloads by\nusing customer managed keys (CMKs) with Premium SSD\nv2 disks. Available in public preview, this update gives\nyou greater control over how your data at rest is encrypted,",
+  "Url": "https://azure.microsoft.com/updates?id=557527",
+  "PublishedAt": "2026-03-11T18:00:35Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

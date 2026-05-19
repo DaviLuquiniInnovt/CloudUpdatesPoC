@@ -1,0 +1,11 @@
+{
+  "Id": "9181e5e61ffc6b72a868a13d7243615e9c01e46a",
+  "Provider": "AWS",
+  "Title": "Amazon EVS enables support for 32 hosts per environment  ",
+  "Summary": "\u003Cp\u003EToday, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports up to 32\u0026nbsp;ESXi\u0026nbsp;hosts per environment, double the\u0026nbsp;previous\u0026nbsp;limit of 16 hosts.\u003C/p\u003E \n\u003Cp\u003EAmazon EVS gives you flexibility in how you configure VMware Cloud Foundation (VCF) domains and clusters within an environment. You can put all your hosts into a single large cluster, spread them across several smaller clusters, or any combination that fits your needs. With this release, you can now\u0026nbsp;submit\u0026nbsp;a service quota increase to\u0026nbsp;scale up to a total of 32 hosts and\u0026nbsp;reduce the operational overhead of managing multiple environments.\u003C/p\u003E \n\u003Cp\u003EThis latest release is available in all regions where Amazon EVS\u0026nbsp;is\u0026nbsp;offered.\u003C/p\u003E \n\u003Cp\u003EFor more details\u0026nbsp;on the steps and procedure, visit the Amazon EVS\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/evs/\u0022\u003Eproduct detail page\u003C/a\u003E\u0026nbsp;and\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/evs/latest/userguide/what-is-evs.html\u0022\u003Euser guide.\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
+  "PublishedAt": "2026-05-18T17:55:00Z",
+  "Categories": [
+    "marketing:marchitecture/compute,marketing:marchitecture/migration"
+  ]
+}

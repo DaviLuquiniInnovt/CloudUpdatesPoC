@@ -1,0 +1,14 @@
+{
+  "Id": "558086",
+  "Provider": "Azure",
+  "Title": "Retirement: Azure SQL Elastic query - Shard_Map_Manager mode",
+  "Summary": "Starting March 31, 2027 Elastic query using Shard_Map_Manager external data source type reaches end of support.Existing workloads can continue to run using Azure SQL Elastic query - Shard_Map_Manager mode, but will no longer receive updates or support fro",
+  "Url": "https://azure.microsoft.com/updates?id=558086",
+  "PublishedAt": "2026-03-20T19:00:50Z",
+  "Categories": [
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Retirements"
+  ]
+}

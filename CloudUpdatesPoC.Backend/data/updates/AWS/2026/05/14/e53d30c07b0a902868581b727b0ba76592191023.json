@@ -1,0 +1,11 @@
+{
+  "Id": "e53d30c07b0a902868581b727b0ba76592191023",
+  "Provider": "AWS",
+  "Title": "Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer)",
+  "Summary": "\u003Cp\u003EAmazon CloudFront now supports Online Certificate Status Protocol (OCSP) revocation checking for viewer mTLS, enabling you to validate client certificate revocation status in real time during connection establishment. This enables customers using mutual TLS (mTLS) on CloudFront\u0026nbsp; to verify that client certificates haven\u0027t been revoked before accepting connections\u2014a common requirement for regulated industries and zero-trust architectures.\u003C/p\u003E \n\u003Cp\u003EPreviously, customers implemented certificate revocation using CloudFront Functions and KeyValueStore, maintaining static revocation lists that were only as current as the last manual update. With OCSP, CloudFront queries the responder URL embedded in the client certificate at connection time, validating revocation status directly with the issuing Certificate Authority. CloudFront caches OCSP responses for up to 30 minutes to minimize latency impact on subsequent connections.\u0026nbsp;The OCSP result is exposed in the connection function, enabling customers to implement custom logic\u2014such as grace periods for certificate rotation, IP-based exceptions, or combining OCSP with their own revocation lists.\u003C/p\u003E \n\u003Cp\u003EOCSP revocation checking for viewer mTLS is available at no additional cost.\u0026nbsp;To learn more, refer to the documentation for\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/mtls-authentication.html\u0022\u003ECloudFront Mutual TLS (Viewer).\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/",
+  "PublishedAt": "2026-05-14T22:30:00Z",
+  "Categories": [
+    "marketing:marchitecture/networking-and-content-delivery,general:products/amazon-cloudfront"
+  ]
+}

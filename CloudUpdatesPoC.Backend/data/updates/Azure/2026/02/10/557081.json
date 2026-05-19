@@ -1,0 +1,15 @@
+{
+  "Id": "557081",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available:  Azure Databricks Supervisor Agent",
+  "Summary": "Introducing Supervisor Agent, now Generally Available in Azure Databricks. Supervisor Agent is part of the Azure Databricks Agent Bricks Platform. Supervisor Agent brings a breakthrough in agentic intelligence\u2014using a dynamic supervisor pattern that under",
+  "Url": "https://azure.microsoft.com/updates?id=557081",
+  "PublishedAt": "2026-02-10T18:00:43Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

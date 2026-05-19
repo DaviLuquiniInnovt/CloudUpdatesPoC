@@ -1,0 +1,14 @@
+{
+  "Id": "560188",
+  "Provider": "Azure",
+  "Title": "[In preview] Generally Available: Azure NetApp Files advanced ransomware protection ",
+  "Summary": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in GA (General Availability).  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp",
+  "Url": "https://azure.microsoft.com/updates?id=560188",
+  "PublishedAt": "2026-04-21T18:15:14Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

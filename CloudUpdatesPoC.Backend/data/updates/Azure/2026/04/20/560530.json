@@ -1,0 +1,15 @@
+{
+  "Id": "560530",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent ",
+  "Summary": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals. Send telemetry directly from OpenTelemetry-instrumented applications by using the Azure Monitor Agent (AMA) to receive OTLP from your apps and export it to Azure Monitor",
+  "Url": "https://azure.microsoft.com/updates?id=560530",
+  "PublishedAt": "2026-04-20T17:30:53Z",
+  "Categories": [
+    "In preview",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Open Source"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "3a0e0fa06699086e1ab73d24e7a7d1da69a4dc50",
+  "Provider": "AWS",
+  "Title": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
+  "Summary": "\u003Cp\u003EAmazon Connect now supports Default Guides for After Contact Work (ACW), enabling contact center administrators to automatically launch a Step-by-Step Guide when an agent enters the ACW state without any manual work.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003EThis capability helps contact centers standardize post-contact workflows and reduce handle time by ensuring agents are automatically guided through required wrap-up tasks, such as logging disposition codes, updating cases, or completing follow-up actions. By\u0026nbsp;eliminating\u0026nbsp;the need for agents to manually\u0026nbsp;navigate to\u0026nbsp;the correct\u0026nbsp;application\u0026nbsp;during ACW, organizations can improve consistency, reduce errors, and accelerate agent productivity across their contact center operations.\u003C/p\u003E \n\u003Cp\u003E\u0026nbsp;To learn more and get started, visit the Amazon Connect\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/connect/agent-workspace/\u0022\u003Ewebpage\u003C/a\u003E\u0026nbsp;and\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/connect/latest/adminguide/agent-workspace.html\u0022\u003Edocumentation.\u003C/a\u003E\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work",
+  "PublishedAt": "2026-05-08T20:12:00Z",
+  "Categories": [
+    "general:products/amazon-connect"
+  ]
+}

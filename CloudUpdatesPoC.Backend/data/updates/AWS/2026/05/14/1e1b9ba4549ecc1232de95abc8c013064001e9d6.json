@@ -1,0 +1,11 @@
+{
+  "Id": "1e1b9ba4549ecc1232de95abc8c013064001e9d6",
+  "Provider": "AWS",
+  "Title": "Amazon Aurora DSQL now supports change data capture (Preview)",
+  "Summary": "\u003Cp\u003EAmazon Aurora DSQL introduces support for change data capture (CDC) in preview, enabling you to stream real-time database changes directly to Amazon Kinesis Data Streams. This fully managed capability removes the need to build or maintain custom streaming pipelines, making it easier to build event-driven applications, power real-time analytics pipelines, and synchronize data across systems.\u003Cbr\u003E \u003Cbr\u003E Aurora DSQL automatically captures the result of insert, update, and delete operations as change events. You can use these events to synchronize data across microservices, trigger downstream processing with AWS Lambda, or deliver to Amazon S3, Amazon Redshift, and Amazon OpenSearch Service through Amazon Data Firehose for analytics. CDC streaming requires no infrastructure setup and is designed to have zero impact on your database workload, so you can stream changes without affecting database throughput or latency.\u003Cbr\u003E \u003Cbr\u003E CDC streaming in preview is available in all AWS Regions where Aurora DSQL is available. Streams are billed using Distributed Processing Units (DPUs) based on the volume of data captured, with standard Amazon Kinesis Data Streams pricing applying separately.\u0026nbsp;To learn more, read the \u003Ca href=\u0022https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/\u0022\u003Eblog\u003C/a\u003E and see\u003Ca href=\u0022https://docs.aws.amazon.com/aurora-dsql/latest/userguide/cdc-setup.html\u0022\u003E getting started\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/",
+  "PublishedAt": "2026-05-14T18:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/databases"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "502936",
+  "Provider": "Azure",
+  "Title": "Retirement: Prompt Flow in Azure ML and Foundry",
+  "Summary": "Prompt Flow will be retired from Microsoft Foundry and Azure Machine\nLearning on April 20, 2027 and replaced by a single, modern orchestration\nplatform: Microsoft\nAgent Framework. This change unlocks powerful new capabilities,\nincluding a unified, future-",
+  "Url": "https://azure.microsoft.com/updates?id=502936",
+  "PublishedAt": "2026-04-27T16:15:55Z",
+  "Categories": [
+    "Retirements"
+  ]
+}

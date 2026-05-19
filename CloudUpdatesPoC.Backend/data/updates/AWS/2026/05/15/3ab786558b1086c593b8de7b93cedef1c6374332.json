@@ -1,0 +1,11 @@
+{
+  "Id": "3ab786558b1086c593b8de7b93cedef1c6374332",
+  "Provider": "AWS",
+  "Title": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/organizations/\u0022\u003EAWS Organizations\u003C/a\u003E now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or account) has increased from 5 to 10, and the maximum SCP size has increased from 5,120 to 10,240 characters. \u003C/p\u003E \n\u003Cp\u003EWith these higher quotas, you can write SCPs with finer-grained permissions and conditions, and attach more SCPs per node to build more comprehensive security controls across your organization.\u003C/p\u003E \n\u003Cp\u003EThese higher quotas are available in all commercial AWS Regions, the AWS GovCloud (US) Regions, and the China Regions, and are available automatically to all organizations with no action required. To learn more, see quotas for AWS Organizations in the \u003Ca href=\u0022https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html\u0022\u003EAWS Organizations User Guide\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/",
+  "PublishedAt": "2026-05-15T15:00:00Z",
+  "Categories": [
+    "general:products/aws-iam,general:products/aws-organizations,general:products/aws-identity-and-access-management"
+  ]
+}

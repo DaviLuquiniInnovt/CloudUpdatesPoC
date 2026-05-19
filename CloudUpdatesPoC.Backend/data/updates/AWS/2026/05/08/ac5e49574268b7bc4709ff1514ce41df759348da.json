@@ -1,0 +1,11 @@
+{
+  "Id": "ac5e49574268b7bc4709ff1514ce41df759348da",
+  "Provider": "AWS",
+  "Title": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+  "Summary": "\u003Cp\u003EAmazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution, giving you flexible control over where your DNS queries are resolved. This allows you to easily expand Global Resolver coverage as your organization grows or adjust regional deployment to meet compliance requirements.\u003Cbr\u003E \u003Cbr\u003E Global Resolver provides anycast DNS resolution for public internet domains and private Route 53 hosted zones from any location, along with DNS query filtering and centralized logging. With this update, you can dynamically adjust which AWS Regions participate in anycast resolution without recreating your Global Resolver configuration.\u003Cbr\u003E \u003Cbr\u003E This capability is available at no additional cost in all AWS Regions where Route 53 Global Resolver is supported. To get started, see the Route 53 Global Resolver \u003Ca href=\u0022https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/gr-what-is-global-resolver.html\u0022 target=\u0022_blank\u0022\u003Edocumentation\u003C/a\u003E. For regional availability, see the Route 53 Global Resolver Region \u003Ca href=\u0022https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/gr-what-is-global-resolver.html#regions\u0022 target=\u0022_blank\u0022\u003Elist\u003C/a\u003E. For pricing, see Amazon Route 53 \u003Ca href=\u0022https://aws.amazon.com/route53/pricing/\u0022 target=\u0022_blank\u0022\u003Epricing\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/",
+  "PublishedAt": "2026-05-08T17:43:00Z",
+  "Categories": [
+    "marketing:marchitecture/networking-and-content-delivery,general:products/amazon-route-53,marketing:marchitecture/security-identity-and-compliance"
+  ]
+}

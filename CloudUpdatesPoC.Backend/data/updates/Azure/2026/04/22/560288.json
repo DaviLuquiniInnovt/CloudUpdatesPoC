@@ -1,0 +1,15 @@
+{
+  "Id": "560288",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Denmark East  ",
+  "Summary": "You can now\ndeploy Azure Database for PostgreSQL flexible server in the Denmark\nEast Azure region. Learn\nmore.",
+  "Url": "https://azure.microsoft.com/updates?id=560288",
+  "PublishedAt": "2026-04-22T17:45:10Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

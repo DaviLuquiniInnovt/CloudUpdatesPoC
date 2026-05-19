@@ -1,0 +1,15 @@
+{
+  "Id": "557991",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Databricks Lakebase ",
+  "Summary": "Today we\u2019re announcing the General Availability of Azure Databricks Lakebase, a managed PostgreSQL environment with next generation separation of storage and compute for OLTP, providing instant availability, instant clones, and scale-to-zero. Lakebase let",
+  "Url": "https://azure.microsoft.com/updates?id=557991",
+  "PublishedAt": "2026-03-02T19:15:14Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

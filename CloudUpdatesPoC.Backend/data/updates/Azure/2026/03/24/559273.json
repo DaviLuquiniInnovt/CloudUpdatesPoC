@@ -1,0 +1,15 @@
+{
+  "Id": "559273",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Ingest OTLP data into Azure Monitor with the OpenTelemetry Collector",
+  "Summary": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals, enabling you to send telemetry data directly from OpenTelemetry-instrumented applications and platforms to Azure Monitor. You can configure your OpenTelemetry Collector ",
+  "Url": "https://azure.microsoft.com/updates?id=559273",
+  "PublishedAt": "2026-03-24T17:15:45Z",
+  "Categories": [
+    "In preview",
+    "DevOps",
+    "Management and governance",
+    "Azure Monitor",
+    "Open Source"
+  ]
+}

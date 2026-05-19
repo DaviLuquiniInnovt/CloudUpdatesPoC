@@ -1,0 +1,11 @@
+{
+  "Id": "5e77c277baf1ba68c3e31d7f7bdf788e6445b4bf",
+  "Provider": "AWS",
+  "Title": "AWS Client VPN now supports Ubuntu OS version 26.04 LTS ",
+  "Summary": "\u003Cp\u003EAWS Client VPN now supports Linux desktop client with Ubuntu versions 26.04 LTS. You can now run the AWS supplied VPN client on the latest Ubuntu OS versions. AWS Client VPN desktop clients are available free of charge, and can be downloaded\u003Ca href=\u0022https://aws.amazon.com/vpn/client-vpn-download/\u0022\u003E here.\u003C/a\u003E\u003Cbr\u003E \u003Cbr\u003E AWS Client VPN is a managed service that securely connects your remote workforce to AWS or on-premises networks. It supports desktop clients for MacOS, Windows, and Ubuntu-Linux. With this release, CVPN now supports the latest version of Ubuntu client - 26.04 LTS, along with 22.04 and 24.04. It already support Mac OS version Sonoma 14.0,, Sequoia 15.0, and Tahoe 26.0, and Windows 11. Client also supports ARM64 for MacOS and Windows.\u003C/p\u003E \n\u003Cp\u003EThis client version is available in all regions where AWS Client VPN is generally available with no additional cost.\u003Cbr\u003E \u003Cbr\u003E To learn more about Client VPN:\u003Cbr\u003E \u003C/p\u003E \n\u003Cul\u003E \n \u003Cli\u003EVisit the AWS Client VPN \u003Ca href=\u0022https://aws.amazon.com/vpn/\u0022\u003Eproduct page\u003C/a\u003E\u003C/li\u003E \n \u003Cli\u003ERead the AWS Client VPN \u003Ca href=\u0022https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html\u0022\u003Edocumentation\u003C/a\u003E\u003C/li\u003E \n\u003C/ul\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/",
+  "PublishedAt": "2026-05-08T22:39:00Z",
+  "Categories": [
+    "general:products/aws-client-vpn,marketing:marchitecture/networking-and-content-delivery"
+  ]
+}

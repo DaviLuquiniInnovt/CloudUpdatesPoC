@@ -1,0 +1,15 @@
+{
+  "Id": "560939",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Cascading read replicas in Azure Database for PostgreSQL ",
+  "Summary": "Cascading read replicas are\nnow generally available in Azure Database for PostgreSQL, giving you greater\nflexibility to scale read\u2011intensive workloads. You can now create\nread replicas from existing ones, creating up to 30 across two\nlevels of replication",
+  "Url": "https://azure.microsoft.com/updates?id=560939",
+  "PublishedAt": "2026-04-24T16:45:30Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

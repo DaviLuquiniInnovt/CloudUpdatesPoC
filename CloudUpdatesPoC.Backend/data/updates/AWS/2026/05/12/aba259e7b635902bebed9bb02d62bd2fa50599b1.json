@@ -1,0 +1,11 @@
+{
+  "Id": "aba259e7b635902bebed9bb02d62bd2fa50599b1",
+  "Provider": "AWS",
+  "Title": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
+  "Summary": "\u003Cp\u003EAmazon Connect Customer now enables you to embed Cases and Customer Profiles into custom agent applications, helping agents access case details and customer context alongside the tools they already use to resolve issues. Developers can use the Amazon Connect SDK to bring native Connect experiences into custom applications, reducing the need to build and maintain these capabilities from scratch.\u003Cbr\u003E \u003Cbr\u003E The Amazon Connect SDK is available in all AWS Regions where Amazon Connect Customer is available. To learn more and get started, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/agentworkspace/latest/devguide/integrate-aws-managed-apps-streams.html\u0022 target=\u0022_blank\u0022\u003Eadministrator guide\u003C/a\u003E and \u003Ca href=\u0022https://github.com/amazon-connect/AmazonConnectSDK/\u0022 target=\u0022_blank\u0022\u003Edeveloper guide\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/",
+  "PublishedAt": "2026-05-12T16:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/business-productivity,marketing:marchitecture/messaging,general:products/amazon-connect,marketing:marchitecture/contact-center"
+  ]
+}

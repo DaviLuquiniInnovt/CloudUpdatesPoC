@@ -1,0 +1,15 @@
+{
+  "Id": "558183",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Versionless key support for transparent data encryption in Azure SQL Database ",
+  "Summary": "Azure SQL Database now supports versionless keys for transparent data encryption (TDE), giving you a simpler and more reliable way to manage your own encryption keys. You no longer need to reference a specific key version from Azure Key Vault or Managed H",
+  "Url": "https://azure.microsoft.com/updates?id=558183",
+  "PublishedAt": "2026-03-18T17:00:05Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure SQL Database",
+    "Features"
+  ]
+}

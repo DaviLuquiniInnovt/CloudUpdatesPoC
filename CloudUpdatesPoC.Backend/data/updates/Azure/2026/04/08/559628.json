@@ -1,0 +1,15 @@
+{
+  "Id": "559628",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health ",
+  "Summary": "We\u2019re introducing regional level consolidated maintenance notifications for Azure Database for PostgreSQL to simplify how you stay informed about upcoming maintenance. Instead of one notification per server, now you receive a single notification per regio",
+  "Url": "https://azure.microsoft.com/updates?id=559628",
+  "PublishedAt": "2026-04-08T17:45:09Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

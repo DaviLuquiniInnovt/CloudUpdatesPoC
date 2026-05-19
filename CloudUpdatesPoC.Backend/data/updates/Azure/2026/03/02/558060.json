@@ -1,0 +1,15 @@
+{
+  "Id": "558060",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Databricks update workspace network configuration",
+  "Summary": "Azure\nDatabricks workspaces have two network configurations \u2013 Azure\nDatabricks-managed VNet and VNet Injection. The ability to update the Network\nConfiguration of your workspace is now generally available. This enhancement\nprovides greater flexibility and",
+  "Url": "https://azure.microsoft.com/updates?id=558060",
+  "PublishedAt": "2026-03-02T19:15:14Z",
+  "Categories": [
+    "Launched",
+    "AI \u002B machine learning",
+    "Analytics",
+    "Azure Databricks",
+    "Features"
+  ]
+}

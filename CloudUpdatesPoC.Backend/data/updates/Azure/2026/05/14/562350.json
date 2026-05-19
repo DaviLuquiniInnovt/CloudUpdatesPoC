@@ -1,0 +1,18 @@
+{
+  "Id": "562350",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Managed Identity Support for Azure Files SMB Is now GA",
+  "Summary": "Azure Files now supports Managed Identities for SMB\naccess, enabling applications and services to authenticate without storing\nstatic credentials or account keys. This feature aligns with Zero Trust\nprinciples, allowing workloads to use Entra-issued token",
+  "Url": "https://azure.microsoft.com/updates?id=562350",
+  "PublishedAt": "2026-05-14T17:30:02Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure Files",
+    "Features",
+    "Compliance",
+    "Microsoft Build",
+    "Security",
+    "Services"
+  ]
+}

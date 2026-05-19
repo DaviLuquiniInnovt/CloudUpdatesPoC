@@ -1,0 +1,15 @@
+{
+  "Id": "513249",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Logical replication slot sync Status metric for Azure PostgreSQL Flexible Server ",
+  "Summary": "You can now monitor the synchronization status of\nyour logical replication slots in Azure Database for PostgreSQL \u2013 Flexible\nServer using the new logical_replication_slot_sync_status metric, now in\npublic preview. This Azure Monitor metric shows whether e",
+  "Url": "https://azure.microsoft.com/updates?id=513249",
+  "PublishedAt": "2026-04-22T17:45:10Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

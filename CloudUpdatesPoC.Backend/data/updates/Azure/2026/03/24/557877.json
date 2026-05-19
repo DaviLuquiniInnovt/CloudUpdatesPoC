@@ -1,0 +1,16 @@
+{
+  "Id": "557877",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Cross-cluster networking in Azure Kubernetes Fleet Manager",
+  "Summary": "Organizations running applications across multiple\nKubernetes clusters often face challenges with performance, global service\ndiscovery, and observability due to the complexity of distributed microservice\nenvironments. Azure Kubernetes Fleet Manager now p",
+  "Url": "https://azure.microsoft.com/updates?id=557877",
+  "PublishedAt": "2026-03-24T18:30:36Z",
+  "Categories": [
+    "In preview",
+    "Containers",
+    "Compute",
+    "Azure Kubernetes Fleet Manager",
+    "Azure Kubernetes Service (AKS)",
+    "Features"
+  ]
+}

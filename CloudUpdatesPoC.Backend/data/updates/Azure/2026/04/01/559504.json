@@ -1,0 +1,14 @@
+{
+  "Id": "559504",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure NetApp Files storage with cool access enhancement ",
+  "Summary": "QoS update with cool\naccess enabled on Premium and Ultra service levels improves how Azure\nNetApp Files balances performance and cost for mixed hot and cool workloads.\nThroughput automatically adjusts as data moves to cool storage, maintaining hot\u2011tier\npe",
+  "Url": "https://azure.microsoft.com/updates?id=559504",
+  "PublishedAt": "2026-04-01T18:15:44Z",
+  "Categories": [
+    "In preview",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

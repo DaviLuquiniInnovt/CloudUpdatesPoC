@@ -1,0 +1,20 @@
+{
+  "Id": "560358",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
+  "Summary": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor support for Azure Arc-enabled Kubernetes with OpenShift ",
+  "Url": "https://azure.microsoft.com/updates?id=560358",
+  "PublishedAt": "2026-04-23T16:45:55Z",
+  "Categories": [
+    "Launched",
+    "Hybrid \u002B multicloud",
+    "Compute",
+    "Containers",
+    "DevOps",
+    "Management and governance",
+    "Azure Arc",
+    "Azure Kubernetes Service (AKS)",
+    "Azure Monitor",
+    "Features"
+  ]
+}

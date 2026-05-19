@@ -1,0 +1,17 @@
+{
+  "Id": "550519",
+  "Provider": "Azure",
+  "Title": "Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed service for Prometheus",
+  "Summary": "On March 31, 2027 Azure Monitor will be deprecating the sidecar for remote-write of Prometheus metrics to Azure Monitor Workspace. This is as part of our ongoing efforts to improve reliability and reduce complexity.We recommend configuring your self-hoste",
+  "Url": "https://azure.microsoft.com/updates?id=550519",
+  "PublishedAt": "2026-03-30T21:30:50Z",
+  "Categories": [
+    "Compute",
+    "Containers",
+    "DevOps",
+    "Management and governance",
+    "Azure Kubernetes Service (AKS)",
+    "Azure Monitor",
+    "Retirements"
+  ]
+}
