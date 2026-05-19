@@ -1,0 +1,11 @@
+{
+  "Id": "759d00e1640492635b23e757a83cd2b7c79876f6",
+  "Provider": "AWS",
+  "Title": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
+  "Summary": "\u003Cp\u003EAWS Secrets Manager Agent now supports two new capabilities: pre-fetching secrets at startup and assuming an IAM role to retrieve secrets. With pre-fetching, you can specify a list of secrets or a tag value to retrieve and cache at agent\u0026nbsp;startup, reducing application startup latency and\u0026nbsp;optimizing\u0026nbsp;cost through the\u0026nbsp;BatchGetSecretValue\u0026nbsp;API. With IAM role assumption, you can pass a role ARN in your pre-fetch configuration or HTTP requests\u0026nbsp;for secret retrieval. The agent assumes the specified role to retrieve secrets, enabling cross-account secret retrieval by assuming a role in a different account.\u003C/p\u003E \n\u003Cp\u003ETogether, these enhancements strengthen your security posture through role-based secret access and reduce operational overhead by\u0026nbsp;eliminating\u0026nbsp;custom pre-loading logic. For example, a microservice that requires 20 secrets at startup can now pre-fetch them in a single batch operation, cutting startup latency by avoiding sequential\u0026nbsp;GetSecretValue\u0026nbsp;calls. IAM role assumption also simplifies multi-account architectures by enabling you to specify a different IAM role per secret.\u003C/p\u003E \n\u003Cp\u003EAWS Secrets Manager Agent with pre-fetching and IAM role assumption is supported in all AWS Regions where AWS Secrets Manager is offered. To learn more, visit the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/secretsmanager/latest/userguide/secrets-manager-agent.html\u0022\u003EAWS Secrets Manager Agent documentation\u003C/a\u003E.\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/",
+  "PublishedAt": "2026-05-18T07:00:00Z",
+  "Categories": [
+    "general:products/aws-secrets-manager"
+  ]
+}

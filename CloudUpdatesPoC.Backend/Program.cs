@@ -15,7 +15,17 @@ builder.Services.AddScoped<RagService>();
 builder.Services.AddHostedService<UpdateCollectorService>();
 builder.Services.AddHostedService<IndexerService>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(p => p
+        .AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader());
+});
+
 var app = builder.Build();
+
+app.UseCors();
 
 if (app.Environment.IsDevelopment())
 {
