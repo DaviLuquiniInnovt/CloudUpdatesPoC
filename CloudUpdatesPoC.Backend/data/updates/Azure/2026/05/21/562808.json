@@ -1,0 +1,16 @@
+{
+  "Id": "562808",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: TLS/SSL certificate support for Azure Functions Flex Consumption ",
+  "Summary": "Flex Consumption introduces a site-scoped certificate model in\npublic preview in all the regions where Flex Consumption is available. Unlike\nwebspace-scoped certificates on other hosting plans which are shared across\napps in the same region \u002B resource gro",
+  "Url": "https://azure.microsoft.com/updates?id=562808",
+  "PublishedAt": "2026-05-21T18:45:42Z",
+  "Categories": [
+    "In preview",
+    "Compute",
+    "Containers",
+    "Internet of Things",
+    "Azure Functions",
+    "Features"
+  ]
+}

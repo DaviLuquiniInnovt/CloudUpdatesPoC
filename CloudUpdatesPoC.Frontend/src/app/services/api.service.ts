@@ -8,6 +8,7 @@ import {
   QueryRequest,
   QueryResponse,
   StatsResponse,
+  WorkloadProfileSummary,
 } from '../models/api.types';
 
 const API_BASE_URL = 'http://localhost:5267';
@@ -25,6 +26,12 @@ export class ApiService {
   health(): Observable<HealthResponse> {
     return this.http
       .get<HealthResponse>(`${API_BASE_URL}/health`)
+      .pipe(catchError((err: HttpErrorResponse) => throwError(() => toApiError(err))));
+  }
+
+  profiles(): Observable<WorkloadProfileSummary[]> {
+    return this.http
+      .get<WorkloadProfileSummary[]>(`${API_BASE_URL}/profiles`)
       .pipe(catchError((err: HttpErrorResponse) => throwError(() => toApiError(err))));
   }
 

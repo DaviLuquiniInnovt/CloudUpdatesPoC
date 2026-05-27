@@ -1,0 +1,18 @@
+{
+  "Id": "564478",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Virtual Network Manager integration with Virtual WAN ",
+  "Summary": "Azure Virtual Network Manager integration with Virtual WAN is now in public preview, enabling you to use an Azure Virtual WAN hub as the hub in Azure Virtual Network Manager hub-and-spoke connectivity configurations, bringing together Azure Virtual Networ",
+  "Url": "https://azure.microsoft.com/updates?id=564478",
+  "PublishedAt": "2026-05-26T18:00:01Z",
+  "Categories": [
+    "In preview",
+    "Networking",
+    "Virtual WAN",
+    "Azure Virtual Network Manager",
+    "Features",
+    "Management",
+    "Security",
+    "Services"
+  ]
+}

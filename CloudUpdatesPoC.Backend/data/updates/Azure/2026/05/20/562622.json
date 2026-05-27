@@ -1,0 +1,17 @@
+{
+  "Id": "562622",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Schedule one-time or recurring migrations with Azure Storage Mover",
+  "Summary": "Azure Storage Mover now supports built-in job scheduling, giving customers more control over when migrations run and making it easier to automate repeatable data transfers into Azure. Customers can configure jobs to start automatically at a specific date ",
+  "Url": "https://azure.microsoft.com/updates?id=562622",
+  "PublishedAt": "2026-05-20T17:00:39Z",
+  "Categories": [
+    "Launched",
+    "Migration",
+    "Storage",
+    "Azure Storage Mover",
+    "Features",
+    "Management",
+    "Services"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "9f6c12e27a0d41db2c87bf5fcda8da5618842d09",
+  "Provider": "AWS",
+  "Title": "AWS Deadline Cloud now supports browsing job attachments in the monitor",
+  "Summary": "\u003Cp\u003EAWS Deadline Cloud now supports browsing job attachment files directly within the Deadline Cloud monitor. AWS Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-generated graphics and visual effects, for films, television, broadcasting, web content, and design.\u003Cbr\u003E \u003Cbr\u003E The Deadline Cloud job attachments feature simplifies managing input and output files for render jobs by handling uploads and downloads through Amazon S3. Previously, you could download all outputs for a job but couldn\u0027t easily see which specific files were attached as inputs or generated as outputs. With this new browsing capability, you can now view all attached files for a given job directly from the monitor in the browser or desktop application, clearly organized by inputs and outputs. You can also download individual files as needed, making it easy to retrieve specific assets without downloading everything.\u003Cbr\u003E \u003Cbr\u003E For more information, please visit the \u003Ca href=\u0022https://aws.amazon.com/deadline-cloud\u0022\u003EDeadline Cloud product page\u003C/a\u003E and our \u003Ca href=\u0022https://docs.aws.amazon.com/deadline-cloud/latest/userguide/\u0022\u003EAWS Deadline Cloud documentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-deadline-cloud/",
+  "PublishedAt": "2026-05-20T20:28:00Z",
+  "Categories": [
+    "general:products/aws-deadline-cloud,marketing:marchitecture/media-services"
+  ]
+}

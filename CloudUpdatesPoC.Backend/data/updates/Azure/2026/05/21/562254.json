@@ -1,0 +1,14 @@
+{
+  "Id": "562254",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure NetApp Files object REST API ",
+  "Summary": "The\u202FObject REST API (an S3-compatible REST API)\u202Fon Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services, enabling you to use your existing data in new ways. With the Object REST API, you can seamlessly integr",
+  "Url": "https://azure.microsoft.com/updates?id=562254",
+  "PublishedAt": "2026-05-21T21:45:32Z",
+  "Categories": [
+    "Launched",
+    "Storage",
+    "Azure NetApp Files",
+    "Features"
+  ]
+}

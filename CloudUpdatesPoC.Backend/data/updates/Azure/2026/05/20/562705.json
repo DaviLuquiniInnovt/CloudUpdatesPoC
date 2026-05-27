@@ -1,0 +1,15 @@
+{
+  "Id": "562705",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: site-to-site VPN connections with certificate authentication",
+  "Summary": "Azure Site-to-Site VPN with digital certificate\nauthentication provides an alternative to the traditional pre-shared key (PSK)\nmodel by using a certificate-based asymmetric trust model. In this\nconfiguration, Azure and the on-premises VPN device authentic",
+  "Url": "https://azure.microsoft.com/updates?id=562705",
+  "PublishedAt": "2026-05-20T16:45:53Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Security",
+    "VPN Gateway",
+    "Features"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "564689",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Virtual network flow logs connector with Microsoft Sentinel",
+  "Summary": "Azure virtual network flow logs connector with Microsoft Sentinel is now generally available, enabling you to seamlessly export and analyze network traffic data within your security operations workflows. With this integration, you can bring rich, network-",
+  "Url": "https://azure.microsoft.com/updates?id=564689",
+  "PublishedAt": "2026-05-26T16:45:10Z",
+  "Categories": [
+    "Launched",
+    "Management and governance",
+    "Networking",
+    "Network Watcher",
+    "Features"
+  ]
+}

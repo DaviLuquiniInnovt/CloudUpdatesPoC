@@ -1,0 +1,15 @@
+{
+  "Id": "562094",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: SQL Server on Azure VMs in Malaysia West, Indonesia Central ",
+  "Summary": "SQL Server on Azure Virtual Machines is now generally available in the Malaysia West and Indonesia Central Azure regions. With this regional expansion, you can deploy and manage SQL Server workloads closer to your users while helping meet data residency r",
+  "Url": "https://azure.microsoft.com/updates?id=562094",
+  "PublishedAt": "2026-05-20T23:15:14Z",
+  "Categories": [
+    "Launched",
+    "Compute",
+    "Databases",
+    "SQL Server on Azure Virtual Machines",
+    "Features"
+  ]
+}

@@ -10,7 +10,36 @@ export interface HealthResponse {
   time: string;
 }
 
+export interface ProfileCostItem {
+  service: string;
+  monthlyUsd: number;
+  percentOfTotal: number;
+  notes: string;
+}
+
+export interface WorkloadProfileSnapshot {
+  companyName: string;
+  industry: string;
+  monthlySpendUsd: number;
+  monthlyBudgetUsd: number;
+  budgetUtilizationPercent: number;
+  accountLabels: string[];
+  primaryRegions: string[];
+  topCostServices: ProfileCostItem[];
+  inventoryHighlights: string[];
+  complianceFrameworks: string[];
+}
+
+export interface WorkloadProfileSummary {
+  id: string;
+  name: string;
+  description: string;
+  services: string[];
+  snapshot: WorkloadProfileSnapshot;
+}
+
 export interface QueryRequest {
+  profileId?: string;
   services: string[];
   question: string;
 }

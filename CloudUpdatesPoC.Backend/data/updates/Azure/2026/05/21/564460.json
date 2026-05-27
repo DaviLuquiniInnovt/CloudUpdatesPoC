@@ -1,0 +1,15 @@
+{
+  "Id": "564460",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: User Groups and IP address pools for P2S connections",
+  "Summary": "User Groups and IP Address Pools for Point-to-Site\nconnections in VPN Gateway enable customers to assign distinct IP address pools\nto remote users based on their credentials. With this capability, customers can organize remote users\ninto separate groups a",
+  "Url": "https://azure.microsoft.com/updates?id=564460",
+  "PublishedAt": "2026-05-21T18:45:42Z",
+  "Categories": [
+    "Launched",
+    "Networking",
+    "Security",
+    "VPN Gateway",
+    "Feature"
+  ]
+}

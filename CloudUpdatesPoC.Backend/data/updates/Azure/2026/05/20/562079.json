@@ -1,0 +1,15 @@
+{
+  "Id": "562079",
+  "Provider": "Azure",
+  "Title": "[In preview] Update: Microsoft Entra ID token refresh support for Python, .NET, and JavaScript in Azure Database for PostgreSQL ",
+  "Summary": "You can now take advantage of Microsoft Entra\nID token refresh support in Python, .NET, and JavaScript client\nlibraries to simplify authentication in your applications backed by Azure\nDatabase for PostgreSQL. With this release, your applications can autom",
+  "Url": "https://azure.microsoft.com/updates?id=562079",
+  "PublishedAt": "2026-05-20T23:15:14Z",
+  "Categories": [
+    "In preview",
+    "Databases",
+    "Hybrid \u002B multicloud",
+    "Azure Database for PostgreSQL",
+    "Features"
+  ]
+}

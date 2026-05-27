@@ -1,0 +1,11 @@
+{
+  "Id": "8166910fdbea47cc4b62b6d0c5d36f31327d5502",
+  "Provider": "AWS",
+  "Title": "Amazon ECS now integrates with Amazon EBS volumes in AWS GovCloud Regions",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/ecs/\u0022\u003EAmazon Elastic Container Service\u003C/a\u003E (Amazon ECS) now integrates with Amazon Elastic Block Store (Amazon EBS) volumes in AWS GovCloud Regions. This capability makes it easier for you to deploy storage and data-intensive applications such as ETL jobs, media transcoding, and ML inference workloads using ECS.\u003Cbr\u003E \u003Cbr\u003E To use EBS volumes with your Amazon ECS tasks, simply configure the path you want the EBS volume to be mounted on in your task definition, and pass desired EBS volume attributes (e.g., size, type, IOPS, throughput), AWS Key Management Service (AWS KMS) key, and a snapshot ID (if you want the volume to be initialized from an existing EBS snapshot) in the RunTask, CreateService, or UpdateService API request. When you configure EBS volumes for your Amazon ECS tasks or services, Amazon ECS provisions an equal number of EBS volumes as the number of tasks and mounts one EBS volume to each task. By default, Amazon ECS automatically deletes the attached Amazon EBS volume when a task exits. This integration gives you access to all EBS features including configurable volume types and performance, snapshots, Amazon Data Lifecycle Manager, and encryption for your applications deployed with Amazon ECS.\u003Cbr\u003E \u003Cbr\u003E Amazon ECS support for Amazon EBS volumes is available in the AWS GovCloud Regions for Amazon EC2, AWS Fargate, and ECS Managed Instances. To get started, \u003Ca href=\u0022https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ebs-volumes.html\u0022\u003Eview our documentation\u003C/a\u003E and \u003Ca href=\u0022https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/\u0022\u003Eblog\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/",
+  "PublishedAt": "2026-05-18T15:53:00Z",
+  "Categories": [
+    "general:products/amazon-ecs,marketing:marchitecture/containers,general:products/aws-fargate,general:products/aws-govcloud-us"
+  ]
+}

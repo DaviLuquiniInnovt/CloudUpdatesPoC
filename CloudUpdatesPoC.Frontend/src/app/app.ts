@@ -10,7 +10,13 @@ import {
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 
 import { ApiService } from './services/api.service';
-import { ApiError, QueryRequest, QueryResponse, StatsResponse } from './models/api.types';
+import {
+  ApiError,
+  QueryRequest,
+  QueryResponse,
+  StatsResponse,
+  WorkloadProfileSummary,
+} from './models/api.types';
 import { HeaderComponent } from './components/header/header.component';
 import { QueryFormComponent } from './components/query-form/query-form.component';
 import { AnswerCardComponent } from './components/answer-card/answer-card.component';
@@ -40,8 +46,9 @@ const HEALTH_POLL_INTERVAL_MS = 30_000;
             Quais updates impactam o seu workload?
           </h2>
           <p class="mt-3 text-sm leading-relaxed text-slate-400">
-            Liste os serviços de AWS e Azure que você usa, faça uma pergunta e a PoC analisa os
-            últimos updates publicados nas RSS oficiais para indicar o que importa pra você.
+            Escolha um perfil com dados simulados de conta real (custos, inventário, regiões,
+            compliance). A análise usa esse contexto para impactos financeiros, técnicos e
+            operacionais personalizados — sem suposições genéricas.
           </p>
         </section>
 
@@ -107,6 +114,7 @@ const HEALTH_POLL_INTERVAL_MS = 30_000;
             <app-query-form
               [loading]="queryLoading()"
               [totalIndexed]="stats()?.indexed ?? 0"
+              [profiles]="profiles()"
               (submitQuery)="onSubmit($event)"
             />
 
@@ -176,6 +184,7 @@ export class App implements OnInit {
   protected readonly stats = signal<StatsResponse | null>(null);
   protected readonly statsLoading = signal<boolean>(true);
   protected readonly apiOnline = signal<boolean>(false);
+  protected readonly profiles = signal<WorkloadProfileSummary[]>([]);
 
   protected readonly response = signal<QueryResponse | null>(null);
   protected readonly queryLoading = signal<boolean>(false);
@@ -209,6 +218,7 @@ export class App implements OnInit {
 
   ngOnInit(): void {
     this.loadStats();
+    this.loadProfiles();
     this.pingHealth();
     const interval = setInterval(() => this.pingHealth(), HEALTH_POLL_INTERVAL_MS);
     this.destroyRef.onDestroy(() => clearInterval(interval));
@@ -244,6 +254,16 @@ export class App implements OnInit {
 
   protected clearError(): void {
     this.queryError.set(null);
+  }
+
+  private loadProfiles(): void {
+    this.api
+      .profiles()
+      .pipe(takeUntilDestroyed(this.destroyRef))
+      .subscribe({
+        next: (list) => this.profiles.set(list),
+        error: () => this.profiles.set([]),
+      });
   }
 
   private loadStats(): void {

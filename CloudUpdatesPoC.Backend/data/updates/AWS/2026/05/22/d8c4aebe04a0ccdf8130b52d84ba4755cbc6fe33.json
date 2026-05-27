@@ -1,0 +1,11 @@
+{
+  "Id": "d8c4aebe04a0ccdf8130b52d84ba4755cbc6fe33",
+  "Provider": "AWS",
+  "Title": "AWS Security Agent adds verification scripts for pentest findings",
+  "Summary": "\u003Cp\u003E\u003Ca href=\u0022https://aws.amazon.com/security-agent/\u0022\u003EAWS Security Agent\u003C/a\u003E now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vulnerabilities.\u003Cbr\u003E \u003Cbr\u003E Previously, teams manually followed reproduction steps from finding details. Now, AWS Security Agent automatically generates ready-to-run scripts for each confirmed finding. Teams download the script, configure environment variables, and execute it against their target system to verify the vulnerability, streamlining triage and accelerating remediation.\u003Cbr\u003E \u003Cbr\u003E Verification scripts include setup instructions, documented environment variables, and redacted sensitive values. Available in all AWS Regions where AWS Security Agent is supported.\u003Cbr\u003E \u003Cbr\u003E To get started, run a penetration test, navigate to findings, and expand the Verification Script section. To learn more, see \u003Ca href=\u0022https://docs.aws.amazon.com/securityagent/latest/userguide/review-penetration-findings.html\u0022\u003EReview findings\u003C/a\u003E from a penetration test in the AWS Security Agent User Guide.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/",
+  "PublishedAt": "2026-05-22T17:21:00Z",
+  "Categories": [
+    null
+  ]
+}

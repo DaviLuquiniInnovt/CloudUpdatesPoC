@@ -1,0 +1,12 @@
+{
+  "Id": "562970",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Azure Event Grid Subscription Identifiers",
+  "Summary": "Gain more flexibility in message handling with Subscription Identifiers by enabling subscribers to identify which subscription triggered delivery,\n     helping streamline client-side processing in more advanced MQTT\n     scenarios.  Together, these enhanc",
+  "Url": "https://azure.microsoft.com/updates?id=562970",
+  "PublishedAt": "2026-05-20T15:15:40Z",
+  "Categories": [
+    "In preview",
+    "Features"
+  ]
+}

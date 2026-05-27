@@ -1,0 +1,11 @@
+{
+  "Id": "f782f9eec2f00f9ec2714e5384b5224fad57a552",
+  "Provider": "AWS",
+  "Title": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
+  "Summary": "\u003Cp\u003EAmazon SageMaker Unified Studio now supports automatic creation of connections for Glue job retries across subnets to improve data pipeline resilience. This helps organizations running business-critical data pipelines reduce unplanned downtime and meet their SLAs \u2014 without requiring engineers to manually configure backup connectors or intervene during subnet failures.\u003C/p\u003E \n\u003Cp\u003EWith this launch, SageMaker Unified Studio automates the provisioning of Glue connectors across subnets defined in the domain VPC configuration. Administrators can define their domain VPC with multiple private subnets across availability zones, and the system provisions the connectors needed for all new projects so that failed jobs can be retried on an alternate subnet automatically. If a Glue job fails because the primary subnet is unavailable due to IP address exhaustion or availability zone degradation, the job can be retried on a connector in a different subnet. No user action is needed beyond the initial VPC configuration on the domain.\u003C/p\u003E \n\u003Cp\u003EThis feature is available in all \u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/supported-regions.html\u0022\u003EAWS Regions where Amazon SageMaker Unified Studio\u003C/a\u003E is available. To learn more, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/what-is-sagemaker-unified-studio.html\u0022\u003EAmazon SageMaker Unified Studio documentation\u003C/a\u003E.\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
+  "PublishedAt": "2026-05-21T19:27:00Z",
+  "Categories": [
+    "marketing:marchitecture/analytics,general:products/amazon-sagemaker"
+  ]
+}

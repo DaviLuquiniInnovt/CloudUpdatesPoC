@@ -1,15 +1,17 @@
+import { DecimalPipe } from '@angular/common';
 import {
   ChangeDetectionStrategy,
   Component,
   ElementRef,
   computed,
+  effect,
   input,
   output,
   signal,
   viewChild,
 } from '@angular/core';
 
-import { QueryRequest } from '../../models/api.types';
+import { QueryRequest, WorkloadProfileSummary } from '../../models/api.types';
 
 const SUGGESTIONS: readonly string[] = [
   'Lambda',
@@ -34,6 +36,7 @@ const EXAMPLE_QUESTION = 'O que foi publicado recentemente que pode impactar meu
 @Component({
   selector: 'app-query-form',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [DecimalPipe],
   template: `
     <form
       class="rounded-2xl border border-slate-800/80 bg-slate-900/60 p-6 shadow-xl shadow-black/20 backdrop-blur"
@@ -41,10 +44,91 @@ const EXAMPLE_QUESTION = 'O que foi publicado recentemente que pode impactar meu
       novalidate
     >
       <fieldset class="space-y-2">
+        <label for="profile-select" class="block text-sm font-semibold text-slate-200">
+          Perfil de workload (demo)
+        </label>
+        <select
+          id="profile-select"
+          class="w-full rounded-xl border border-slate-700/70 bg-slate-950/60 px-3 py-2.5 text-sm text-white transition-colors focus:border-indigo-500/60 focus:outline-none focus:ring-2 focus:ring-indigo-500/20"
+          [value]="selectedProfileId() ?? ''"
+          (change)="onProfileChange($event)"
+          [disabled]="profiles().length === 0"
+        >
+          @if (profiles().length === 0) {
+            <option value="">Carregando perfis…</option>
+          } @else {
+            @for (profile of profiles(); track profile.id) {
+              <option [value]="profile.id">{{ profile.name }}</option>
+            }
+          }
+        </select>
+        @if (selectedProfile(); as p) {
+          <p class="text-xs leading-relaxed text-slate-500">{{ p.description }}</p>
+          @if (p.snapshot; as snap) {
+            <div
+              class="mt-3 space-y-3 rounded-xl border border-slate-700/60 bg-slate-950/50 p-4 text-xs text-slate-400"
+            >
+              <div class="flex flex-wrap items-baseline justify-between gap-2">
+                <p class="font-medium text-slate-300">
+                  {{ snap.companyName }}
+                  <span class="font-normal text-slate-500">· {{ snap.industry }}</span>
+                </p>
+                <p class="tabular-nums text-indigo-300/90">
+                  USD {{ formatUsd(snap.monthlySpendUsd) }}/mês
+                  <span class="text-slate-500">
+                    ({{ snap.budgetUtilizationPercent | number: '1.0-1' }}% do budget)
+                  </span>
+                </p>
+              </div>
+
+              @if (snap.accountLabels.length > 0) {
+                <div>
+                  <p class="mb-1 font-medium text-slate-500">Contas</p>
+                  <ul class="space-y-0.5">
+                    @for (acc of snap.accountLabels; track acc) {
+                      <li class="font-mono text-[11px] text-slate-400">{{ acc }}</li>
+                    }
+                  </ul>
+                </div>
+              }
+
+              @if (snap.topCostServices.length > 0) {
+                <div>
+                  <p class="mb-1 font-medium text-slate-500">Maiores custos</p>
+                  <ul class="space-y-1">
+                    @for (cost of snap.topCostServices; track cost.service) {
+                      <li class="flex justify-between gap-2">
+                        <span>{{ cost.service }}</span>
+                        <span class="shrink-0 tabular-nums text-slate-300">
+                          USD {{ formatUsd(cost.monthlyUsd) }}
+                          <span class="text-slate-600">({{ cost.percentOfTotal | number: '1.0-1' }}%)</span>
+                        </span>
+                      </li>
+                    }
+                  </ul>
+                </div>
+              }
+
+              @if (snap.inventoryHighlights.length > 0) {
+                <div>
+                  <p class="mb-1 font-medium text-slate-500">Inventário (amostra)</p>
+                  <ul class="list-inside list-disc space-y-0.5 text-slate-500">
+                    @for (item of snap.inventoryHighlights; track item) {
+                      <li>{{ item }}</li>
+                    }
+                  </ul>
+                </div>
+              }
+            </div>
+          }
+        }
+      </fieldset>
+
+      <fieldset class="mt-6 space-y-2">
         <legend class="text-sm font-semibold text-slate-200">
           Serviços do meu workload
           <span class="ml-1 text-xs font-normal text-slate-500">
-            (Enter ou vírgula para adicionar)
+            (preenchidos pelo perfil; você pode editar — Enter ou vírgula para adicionar)
           </span>
         </legend>
 
@@ -129,7 +213,9 @@ const EXAMPLE_QUESTION = 'O que foi publicado recentemente que pode impactar meu
           } @else {
             <span class="text-slate-400">
               {{ services().length }} {{ services().length === 1 ? 'serviço' : 'serviços' }}
-              selecionados
+              @if (selectedProfile(); as p) {
+                · perfil <span class="text-indigo-300/90">{{ p.name }}</span>
+              }
             </span>
           }
         </p>
@@ -178,14 +264,22 @@ const EXAMPLE_QUESTION = 'O que foi publicado recentemente que pode impactar meu
 export class QueryFormComponent {
   readonly loading = input<boolean>(false);
   readonly totalIndexed = input<number>(0);
+  readonly profiles = input<WorkloadProfileSummary[]>([]);
   readonly submitQuery = output<QueryRequest>();
 
   protected readonly placeholder = EXAMPLE_QUESTION;
   protected readonly services = signal<string[]>([]);
   protected readonly serviceInput = signal('');
   protected readonly question = signal(EXAMPLE_QUESTION);
+  protected readonly selectedProfileId = signal<string | null>(null);
 
   private readonly serviceField = viewChild<ElementRef<HTMLInputElement>>('serviceField');
+
+  protected readonly selectedProfile = computed(() => {
+    const id = this.selectedProfileId();
+    if (!id) return null;
+    return this.profiles().find((p) => p.id === id) ?? null;
+  });
 
   protected readonly suggestionList = computed(() => {
     const lowercaseSelected = new Set(this.services().map((s) => s.toLowerCase()));
@@ -193,8 +287,28 @@ export class QueryFormComponent {
   });
 
   protected readonly canSubmit = computed(
-    () => this.services().length > 0 && !this.loading() && this.question().trim().length > 0,
+    () =>
+      this.services().length > 0 &&
+      !!this.selectedProfileId() &&
+      !this.loading() &&
+      this.question().trim().length > 0,
   );
+
+  constructor() {
+    effect(() => {
+      const list = this.profiles();
+      if (list.length > 0 && !this.selectedProfileId()) {
+        this.applyProfile(list[0].id);
+      }
+    });
+  }
+
+  protected onProfileChange(event: Event): void {
+    const id = (event.target as HTMLSelectElement).value;
+    if (id) {
+      this.applyProfile(id);
+    }
+  }
 
   protected onServiceInput(event: Event): void {
     this.serviceInput.set((event.target as HTMLInputElement).value);
@@ -247,9 +361,25 @@ export class QueryFormComponent {
   protected onSubmit(event: Event): void {
     event.preventDefault();
     if (!this.canSubmit()) return;
+    const profileId = this.selectedProfileId();
     this.submitQuery.emit({
+      profileId: profileId ?? undefined,
       services: [...this.services()],
       question: this.question().trim(),
     });
+  }
+
+  protected formatUsd(value: number): string {
+    if (value >= 1_000) {
+      return `${(value / 1_000).toFixed(1)}k`;
+    }
+    return value.toLocaleString('en-US', { maximumFractionDigits: 0 });
+  }
+
+  private applyProfile(id: string): void {
+    const profile = this.profiles().find((p) => p.id === id);
+    if (!profile) return;
+    this.selectedProfileId.set(id);
+    this.services.set([...profile.services]);
   }
 }

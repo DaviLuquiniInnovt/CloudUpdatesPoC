@@ -1,0 +1,11 @@
+{
+  "Id": "3019a8646183feeebfe12b11d7f68cf3d3a74138",
+  "Provider": "AWS",
+  "Title": "Amazon Managed Grafana now supports dual-stack connectivity (IPv6 and IPv4)",
+  "Summary": "\u003Cp\u003EAmazon Managed Grafana now supports dual-stack connectivity, enabling workspaces to communicate over both Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6). Dual-stack mode is available for\u0026nbsp;workspaces\u0026nbsp;running Grafana version 10.4 or later.\u003C/p\u003E \n\u003Cp\u003EWith dual-stack support, customers can simplify their network stack by\u0026nbsp;eliminating\u0026nbsp;the need to manage overlapping address spaces in their VPCs. Customers migrating to IPv6 can connect to their Grafana workspaces over IPv6 while maintaining IPv4 compatibility, and those not yet on IPv6 can continue using IPv4-only connections. This is especially beneficial as the continued growth of the internet exhausts\u0026nbsp;available\u0026nbsp;IPv4 addresses.\u0026nbsp;\u003C/p\u003E \n\u003Cp\u003ESupport for\u0026nbsp;dual-stack connectivity\u0026nbsp;on Amazon Managed Grafana is available in all\u0026nbsp;\u003Ca href=\u0022https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\u0022\u003Eregions\u003C/a\u003E\u0026nbsp;where the service is\u0026nbsp;generally available.\u0026nbsp;To get started, update your workspace configuration via the Amazon Managed Grafana console, API, or CLI. For more information, see\u0026nbsp;the\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/grafana/latest/userguide/AMG-configure-workspace.html\u0022\u003EAmazon Managed Grafana User Guide\u003C/a\u003E.\u0026nbsp;To learn more about best practices for configuring IPv6 in your environment, visit the whitepaper on\u0026nbsp;\u003Ca href=\u0022https://docs.aws.amazon.com/whitepapers/latest/ipv6-on-aws/internet-protocol-version-6.html\u0022\u003EIPv6 in AWS\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/",
+  "PublishedAt": "2026-05-19T15:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/management-and-governance,general:products/amazon-managed-service-for-grafana"
+  ]
+}

@@ -10,6 +10,7 @@ builder.Services.AddHttpClient<GeminiClient>();
 
 builder.Services.AddSingleton<IUpdateStorage, LocalFileStorage>();
 builder.Services.AddSingleton<VectorStore>();
+builder.Services.AddSingleton<WorkloadProfileCatalog>();
 builder.Services.AddScoped<RagService>();
 
 builder.Services.AddHostedService<UpdateCollectorService>();
@@ -36,6 +37,9 @@ app.UseHttpsRedirection();
 
 app.MapGet("/", () => "Cloud Updates PoC rodando!");
 app.MapGet("/health", () => Results.Ok(new { status = "ok", time = DateTime.UtcNow }));
+
+app.MapGet("/profiles", (WorkloadProfileCatalog catalog) =>
+    Results.Ok(catalog.ListSummaries()));
 
 // Quantos vetores estão indexados (útil para debugar)
 app.MapGet("/stats", (VectorStore store) => Results.Ok(new

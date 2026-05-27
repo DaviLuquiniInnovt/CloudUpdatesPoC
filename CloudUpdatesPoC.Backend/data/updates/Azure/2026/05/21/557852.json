@@ -1,0 +1,20 @@
+{
+  "Id": "557852",
+  "Provider": "Azure",
+  "Title": "Retirement:  TLS 1.0 and TLS 1.1 in Azure App Service, Azure Functions, and Azure Logic Apps",
+  "Summary": "As part of\nAzure\u2019s ongoing security improvements, App Service, Functions, and Logic Apps\nwill no longer accept connections using TLS 1.0 or TLS 1.1 after May 31, 2027.\nAny client, application, or service that continues to use these legacy TLS\nversions wil",
+  "Url": "https://azure.microsoft.com/updates?id=557852",
+  "PublishedAt": "2026-05-21T21:45:32Z",
+  "Categories": [
+    "Compute",
+    "Mobile",
+    "Web",
+    "Containers",
+    "Internet of Things",
+    "Integration",
+    "App Service",
+    "Azure Functions",
+    "Logic Apps",
+    "Retirements"
+  ]
+}

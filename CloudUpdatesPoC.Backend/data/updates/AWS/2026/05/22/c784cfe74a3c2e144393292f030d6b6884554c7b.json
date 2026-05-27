@@ -1,0 +1,11 @@
+{
+  "Id": "c784cfe74a3c2e144393292f030d6b6884554c7b",
+  "Provider": "AWS",
+  "Title": "Amazon SageMaker expands domain management across domain types",
+  "Summary": "\u003Cp\u003EAmazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects, configure workforce identity, manage users and permissions, and set networking properties for projects. Previously, this was only available for IAM based domains.\u003Cbr\u003E \u003Cbr\u003E With this launch, administrators of Identity Center-based domains can access domain management capabilities in SageMaker Unified Studio portal to create projects with configurable execution roles that define which AWS analytics, AI, and ML services the project can access. VPC configuration is consistent across both domain types, inherited by all projects, and can be edited to change the VPC, subnets, or security group. Administrators can also manage associated accounts, enabling users to publish and consume data from other AWS accounts within SageMaker Unified Studio.\u003Cbr\u003E \u003Cbr\u003E These features are available in all \u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/supported-regions.html\u0022\u003EAWS Regions where Amazon SageMaker Unified Studio\u003C/a\u003E is available. To learn more, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/sagemaker-unified-studio/latest/adminguide/access-domain-admin-portal-idc.html\u0022\u003EDomain administration for Identity Center-based domains\u003C/a\u003E.\u0026nbsp;\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/",
+  "PublishedAt": "2026-05-22T19:30:00Z",
+  "Categories": [
+    "marketing:marchitecture/analytics,general:products/amazon-sagemaker"
+  ]
+}

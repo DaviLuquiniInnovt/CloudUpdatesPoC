@@ -1,0 +1,15 @@
+{
+  "Id": "562240",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Event Grid releases for April 2026",
+  "Summary": "Azure Event Grid namespaces are expanding MQTT capabilities\nto help organizations build more connected, scalable, and MQTT V5 standards-based\nreal-time solutions. These updates make it easier to deliver responsive device\nexperiences, simplify backend inte",
+  "Url": "https://azure.microsoft.com/updates?id=562240",
+  "PublishedAt": "2026-05-20T15:15:40Z",
+  "Categories": [
+    "Launched",
+    "Integration",
+    "Internet of Things",
+    "Event Grid",
+    "Features"
+  ]
+}

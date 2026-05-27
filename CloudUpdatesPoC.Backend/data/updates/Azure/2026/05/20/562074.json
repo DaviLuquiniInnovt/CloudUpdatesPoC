@@ -1,0 +1,15 @@
+{
+  "Id": "562074",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB ",
+  "Summary": "You can now build production-ready AI and agent applications faster using the new LangChain and LangGraph integration for Azure Cosmos DB. This Python package enables you to directly use Cosmos DB for vector and hybrid search, semantic caching, chat histo",
+  "Url": "https://azure.microsoft.com/updates?id=562074",
+  "PublishedAt": "2026-05-20T17:15:19Z",
+  "Categories": [
+    "Launched",
+    "Databases",
+    "Internet of Things",
+    "Azure Cosmos DB",
+    "Features"
+  ]
+}

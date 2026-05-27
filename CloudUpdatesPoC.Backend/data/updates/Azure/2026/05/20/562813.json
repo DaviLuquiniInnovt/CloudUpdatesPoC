@@ -1,0 +1,20 @@
+{
+  "Id": "562813",
+  "Provider": "Azure",
+  "Title": "[In preview] Public Preview: Summarized advertised gateway prefixes for route advertisement ",
+  "Summary": "Summarized advertised gateway prefixes for route advertisement is now in public preview, enabling you to define summarized prefixes that Azure gateways, including ExpressRoute and VPN Gateway, advertise to on-premises networks, instead of advertising all ",
+  "Url": "https://azure.microsoft.com/updates?id=562813",
+  "PublishedAt": "2026-05-20T16:45:53Z",
+  "Categories": [
+    "In preview",
+    "Hybrid \u002B multicloud",
+    "Networking",
+    "Security",
+    "Azure ExpressRoute",
+    "Virtual Network",
+    "VPN Gateway",
+    "Features",
+    "Management",
+    "Services"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "aed6be80b8a70cc9cc10aecec0f72fbcf0f8a727",
+  "Provider": "AWS",
+  "Title": "Amazon CloudWatch Logs Insights adds new query commands and functions",
+  "Summary": "\u003Cp\u003EAmazon CloudWatch Logs Insights query language now supports 13 new commands and functions that give you more powerful ways to query, transform, and analyze your logs. Customers analyzing logs in CloudWatch Logs Insights often need to perform string manipulation, encode or decode field values, parse non-JSON log formats, or calculate geographic distances, so they can derive deeper insights from their logs.\u003Cbr\u003E \u003Cbr\u003E With this launch, CloudWatch Logs Insights provides new string and numeric functions (round, startswith, endswith, case, regex_replace, haversine), encoding and decoding functions (urlencode, urldecode, base64encode, base64decode), and new parse and analysis commands (parse logfmt, expand, relevantfields). You can now filter logs by string prefixes, decode Base64 payloads inline, parse logfmt structured logs into fields, expand nested JSON arrays into individual records, calculate distances between coordinates, and automatically surface relevant fields in high-cardinality log groups.\u003Cbr\u003E \u003Cbr\u003E These commands and functions are available today in all commercial AWS Regions. To learn more, see the Amazon CloudWatch Logs \u003Ca href=\u0022https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_AnalyzeLogData_LogsInsights.html\u0022\u003Edocumentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
+  "PublishedAt": "2026-05-21T23:00:00Z",
+  "Categories": [
+    "marketing:marchitecture/management-and-governance,general:products/amazon-cloudwatch,general:products/amazon-cloudwatch-logs"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "fd964371ee960e60ff3d653a248b712eb3db4cb5",
+  "Provider": "AWS",
+  "Title": "AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens",
+  "Summary": "\u003Cp\u003EAWS Secrets Manager now extends its managed external secrets capability to include Datadog Keys and Snowflake Programmatic Access Tokens (PATs). Managed external secrets enable customers to automatically rotate third-party credentials directly from AWS Secrets Manager by offering first-class integration with supported third-party services.\u003C/p\u003E \n\u003Cp\u003EWith this launch, you can manage rotation for three types of Datadog credentials \u2014\u003Ca\u003E\u003C/a\u003E\u003Ca\u003E API keys, Application keys, and admin credential pairs\u003C/a\u003E\u0026nbsp;for service accounts. For Snowflake, you can now rotate Programmatic Access Tokens using Snowflake\u0027s native authentication, with a configurable grace period that allows applications to seamlessly transition to new tokens without interruption.\u003C/p\u003E \n\u003Cp\u003EThese new integrations join existing managed external secrets integrations with BigID, Confluent Cloud, MongoDB Atlas, and Salesforce, enabling customers to manage third-party software vended secrets.\u003C/p\u003E \n\u003Cp\u003EDatadog and Snowflake PAT managed external secrets are available in all AWS Regions where AWS Secrets Manager managed external secrets is supported. To learn more, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/secretsmanager/latest/userguide/managed-external-secrets.html\u0022\u003EAWS Secrets Manager managed external secrets documentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/",
+  "PublishedAt": "2026-05-22T07:00:00Z",
+  "Categories": [
+    "general:products/aws-secrets-manager"
+  ]
+}

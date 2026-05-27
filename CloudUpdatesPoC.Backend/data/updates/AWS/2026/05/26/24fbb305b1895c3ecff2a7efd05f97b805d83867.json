@@ -1,0 +1,11 @@
+{
+  "Id": "24fbb305b1895c3ecff2a7efd05f97b805d83867",
+  "Provider": "AWS",
+  "Title": "Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups",
+  "Summary": "\u003Cp\u003EAmazon GuardDuty Malware Protection for AWS Backup is now available for Amazon S3 continuous backups. You can now scan your S3 continuous backups for malware and identify clean points in time across your entire backup timeline for safe recovery.\u003C/p\u003E \n\u003Cp\u003EYou can enable full or incremental malware scans for S3 continuous backups within your backup plan, and run on-demand scans up to any restorable point in time. You can now query the malware scan status at any point in time within your continuous backup using the new GetPITRMalwareScanResults API, allowing you to verify whether a specific recovery time is clean before initiating a restore.\u003C/p\u003E \n\u003Cp\u003ESupport for S3 continuous backups is available in all AWS Regions where Amazon GuardDuty Malware Protection for AWS Backup is supported. You can get started using the \u003Ca href=\u0022https://console.aws.amazon.com/backup/home\u0022\u003EAWS Backup console\u003C/a\u003E, API, or CLI. To learn more, visit the \u003Ca href=\u0022https://docs.aws.amazon.com/aws-backup/latest/devguide/malware-protection.html\u0022\u003EAWS Backup documentation\u003C/a\u003E and \u003Ca href=\u0022https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html\u0022\u003EAmazon GuardDuty Malware Protection documentation\u003C/a\u003E.\u003C/p\u003E",
+  "Url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous/",
+  "PublishedAt": "2026-05-26T10:00:00Z",
+  "Categories": [
+    "general:products/amazon-guardduty,marketing:marchitecture/storage,marketing:marchitecture/security-identity-and-compliance,general:products/aws-backup"
+  ]
+}

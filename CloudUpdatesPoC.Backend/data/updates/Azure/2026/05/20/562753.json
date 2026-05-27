@@ -1,0 +1,17 @@
+{
+  "Id": "562753",
+  "Provider": "Azure",
+  "Title": "[Launched] Generally Available: Azure Storage Mover Blob-to-Blob migration",
+  "Summary": "Azure Storage Mover now supports Blob container-to-Blob\ncontainer data transfers, enabling customers to move data seamlessly across\nregions, subscriptions, and accounts with a fully managed experience.  Customers can now use Azure Storage Mover to migrate",
+  "Url": "https://azure.microsoft.com/updates?id=562753",
+  "PublishedAt": "2026-05-20T17:00:39Z",
+  "Categories": [
+    "Launched",
+    "Migration",
+    "Storage",
+    "Azure Storage Mover",
+    "Features",
+    "Management",
+    "Services"
+  ]
+}
